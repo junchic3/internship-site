@@ -181,10 +181,23 @@ def fetch_jsearch():
             print(f"JSearch error: {e}")
     return jobs
 
+# Canadian location signals — exclude these
+CANADA_SIGNALS = [
+    "canada", " on", " bc", " qc", " ab", " mb", " sk", " ns", " nb",
+    "ontario", "british columbia", "quebec", "alberta", "manitoba",
+    "toronto", "vancouver", "montreal", "calgary", "ottawa", "edmonton",
+    "winnipeg", "waterloo", "kitchener", "mississauga", "brampton",
+]
+
 # ── Filter & Score ────────────────────────────────────────
 def is_us(loc):
+    if not loc:
+        return True
     l = loc.lower()
-    return (not loc) or any(s.strip() in l for s in US_SIGNALS)
+    # Explicitly exclude Canada first
+    if any(c in l for c in CANADA_SIGNALS):
+        return False
+    return any(s.strip() in l for s in US_SIGNALS)
 
 # Companies to exclude (e.g. already applied / not interested)
 EXCLUDED_COMPANIES = {
