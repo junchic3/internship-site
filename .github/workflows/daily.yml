@@ -1,0 +1,33 @@
+name: Daily Internship Update
+
+on:
+  schedule:
+    - cron: '0 13 * * *'   # 每天 08:00 AM EST (UTC-5 = 13:00 UTC)
+  workflow_dispatch:         # 允许手动点击运行
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run scraper
+        run: python scraper/fetch_jobs.py
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}   # 可选，没有也没关系
+
+      - name: Commit & push updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "data: update internship listings ${{ github.run_id }}"
+          file_pattern: data/jobs.json
