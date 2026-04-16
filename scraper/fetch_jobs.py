@@ -223,41 +223,162 @@ def filter_rank(jobs, n=50):
     return valid[:n]
 
 # ── URL Validation ────────────────────────────────────────
-def check_url(url, timeout=6):
-    """Return True if URL is valid (not 404). Keep jobs with no URL."""
-    if not url:
-        return True
+# Phrases that indicate a job posting is dead (HTTP 200 but content gone)
+DEAD_PHRASES = [
+    "page you are looking for doesn't exist",
+    "page you're looking for doesn't exist",
+    "this job is no longer available",
+    "this position is no longer available",
+    "job listing is no longer",
+    "job posting is no longer",
+    "posting has been removed",
+    "posting has expired",
+    "position has been filled",
+    "no longer accepting applications",
+    "application is closed",
+    "this job has expired",
+    "job has been filled",
+    "requisition is no longer",
+    "this role is no longer",
+    "page not found",
+    "404 not found",
+    "job is closed",
+    "posting is closed",
+    "position is closed",
+]
+
+# ATS platforms that are JS-rendered and cannot be verified via HTTP
+JS_RENDERED_PLATFORMS = [
+    "myworkdayjobs.com",   # Workday
+    "taleo.net",           # Taleo
+    "successfactors.com",  # SAP SuccessFactors
+    "icims.com",           # iCIMS
+    "smartrecruiters.com", # SmartRecruiters
+    "jobvite.com",         # Jobvite
+    "brassring.com",       # BrassRing
+    "oraclecloud.com",     # Oracle HCM
+]
+
+def _check_workday(url, timeout=10):
+    """
+    Workday-specific check via their CXS JSON API.
+    URL pattern: https://[co].wd[N].myworkdayjobs.com/[lang]/[site]/job/[loc]/[title]
+    API  pattern: https://[co].wd[N].myworkdayjobs.com/wday/cxs/[co]/[site]/job/[loc]/[title]
+    Returns True = live, False = dead, None = inconclusive (keep)
+    """
+    import re
+    m = re.match(
+        r"https?://([^.]+)(\.wd\d+\.myworkdayjobs\.com)(?:/[a-z]{2}-[A-Z]{2}|/[a-z]{2})?/([^/]+)/job/(.+)",
+        url,
+    )
+    if not m:
+        return None
+    company, domain, site, rest = m.groups()
+    api_url = f"https://{company}{domain}/wday/cxs/{company}/{site}/job/{rest}"
     try:
-        r = requests.head(
-            url, timeout=timeout, allow_redirects=True,
-            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"},
+        r = requests.get(
+            api_url, timeout=timeout, allow_redirects=True,
+            headers={
+                "User-Agent": "Mozilla/5.0",
+                "Accept": "application/json",
+                "Content-Type": "application/json",
+            },
         )
-        if r.status_code == 405:
-            # HEAD not allowed — try GET with stream to avoid downloading body
-            r = requests.get(
-                url, timeout=timeout, allow_redirects=True, stream=True,
-                headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"},
-            )
-            r.close()
-        return r.status_code != 404
+        if r.status_code == 404:
+            return False
+        if r.status_code == 200:
+            try:
+                data = r.json()
+                # Workday returns jobPostingInfo when valid
+                if "jobPostingInfo" in data or "title" in data:
+                    return True
+                # Error or empty response = dead
+                if "error" in data or not data:
+                    return False
+            except Exception:
+                pass
+        return None  # inconclusive
     except Exception:
-        return True  # Network/timeout error ≠ 404, keep the job
+        return None
+
+def _check_greenhouse(url, timeout=8):
+    """
+    Greenhouse boards: boards.greenhouse.io/[company]/jobs/[id]
+    They return proper 404 when job is gone.
+    """
+    try:
+        r = requests.head(url, timeout=timeout, allow_redirects=True,
+                          headers={"User-Agent": "Mozilla/5.0"})
+        if r.status_code == 404:
+            return False
+        return True
+    except Exception:
+        return None
+
+def check_url(url, timeout=8):
+    """
+    Returns (is_live: bool, is_verified: bool).
+    is_verified=False means we couldn't confirm (JS-rendered platform).
+    """
+    if not url:
+        return True, False
+
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+
+    # ── JS-rendered platforms: cannot verify via HTTP ─────
+    for platform in JS_RENDERED_PLATFORMS:
+        if platform in url:
+            # Try Workday-specific API; others just mark unverified
+            if "myworkdayjobs.com" in url:
+                result = _check_workday(url, timeout)
+                if result is False:
+                    return False, True   # confirmed dead
+            return True, False           # assume live, but unverified
+
+    # ── Greenhouse: proper HTTP 404 ───────────────────────
+    if "greenhouse.io" in url:
+        result = _check_greenhouse(url, timeout)
+        if result is False:
+            return False, True
+        return True, True
+
+    # ── Generic: HTTP status + content check ─────────────
+    try:
+        with requests.get(url, timeout=timeout, allow_redirects=True,
+                          stream=True, headers=headers) as r:
+            if r.status_code == 404:
+                return False, True
+            chunk = b""
+            for block in r.iter_content(chunk_size=2048):
+                chunk += block
+                if len(chunk) >= 20480:
+                    break
+        text = chunk.decode("utf-8", errors="ignore").lower()
+        for phrase in DEAD_PHRASES:
+            if phrase in text:
+                return False, True
+        return True, True
+    except Exception:
+        return True, False   # Network error — keep, unverified
 
 def validate_urls(jobs, max_workers=15):
-    """Parallel URL validation. Filters confirmed 404s, keeps everything else."""
-    print(f"Validating {len(jobs)} URLs (parallel, {max_workers} workers)…")
+    """Parallel URL validation. Filters confirmed dead links, tags unverified ones."""
+    print(f"Validating {len(jobs)} URLs (parallel, {max_workers} workers)...")
     valid = []
     with ThreadPoolExecutor(max_workers=max_workers) as ex:
         future_map = {ex.submit(check_url, j.get("url","")): j for j in jobs}
         for future in as_completed(future_map):
             job = future_map[future]
-            if future.result():
+            is_live, is_verified = future.result()
+            if is_live:
+                job["url_verified"] = is_verified
                 valid.append(job)
             else:
-                print(f"  [404 removed] {job.get('company')} - {job.get('title')}")
-    # Re-sort by score (threading loses order)
+                print(f"  [DEAD removed] {job.get('company')} - {job.get('title')}")
     valid.sort(key=lambda x: x.get("score", 0), reverse=True)
-    print(f"  {len(valid)} valid jobs after URL check")
+    verified   = sum(1 for j in valid if j.get("url_verified"))
+    unverified = len(valid) - verified
+    print(f"  {len(valid)} valid ({verified} verified, {unverified} JS-platform/unverified)")
     return valid
 
 # ── Main ──────────────────────────────────────────────────

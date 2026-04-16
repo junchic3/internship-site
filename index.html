@@ -9,6 +9,8 @@
     body { font-family: 'Segoe UI', system-ui, sans-serif; }
     .badge-cpt  { background:#dcfce7; color:#166534; }
     .badge-may  { background:#fef9c3; color:#854d0e; }
+    .badge-verified   { background:#dbeafe; color:#1e40af; }
+    .badge-unverified { background:#fef3c7; color:#92400e; }
     tr:hover td { background:#eff6ff !important; }
     .apply-btn:hover { background:#1d4ed8; }
     #search-box:focus { outline: 2px solid #2563eb; }
@@ -128,8 +130,8 @@
          target="_blank" class="hover:text-blue-600 transition">LinkedIn 搜索 →</a>
     </div>
     <p class="text-center mt-4">
-      ✓ CPT/OPT = 已知长期赞助商 &nbsp;|&nbsp;
-      ~ 可能支持 = 大公司或 JD 含签证关键词，申请前请自行核实
+      ✓ CPT/OPT = 已知长期赞助商 &nbsp;|&nbsp; ~ 可能支持 = 申请前请自行核实 &nbsp;|&nbsp;
+      ✓ 链接有效 = 已验证可访问 &nbsp;|&nbsp; ⚠️ 请核实 = Workday 等 JS 平台，需点击人工确认
     </p>
     <p class="text-center mt-2">
       数据来源: SimplifyJobs · 每日自动更新 · 为 Junchi Cheng 定制
@@ -172,13 +174,20 @@
         : '<span class="badge-may text-xs px-2 py-0.5 rounded-full font-medium">~ 可能支持</span>';
     }
 
+    function urlBadge(job) {
+      if (!job.url) return '';
+      if (job.url_verified === true)
+        return '<span class="badge-verified text-xs px-2 py-0.5 rounded-full ml-1">✓ 链接有效</span>';
+      return '<span class="badge-unverified text-xs px-2 py-0.5 rounded-full ml-1" title="JS渲染页面，无法自动验证，请点击核实">⚠️ 请核实</span>';
+    }
+
     function applyBtn(job, label='申请 →') {
       if (!job.url) {
         const q = encodeURIComponent(`${job.title} ${job.company}`);
         return `<a href="https://www.linkedin.com/jobs/search/?keywords=${q}&f_JT=I"
                    target="_blank"
                    class="apply-btn bg-blue-600 text-white text-xs px-3 py-1.5 rounded-lg transition inline-block">
-                   ${label}</a>`;
+                   LinkedIn 搜索</a>`;
       }
       return `<a href="${job.url}" target="_blank"
                  class="apply-btn bg-blue-600 text-white text-xs px-3 py-1.5 rounded-lg transition inline-block">
@@ -209,7 +218,7 @@
           <td class="px-4 py-3 text-slate-500 text-xs">📍 ${j.location || '—'}</td>
           <td class="px-4 py-3 text-center">${sponsorBadge(j)}</td>
           <td class="px-4 py-3 text-center text-sm ${scoreColor(j.score)}">${j.score}</td>
-          <td class="px-4 py-3 text-center">${applyBtn(j)}</td>
+          <td class="px-4 py-3 text-center">${applyBtn(j)}<br>${urlBadge(j)}</td>
         </tr>`).join('');
 
       document.getElementById('result-count').textContent =
