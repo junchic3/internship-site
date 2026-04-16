@@ -245,8 +245,8 @@
           rank++;
           const rowBg = ji % 2 === 0 ? '#ffffff' : '#f9fafb';
           html += `
-            <tr style="background:${rowBg}" class="fade-in border-t border-slate-100"
-                style="animation-delay:${delay + ji * 15}ms">
+            <tr style="background:${rowBg};animation-delay:${delay + ji * 15}ms"
+                class="fade-in border-t border-slate-100">
               <td class="pl-8 pr-2 py-2.5 text-slate-400 text-xs w-6">${rank}</td>
               <td class="px-3 py-2.5 text-slate-700">${j.title}</td>
               <td class="px-3 py-2.5 text-slate-500 text-xs">📍 ${j.location || '—'}</td>
