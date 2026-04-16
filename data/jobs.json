@@ -12,18 +12,6 @@
     "url_verified": false
   },
   {
-    "title": "PhD Data Scientist Intern - Data Science",
-    "company": "Stripe",
-    "location": "Toronto, ON, Canada",
-    "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1759458964",
-    "score": 52,
-    "url_verified": true
-  },
-  {
     "title": "Data Scientist Intern - Tiktok Shop User Product Data Science",
     "company": "TikTok",
     "location": "Seattle, WA",
@@ -60,16 +48,16 @@
     "url_verified": true
   },
   {
-    "title": "2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)",
-    "company": "General Motors",
-    "location": "Mountain View, CA, Sunnyvale, CA",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181",
+    "title": "Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning",
+    "company": "Amazon",
+    "location": "Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA",
+    "url": "https://amazon.jobs/en/jobs/3127851/2026-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1764260033",
-    "score": 46,
-    "url_verified": false
+    "date_posted": "1763423108",
+    "score": 49,
+    "url_verified": true
   },
   {
     "title": "General Hire – Machine Learning Engineer Intern - Tiktok-Video Recommendation - 2026 Summer",
@@ -108,6 +96,18 @@
     "url_verified": true
   },
   {
+    "title": "2026 Summer Intern - AI/ML Engineer - AV ML Infrastructure\",\"Master's",
+    "company": "General Motors",
+    "location": "SF, Sunnyvale, CA, Mountain View, CA",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---AV-ML-Infrastructure--Master-s-_JR-202524323",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1765582728",
+    "score": 42,
+    "url_verified": false
+  },
+  {
     "title": "Analytics Engineer Intern - Summer 2026",
     "company": "Netflix",
     "location": "LA, Los Gatos, CA",
@@ -116,18 +116,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1764630467",
-    "score": 42,
-    "url_verified": true
-  },
-  {
-    "title": "Data Science Intern - Advertisement Team - 2026 Summer",
-    "company": "TikTok",
-    "location": "San Jose, CA",
-    "url": "https://lifeattiktok.com/search/7598068289244809525",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1769123847",
     "score": 42,
     "url_verified": true
   },
@@ -156,14 +144,26 @@
     "url_verified": true
   },
   {
-    "title": "PhD Machine Learning Engineer – Intern",
-    "company": "Stripe",
-    "location": "Seattle, WA, SF, NYC",
-    "url": "https://stripe.com/jobs/search?gh_jid=7216664",
+    "title": "Data Science Intern - Advertisement Team - 2026 Summer",
+    "company": "TikTok",
+    "location": "San Jose, CA",
+    "url": "https://lifeattiktok.com/search/7598068289244809525",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1756871701",
+    "date_posted": "1769123847",
+    "score": 42,
+    "url_verified": true
+  },
+  {
+    "title": "AI/ML Intern - Machine Learning Engineer",
+    "company": "Adobe",
+    "location": "San Jose, CA, San Francisco, CA, Waltham, MA, Austin, TX, Lehi, UT, Seattle, WA, New York, NY",
+    "url": "https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1755890866",
     "score": 41,
     "url_verified": true
   },
@@ -192,30 +192,6 @@
     "url_verified": false
   },
   {
-    "title": "Machine Learning Researcher – PhD Intern - US",
-    "company": "Citadel",
-    "location": "NYC",
-    "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1769066239",
-    "score": 41,
-    "url_verified": true
-  },
-  {
-    "title": "AI/ML Intern - Machine Learning Engineer",
-    "company": "Adobe",
-    "location": "San Jose, CA, San Francisco, CA, Waltham, MA, Austin, TX, Lehi, UT, Seattle, WA, New York, NY",
-    "url": "https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1755890866",
-    "score": 41,
-    "url_verified": true
-  },
-  {
     "title": "AI/ML Intern – Machine Learning Engineer Intern",
     "company": "Adobe",
     "location": "San Jose, CA",
@@ -224,30 +200,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1763089062",
-    "score": 41,
-    "url_verified": false
-  },
-  {
-    "title": "Machine Learning Engineer Intern - BS/MS",
-    "company": "TikTok",
-    "location": "San Jose, CA",
-    "url": "https://lifeattiktok.com/search/7547370946877901063",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1757909075",
-    "score": 41,
-    "url_verified": true
-  },
-  {
-    "title": "Machine Learning/AI Scientist Intern",
-    "company": "Netflix",
-    "location": "LA, Los Gatos, CA, NYC",
-    "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Machine-Learning-AI-Scientist-Intern--PhD---2026_JR36511",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1773297673",
     "score": 41,
     "url_verified": false
   },
@@ -264,6 +216,18 @@
     "url_verified": false
   },
   {
+    "title": "Machine Learning/AI Scientist Intern",
+    "company": "Netflix",
+    "location": "LA, Los Gatos, CA, NYC",
+    "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Machine-Learning-AI-Scientist-Intern--PhD---2026_JR36511",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1773297673",
+    "score": 41,
+    "url_verified": false
+  },
+  {
     "title": "Intern - Machine Learning Engineer",
     "company": "Adobe",
     "location": "SF, San Jose, CA",
@@ -276,14 +240,26 @@
     "url_verified": false
   },
   {
-    "title": "Machine Learning Engineer Intern - PhD",
-    "company": "Airbnb",
+    "title": "Machine Learning Intern - Artificial Intelligence and Machine Learning",
+    "company": "Apple",
     "location": "United States",
-    "url": "https://careers.airbnb.com/positions/7669906?gh_jid=7669906",
+    "url": "https://jobs.apple.com/en-us/details/200606469",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1772494980",
+    "date_posted": "1760075032",
+    "score": 41,
+    "url_verified": true
+  },
+  {
+    "title": "Machine Learning Engineer Intern - BS/MS",
+    "company": "TikTok",
+    "location": "San Jose, CA",
+    "url": "https://lifeattiktok.com/search/7547370946877901063",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1757909075",
     "score": 41,
     "url_verified": true
   },
@@ -300,14 +276,14 @@
     "url_verified": true
   },
   {
-    "title": "Research Scientist Intern - Applied Machine Learning-Enterprise - PhD",
-    "company": "ByteDance",
+    "title": "Machine Learning Scientist Intern - Global E-Commerce Content Recommendation",
+    "company": "TikTok",
     "location": "San Jose, CA",
-    "url": "https://jobs.bytedance.com/en/position/7539697151993268488/detail",
+    "url": "https://lifeattiktok.com/search/7623531249253255429",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1756424463",
+    "date_posted": "1775178846",
     "score": 41,
     "url_verified": true
   },
@@ -320,30 +296,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1756263615",
-    "score": 41,
-    "url_verified": true
-  },
-  {
-    "title": "Machine Learning Intern - Artificial Intelligence and Machine Learning",
-    "company": "Apple",
-    "location": "United States",
-    "url": "https://jobs.apple.com/en-us/details/200606469",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1760075032",
-    "score": 41,
-    "url_verified": true
-  },
-  {
-    "title": "Machine Learning Scientist Intern - Global E-Commerce Content Recommendation",
-    "company": "TikTok",
-    "location": "San Jose, CA",
-    "url": "https://lifeattiktok.com/search/7623531249253255429",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1775178846",
     "score": 41,
     "url_verified": true
   },
@@ -372,26 +324,14 @@
     "url_verified": false
   },
   {
-    "title": "PhD Applied Scientist Intern - Oracle Analytics",
-    "company": "Oracle",
-    "location": "Seattle, WA, Pleasanton, CA, NYC, United States",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320800",
+    "title": "Data Analyst Intern",
+    "company": "Lyft",
+    "location": "New York, NY",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8218030002/",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1766185543",
-    "score": 37,
-    "url_verified": false
-  },
-  {
-    "title": "Data Analyst – Intern - Multiple Teams",
-    "company": "Stripe",
-    "location": "Toronto, ON, Canada",
-    "url": "https://stripe.com/jobs/search?gh_jid=7285986",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1759471606",
+    "date_posted": "1762971491",
     "score": 37,
     "url_verified": true
   },
@@ -420,28 +360,16 @@
     "url_verified": false
   },
   {
-    "title": "Data Analyst Intern",
-    "company": "Lyft",
-    "location": "New York, NY",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8218030002/",
+    "title": "Data Analyst – Intern - Multiple Teams",
+    "company": "Stripe",
+    "location": "Toronto, ON, Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=7285986",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1762971491",
+    "date_posted": "1759471606",
     "score": 37,
     "url_verified": true
-  },
-  {
-    "title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
-    "company": "General Motors",
-    "location": "Mountain View, CA, Sunnyvale, CA, San Francisco, CA",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---Cloud---Developer-Infrastructure--Bachelor-s-_JR-202524333",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1765785579",
-    "score": 37,
-    "url_verified": false
   },
   {
     "title": "AI/ML Engineer Intern - Software Engineer",
@@ -456,16 +384,16 @@
     "url_verified": false
   },
   {
-    "title": "Data Engineer Intern",
-    "company": "Microsoft",
-    "location": "Redmond, Washington",
-    "url": "https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw",
+    "title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
+    "company": "General Motors",
+    "location": "Mountain View, CA, Sunnyvale, CA, San Francisco, CA",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---Cloud---Developer-Infrastructure--Bachelor-s-_JR-202524333",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1756303207",
+    "date_posted": "1765785579",
     "score": 37,
-    "url_verified": true
+    "url_verified": false
   },
   {
     "title": "Data Science Intern - Industries",
@@ -476,6 +404,18 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1759740076",
+    "score": 37,
+    "url_verified": true
+  },
+  {
+    "title": "Data Engineer Intern",
+    "company": "Microsoft",
+    "location": "Redmond, Washington",
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1756303207",
     "score": 37,
     "url_verified": true
   },
@@ -516,18 +456,6 @@
     "url_verified": false
   },
   {
-    "title": "J&J Surgery: Data Science Co-op",
-    "company": "Johnson & Johnson",
-    "location": "Cincinnati, OH",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Data-Science-Co-op-Fall-2026_R-061671",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1772672800",
-    "score": 37,
-    "url_verified": false
-  },
-  {
     "title": "Data Engineering Intern",
     "company": "Netflix",
     "location": "LA, Los Gatos, CA",
@@ -548,6 +476,18 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1771689753",
+    "score": 37,
+    "url_verified": false
+  },
+  {
+    "title": "J&J Surgery: Data Science Co-op",
+    "company": "Johnson & Johnson",
+    "location": "Cincinnati, OH",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Data-Science-Co-op-Fall-2026_R-061671",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1772672800",
     "score": 37,
     "url_verified": false
   },
@@ -598,5 +538,65 @@
     "date_posted": "1764157431",
     "score": 37,
     "url_verified": true
+  },
+  {
+    "title": "Efficient ML Engineer Research Intern - AI Platform",
+    "company": "TikTok",
+    "location": "San Jose, CA",
+    "url": "https://lifeattiktok.com/search/7621663697945200949",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1775869917",
+    "score": 37,
+    "url_verified": true
+  },
+  {
+    "title": "Data Engineer - E-commerce - BS/MS",
+    "company": "TikTok",
+    "location": "San Jose, CA",
+    "url": "https://lifeattiktok.com/search/7534817408415861000",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1762544580",
+    "score": 37,
+    "url_verified": true
+  },
+  {
+    "title": "Benefits Operation Data Analyst Project Intern",
+    "company": "ByteDance",
+    "location": "San Jose, CA",
+    "url": "https://jobs.bytedance.com/en/position/7605524889478842677/detail",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1770979133",
+    "score": 37,
+    "url_verified": true
+  },
+  {
+    "title": "Intern Data Scientist - AI and Business Analytics",
+    "company": "Coherent",
+    "location": "Santa Clara, CA",
+    "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011282",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1773439817",
+    "score": 36,
+    "url_verified": false
+  },
+  {
+    "title": "Machine Learning/Data Science Intern",
+    "company": "Bloom Energy",
+    "location": "San Jose, CA",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Machine-Learning-Data-Science-Intern_JR-21728",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1771370998",
+    "score": 36,
+    "url_verified": false
   }
 ]

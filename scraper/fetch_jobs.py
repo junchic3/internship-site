@@ -186,6 +186,15 @@ def is_us(loc):
     l = loc.lower()
     return (not loc) or any(s.strip() in l for s in US_SIGNALS)
 
+# Title keywords that indicate a PhD-only or overly senior position
+PHD_EXCLUDE = [
+    "phd", "ph.d", "ph d", "doctoral", "postdoc", "post-doc",
+    "research scientist",   # almost always requires PhD
+    "principal scientist",
+    "staff scientist",
+    "- phd",  "phd -", "(phd)", "phd)",
+]
+
 def is_relevant(title):
     t = title.lower()
     return any(k in t for k in [
@@ -193,6 +202,11 @@ def is_relevant(title):
         "ai","intelligence","quantitative","quant","statistical",
         "engineer","business","intern","bi",
     ])
+
+def is_not_phd(title):
+    """Return True if the position is NOT PhD-targeted."""
+    t = title.lower()
+    return not any(k in t for k in PHD_EXCLUDE)
 
 def score(job):
     s    = 0
@@ -210,6 +224,7 @@ def score(job):
 def filter_rank(jobs, n=50):
     jobs = [j for j in jobs if is_us(j.get("location",""))]
     jobs = [j for j in jobs if is_relevant(j.get("title",""))]
+    jobs = [j for j in jobs if is_not_phd(j.get("title",""))]
     seen, unique = set(), []
     for j in jobs:
         k = (j["company"].lower()[:20], j["title"].lower()[:20])
