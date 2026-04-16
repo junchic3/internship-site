@@ -186,6 +186,12 @@ def is_us(loc):
     l = loc.lower()
     return (not loc) or any(s.strip() in l for s in US_SIGNALS)
 
+# Companies to exclude (e.g. already applied / not interested)
+EXCLUDED_COMPANIES = {
+    "tiktok",
+    "bytedance",   # TikTok's parent company
+}
+
 # Title keywords that indicate a PhD-only or overly senior position
 PHD_EXCLUDE = [
     "phd", "ph.d", "ph d", "doctoral", "postdoc", "post-doc",
@@ -225,6 +231,7 @@ def filter_rank(jobs, n=50):
     jobs = [j for j in jobs if is_us(j.get("location",""))]
     jobs = [j for j in jobs if is_relevant(j.get("title",""))]
     jobs = [j for j in jobs if is_not_phd(j.get("title",""))]
+    jobs = [j for j in jobs if j.get("company","").lower().strip() not in EXCLUDED_COMPANIES]
     seen, unique = set(), []
     for j in jobs:
         k = (j["company"].lower()[:20], j["title"].lower()[:20])
