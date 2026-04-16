@@ -35,6 +35,7 @@ KNOWN_SPONSORS = {
 EXCLUDED_COMPANIES = {
     "tiktok",
     "bytedance",
+    "token metrics",   # consistently invalid/expired links
 }
 
 # ── User skills for scoring ───────────────────────────────
@@ -77,10 +78,26 @@ CANADA_SIGNALS = [
     "winnipeg","waterloo","kitchener","mississauga","brampton",
 ]
 
+# Non-US locations to exclude (in title or location field)
+INTL_TITLE_SIGNALS = [
+    "europe","london","uk ","united kingdom","germany","berlin",
+    "paris","france","singapore","sydney","australia","india",
+    "ireland","dublin","amsterdam","netherlands","sweden","stockholm",
+]
+
 PHD_EXCLUDE = [
+    # Explicit PhD/doctoral
     "phd","ph.d","ph d","doctoral","postdoc","post-doc",
-    "research scientist","principal scientist","staff scientist",
     "- phd","phd -","(phd)","phd)",
+    "doctor of philosophy",
+    # Master's-only roles (title-level targeting)
+    "master's","master of science","advanced degree",
+    "ms/phd","ms or phd","ms and phd",
+    # Research-heavy / PhD-level roles
+    "research scientist","applied scientist",
+    "applied science intern","applied science internship",  # Amazon Applied Science = PhD
+    "research intern","research engineer",
+    "principal scientist","staff scientist","research fellow",
 ]
 
 # ── Dead-page phrases (content check) ────────────────────
@@ -305,10 +322,37 @@ def score(job):
     if "summer" in text or "2026" in text: s += 5
     return min(s, 100)
 
+def is_valid_data(job):
+    """Reject jobs with bad/corrupted data (e.g. GitHub URL in title field)."""
+    title = job.get("title", "")
+    url   = job.get("url", "")
+    bad   = ["github.com", "raw.githubusercontent.com"]
+    if any(b in url for b in bad):   return False
+    if any(b in title for b in bad): return False
+    if title.startswith("http"):     return False
+    return True
+
+def is_not_wrong_year(title):
+    """Filter out 2025 postings and intern-conversion/FT roles."""
+    t = title.lower()
+    if "2025" in t and "2026" not in t: return False
+    if "intern conversion" in t:        return False
+    if "2025 intern" in t:              return False
+    if "full time" in t or " ft:" in t: return False
+    return True
+
+def is_not_intl(job):
+    """Filter out non-US locations detected in title or location."""
+    text = (job.get("title","") + " " + job.get("location","")).lower()
+    return not any(sig in text for sig in INTL_TITLE_SIGNALS)
+
 def filter_rank(jobs, n=50):
+    jobs = [j for j in jobs if is_valid_data(j)]
     jobs = [j for j in jobs if is_us(j.get("location",""))]
+    jobs = [j for j in jobs if is_not_intl(j)]
     jobs = [j for j in jobs if is_relevant(j.get("title",""))]
     jobs = [j for j in jobs if is_not_phd(j.get("title",""))]
+    jobs = [j for j in jobs if is_not_wrong_year(j.get("title",""))]
     jobs = [j for j in jobs if j.get("company","").lower().strip() not in EXCLUDED_COMPANIES]
     # Deduplicate
     seen, unique = set(), []

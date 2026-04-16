@@ -9,31 +9,8 @@
     "description": "",
     "date_posted": "1761355035",
     "score": 56,
-    "url_verified": false
-  },
-  {
-    "title": "Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning",
-    "company": "Amazon",
-    "location": "Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA",
-    "url": "https://amazon.jobs/en/jobs/3127851/2026-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1763423108",
-    "score": 49,
-    "url_verified": true
-  },
-  {
-    "title": "Research Intern - Machine Learning and Optimization",
-    "company": "Microsoft",
-    "location": "Redmond, WA",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628908",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1765371857",
-    "score": 49,
-    "url_verified": true
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "University – 2026 Summer Games Data Scientist Intern",
@@ -45,7 +22,8 @@
     "description": "",
     "date_posted": "1769123475",
     "score": 42,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Analytics Engineering Intern - Summer 2026",
@@ -57,19 +35,8 @@
     "description": "",
     "date_posted": "1764630707",
     "score": 42,
-    "url_verified": true
-  },
-  {
-    "title": "2026 Summer Intern - AI/ML Engineer - AV ML Infrastructure\",\"Master's",
-    "company": "General Motors",
-    "location": "SF, Sunnyvale, CA, Mountain View, CA",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---AV-ML-Infrastructure--Master-s-_JR-202524323",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1765582728",
-    "score": 42,
-    "url_verified": false
+    "url_verified": true,
+    "is_new": false
   },
   {
     "title": "Analytics Engineer Intern - Summer 2026",
@@ -81,7 +48,8 @@
     "description": "",
     "date_posted": "1764630467",
     "score": 42,
-    "url_verified": true
+    "url_verified": true,
+    "is_new": false
   },
   {
     "title": "Machine Learning Co-op",
@@ -93,55 +61,8 @@
     "description": "",
     "date_posted": "1761354764",
     "score": 41,
-    "url_verified": false
-  },
-  {
-    "title": "Machine Learning Engineer Intern - Master of Science/Doctor of Philosophy",
-    "company": "Netflix",
-    "location": "LA, Los Gatos, CA",
-    "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Machine-Learning-Engineer-Intern---MS-PhD--2026_JR36512-1",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1773297662",
-    "score": 41,
-    "url_verified": false
-  },
-  {
-    "title": "Machine Learning/AI Scientist Intern",
-    "company": "Netflix",
-    "location": "LA, Los Gatos, CA, NYC",
-    "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Machine-Learning-AI-Scientist-Intern--PhD---2026_JR36511",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1773297673",
-    "score": 41,
-    "url_verified": false
-  },
-  {
-    "title": "Intern - Machine Learning Engineer",
-    "company": "Adobe",
-    "location": "SF, San Jose, CA",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Machine-Learning-Engineer_R160621",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1774994971",
-    "score": 41,
-    "url_verified": false
-  },
-  {
-    "title": "AI/ML Intern – Machine Learning Engineer Intern",
-    "company": "Adobe",
-    "location": "San Jose, CA",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160469",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1763089062",
-    "score": 41,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "AI/ML Intern - Machine Learning Engineer",
@@ -153,7 +74,21 @@
     "description": "",
     "date_posted": "1755890866",
     "score": 41,
-    "url_verified": true
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "Machine Learning/AI Scientist Intern",
+    "company": "Netflix",
+    "location": "LA, Los Gatos, CA, NYC",
+    "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Machine-Learning-AI-Scientist-Intern--PhD---2026_JR36511",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1773297673",
+    "score": 41,
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Machine Learning Engineer Intern - AI/ML",
@@ -165,7 +100,34 @@
     "description": "",
     "date_posted": "1758872426",
     "score": 41,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
+  },
+  {
+    "title": "AI/ML Intern – Machine Learning Engineer Intern",
+    "company": "Adobe",
+    "location": "San Jose, CA",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160469",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1763089062",
+    "score": 41,
+    "url_verified": false,
+    "is_new": false
+  },
+  {
+    "title": "Intern - Machine Learning Engineer",
+    "company": "Adobe",
+    "location": "SF, San Jose, CA",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Machine-Learning-Engineer_R160621",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1774994971",
+    "score": 41,
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Machine Learning Intern - Artificial Intelligence and Machine Learning",
@@ -177,67 +139,8 @@
     "description": "",
     "date_posted": "1760075032",
     "score": 41,
-    "url_verified": true
-  },
-  {
-    "title": "Advanced Degree Product Manager - Oracle Health & Analytics",
-    "company": "Oracle",
-    "location": "United States",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/315136",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1763167504",
-    "score": 37,
-    "url_verified": false
-  },
-  {
-    "title": "Data Analyst Intern",
-    "company": "Oracle",
-    "location": "Nashville, TN",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326677",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1770938335",
-    "score": 37,
-    "url_verified": false
-  },
-  {
-    "title": "Cloud Engineering, Data & Analytics - Software Engineering Intern",
-    "company": "PwC",
-    "location": "Rosemont, IL, Atlanta, GA, Minneapolis, MN, Chicago, IL, Washington, DC, Boston, MA, New York, NY, Dallas, TX, Philadelphia, PA, Seattle, WA, Houston, TX",
-    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cloud-Engineering--Data---Analytics----Software-Engineering-Intern---Summer-2026_658438WD",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1756211541",
-    "score": 37,
-    "url_verified": false
-  },
-  {
-    "title": "Sector Data Analyst – Intern - Europe",
-    "company": "Citadel",
-    "location": "London, UK",
-    "url": "https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1761871271",
-    "score": 37,
-    "url_verified": true
-  },
-  {
-    "title": "Data Analyst Intern",
-    "company": "Lyft",
-    "location": "New York, NY",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8218030002/",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1762971491",
-    "score": 37,
-    "url_verified": true
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
@@ -249,7 +152,47 @@
     "description": "",
     "date_posted": "1765785579",
     "score": 37,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
+  },
+  {
+    "title": "Cloud Engineering, Data & Analytics - Software Engineering Intern",
+    "company": "PwC",
+    "location": "Rosemont, IL, Atlanta, GA, Minneapolis, MN, Chicago, IL, Washington, DC, Boston, MA, New York, NY, Dallas, TX, Philadelphia, PA, Seattle, WA, Houston, TX",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cloud-Engineering--Data---Analytics----Software-Engineering-Intern---Summer-2026_658438WD",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1756211541",
+    "score": 37,
+    "url_verified": false,
+    "is_new": false
+  },
+  {
+    "title": "Data Analyst Intern",
+    "company": "Lyft",
+    "location": "New York, NY",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8218030002/",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1762971491",
+    "score": 37,
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "Data Analyst Intern",
+    "company": "Oracle",
+    "location": "Nashville, TN",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326677",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1770938335",
+    "score": 37,
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "AI/ML Engineer Intern - Software Engineer",
@@ -261,7 +204,8 @@
     "description": "",
     "date_posted": "1762473160",
     "score": 37,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Data Engineer Intern",
@@ -273,91 +217,8 @@
     "description": "",
     "date_posted": "1764630468",
     "score": 37,
-    "url_verified": true
-  },
-  {
-    "title": "University Data Engineering Intern",
-    "company": "Booz Allen",
-    "location": "Bedford, IN",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Crane-IN/University--Data-Engineering-Intern_R0234416",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1771889447",
-    "score": 37,
-    "url_verified": false
-  },
-  {
-    "title": "Data Science Intern - Industries",
-    "company": "Oracle",
-    "location": "USA",
-    "url": "https://careers.oracle.com/en/sites/jobsearch/job/309999",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1759740076",
-    "score": 37,
-    "url_verified": true
-  },
-  {
-    "title": "Data Engineering Intern",
-    "company": "Netflix",
-    "location": "LA, Los Gatos, CA",
-    "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Data-Engineering-Intern--Summer-2026_JR37463",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1773297591",
-    "score": 37,
-    "url_verified": false
-  },
-  {
-    "title": "University Data Scientist",
-    "company": "Booz Allen",
-    "location": "McLean, VA",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Data-Scientist_R0233012",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1771689753",
-    "score": 37,
-    "url_verified": false
-  },
-  {
-    "title": "AI Data Analyst Intern",
-    "company": "Booz Allen",
-    "location": "Lexington, MA",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/AI-Data-Analyst-Intern_R0237476",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1775858858",
-    "score": 37,
-    "url_verified": false
-  },
-  {
-    "title": "J&J Surgery: Data Science Co-op",
-    "company": "Johnson & Johnson",
-    "location": "Cincinnati, OH",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Data-Science-Co-op-Fall-2026_R-061671",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1772672800",
-    "score": 37,
-    "url_verified": false
-  },
-  {
-    "title": "ISRM Data & Analytics GEM Fellow",
-    "company": "Johnson & Johnson",
-    "location": "Bridgewater Township, NJ",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/ISRM-2026-Data---Analytics-GEM-Fellow_R-067835",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1776089361",
-    "score": 37,
-    "url_verified": false
+    "url_verified": true,
+    "is_new": false
   },
   {
     "title": "Data Engineer Intern",
@@ -369,7 +230,86 @@
     "description": "",
     "date_posted": "1756303207",
     "score": 37,
-    "url_verified": true
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "University Data Engineering Intern",
+    "company": "Booz Allen",
+    "location": "Bedford, IN",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Crane-IN/University--Data-Engineering-Intern_R0234416",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1771889447",
+    "score": 37,
+    "url_verified": false,
+    "is_new": false
+  },
+  {
+    "title": "Data Science Intern - Industries",
+    "company": "Oracle",
+    "location": "USA",
+    "url": "https://careers.oracle.com/en/sites/jobsearch/job/309999",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1759740076",
+    "score": 37,
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "J&J Surgery: Data Science Co-op",
+    "company": "Johnson & Johnson",
+    "location": "Cincinnati, OH",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Data-Science-Co-op-Fall-2026_R-061671",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1772672800",
+    "score": 37,
+    "url_verified": false,
+    "is_new": false
+  },
+  {
+    "title": "Data Engineering Intern",
+    "company": "Netflix",
+    "location": "LA, Los Gatos, CA",
+    "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Data-Engineering-Intern--Summer-2026_JR37463",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1773297591",
+    "score": 37,
+    "url_verified": false,
+    "is_new": false
+  },
+  {
+    "title": "AI Data Analyst Intern",
+    "company": "Booz Allen",
+    "location": "Lexington, MA",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/AI-Data-Analyst-Intern_R0237476",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1775858858",
+    "score": 37,
+    "url_verified": false,
+    "is_new": false
+  },
+  {
+    "title": "University Data Scientist",
+    "company": "Booz Allen",
+    "location": "McLean, VA",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Data-Scientist_R0233012",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1771689753",
+    "score": 37,
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Hockey Analytics Intern",
@@ -381,7 +321,21 @@
     "description": "",
     "date_posted": "1776290959",
     "score": 37,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
+  },
+  {
+    "title": "ISRM Data & Analytics GEM Fellow",
+    "company": "Johnson & Johnson",
+    "location": "Bridgewater Township, NJ",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/ISRM-2026-Data---Analytics-GEM-Fellow_R-067835",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1776089361",
+    "score": 37,
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Intern Data Scientist - AI and Business Analytics",
@@ -393,7 +347,8 @@
     "description": "",
     "date_posted": "1773439817",
     "score": 36,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Machine Learning/Data Science Intern",
@@ -405,7 +360,8 @@
     "description": "",
     "date_posted": "1771370998",
     "score": 36,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Data Science Co-op",
@@ -417,7 +373,8 @@
     "description": "",
     "date_posted": "1761290531",
     "score": 35,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Data Scientist Co-op",
@@ -429,19 +386,8 @@
     "description": "",
     "date_posted": "1761354848",
     "score": 35,
-    "url_verified": false
-  },
-  {
-    "title": "Data Science Business Intelligence Intern",
-    "company": "Tatari",
-    "location": "LA",
-    "url": "https://job-boards.greenhouse.io/tatari/jobs/8443710002",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1772320998",
-    "score": 35,
-    "url_verified": true
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Data Science Co-op",
@@ -453,7 +399,21 @@
     "description": "",
     "date_posted": "1761354949",
     "score": 35,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
+  },
+  {
+    "title": "Data Science Business Intelligence Intern",
+    "company": "Tatari",
+    "location": "LA",
+    "url": "https://job-boards.greenhouse.io/tatari/jobs/8443710002",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1772320998",
+    "score": 35,
+    "url_verified": true,
+    "is_new": false
   },
   {
     "title": "Data Analyst",
@@ -465,19 +425,8 @@
     "description": "",
     "date_posted": "1774306750",
     "score": 35,
-    "url_verified": false
-  },
-  {
-    "title": "Data Engineer- Data Science Intern, Master's",
-    "company": "LinkedIn",
-    "location": "Mountain View, CA",
-    "url": "https://jobs.smartrecruiters.com/LinkedIn3/aa222455-47c8-492e-a445-5ccbcee7ae9b",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1765905555",
-    "score": 32,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Data Science & Analytics Intern",
@@ -489,7 +438,8 @@
     "description": "",
     "date_posted": "1763666468",
     "score": 32,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "IT Intern – Data Engineer - Data Platforms & Analytics",
@@ -501,7 +451,8 @@
     "description": "",
     "date_posted": "1770736026",
     "score": 32,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Security Analytics Analyst - Data Analyst",
@@ -513,7 +464,8 @@
     "description": "",
     "date_posted": "1775772365",
     "score": 32,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Data Science Intern - Data Science and Analytics",
@@ -525,7 +477,8 @@
     "description": "",
     "date_posted": "1758998285",
     "score": 32,
-    "url_verified": true
+    "url_verified": true,
+    "is_new": false
   },
   {
     "title": "Data Science & Analytics Intern - Ncs - Bcit",
@@ -537,7 +490,8 @@
     "description": "",
     "date_posted": "1775858841",
     "score": 32,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Data Science Intern - Global Data & Analytics",
@@ -549,7 +503,8 @@
     "description": "",
     "date_posted": "1771892584",
     "score": 32,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Intern Advanced Analytics - Data Science & AI",
@@ -561,7 +516,8 @@
     "description": "",
     "date_posted": "1771977530",
     "score": 32,
-    "url_verified": false
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Data Visualization Engineering Intern - Summer 2026",
@@ -573,19 +529,8 @@
     "description": "",
     "date_posted": "1764630481",
     "score": 30,
-    "url_verified": true
-  },
-  {
-    "title": "Research Intern - Model Optimization and HW Acceleration",
-    "company": "Microsoft",
-    "location": "Redmond, WA",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628875",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1765371859",
-    "score": 30,
-    "url_verified": true
+    "url_verified": true,
+    "is_new": false
   },
   {
     "title": "Technology 2026 Summer Internship",
@@ -597,6 +542,111 @@
     "description": "",
     "date_posted": "1756147274",
     "score": 27,
-    "url_verified": true
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "UConn Stamford Digital Technology Center Intern – Summer 2026",
+    "company": "Synchrony",
+    "location": "Stamford, CT, USA",
+    "url": "https://www.synchronycareers.com/job-detail/22491940/uconn-stamford-digital-technology-center-intern-summer-2026-remote/",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1759772609",
+    "score": 27,
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "Software Engineer – Intern - Summer and Winter",
+    "company": "Stripe",
+    "location": "Seattle, WA, SF, NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=7210115",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1756871710",
+    "score": 27,
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "Video Algorithms Intern - Summer 2026",
+    "company": "Netflix",
+    "location": "Los Gatos, CA",
+    "url": "https://explore.jobs.netflix.net/careers/job/790313056868",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1764630472",
+    "score": 27,
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "Campus Undergraduate Summer Internship Program - 2026 Product Management",
+    "company": "American Express",
+    "location": "NYC",
+    "url": "https://aexp.eightfold.ai/careers/job/38754794",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1763055548",
+    "score": 27,
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "Experimentation & Causal Inference Intern - Summer 2026",
+    "company": "Netflix",
+    "location": "LA, Los Gatos, CA",
+    "url": "https://explore.jobs.netflix.net/careers/job/790313056618",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1764630478",
+    "score": 27,
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "JMP 2026 Summer Intern; Machine Learning / LLM / C++",
+    "company": "SAS",
+    "location": "USA",
+    "url": "https://jmp-sas.icims.com/jobs/40428/jmp-2026-summer-intern--machine-learning---llm---c%2b%2b/job?mobile=false&width=796&height=500&bga=true&needsRedirect=false&jan1offset=480&jun1offset=480",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1761603036",
+    "score": 26,
+    "url_verified": false,
+    "is_new": false
+  },
+  {
+    "title": "Business Intelligence Intern - Data Visualization - Business Intelligence",
+    "company": "InterWorks",
+    "location": "Stillwater, OK",
+    "url": "https://job-boards.greenhouse.io/interworks/jobs/4278190006",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1760031561",
+    "score": 23,
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "Commercial UI Software Engineer, Energy Engineering",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/248805",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1756113973",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
   }
 ]

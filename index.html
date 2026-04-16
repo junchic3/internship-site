@@ -16,7 +16,6 @@
     #search-box:focus { outline: 2px solid #2563eb; }
     .fade-in { animation: fadeIn .4s ease; }
     @keyframes fadeIn { from { opacity:0; transform:translateY(8px); } to { opacity:1; } }
-    /* Mobile card view */
     @media(max-width:768px) {
       .desktop-only { display:none; }
       .card-grid { display:grid; gap:12px; }
@@ -93,7 +92,7 @@
     </div>
   </div>
 
-  <!-- ── 🆕 New Jobs Section ── -->
+  <!-- ── 🆕 New Jobs Section (grouped by company) ── -->
   <div class="max-w-5xl mx-auto px-4 mt-4" id="new-jobs-section" style="display:none">
     <div class="bg-emerald-50 border border-emerald-200 rounded-2xl overflow-hidden">
       <div class="px-5 py-3 bg-emerald-100 flex items-center gap-2">
@@ -101,14 +100,16 @@
         <span class="font-bold text-emerald-800">今日新增岗位</span>
         <span class="text-xs text-emerald-600 ml-1" id="new-jobs-count"></span>
       </div>
+      <!-- Desktop -->
       <table class="w-full text-sm desktop-only">
         <tbody id="new-jobs-body"></tbody>
       </table>
+      <!-- Mobile -->
       <div id="new-jobs-cards" class="mobile-only p-3 grid gap-3"></div>
     </div>
   </div>
 
-  <!-- ── Desktop Table ── -->
+  <!-- ── All Jobs (grouped by company) ── -->
   <div class="max-w-5xl mx-auto px-4 mt-4 desktop-only">
     <div class="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden">
       <table class="w-full text-sm">
@@ -123,7 +124,7 @@
           </tr>
         </thead>
         <tbody id="job-table-body">
-          <tr><td colspan="7" class="text-center py-12 text-slate-400">加载中…</td></tr>
+          <tr><td colspan="6" class="text-center py-12 text-slate-400">加载中…</td></tr>
         </tbody>
       </table>
     </div>
@@ -160,67 +161,39 @@
   <script>
     let ALL_JOBS = [];
 
-    // Load data
     fetch('data/jobs.json')
       .then(r => r.json())
       .then(data => {
         ALL_JOBS = data;
         renderStats(data);
+        renderNewJobs(data.filter(j => j.is_new));
         renderTable(data);
         renderCards(data);
       })
       .catch(() => {
         document.getElementById('job-table-body').innerHTML =
-          '<tr><td colspan="7" class="text-center py-12 text-red-400">数据加载失败，请稍后刷新</td></tr>';
+          '<tr><td colspan="6" class="text-center py-12 text-red-400">数据加载失败，请稍后刷新</td></tr>';
       });
 
     function renderStats(jobs) {
-      const newJobs = jobs.filter(j => j.is_new);
-      document.getElementById('st-total').textContent = jobs.length;
-      document.getElementById('st-new').textContent   = newJobs.length;
-      document.getElementById('st-cpt').textContent   = jobs.filter(j => j.is_sponsor).length;
-      document.getElementById('st-score').textContent = jobs.filter(j => j.score >= 40).length;
-      document.getElementById('st-date').textContent  = new Date().toLocaleDateString('zh-CN');
-
-      // Render new jobs section
-      if (newJobs.length > 0) {
-        document.getElementById('new-jobs-section').style.display = '';
-        document.getElementById('new-jobs-count').textContent = `共 ${newJobs.length} 个`;
-        renderNewJobs(newJobs);
-      }
+      document.getElementById('st-total').textContent  = jobs.length;
+      document.getElementById('st-new').textContent    = jobs.filter(j => j.is_new).length;
+      document.getElementById('st-cpt').textContent    = jobs.filter(j => j.is_sponsor).length;
+      document.getElementById('st-score').textContent  = jobs.filter(j => j.score >= 40).length;
+      document.getElementById('st-date').textContent   = new Date().toLocaleDateString('zh-CN');
     }
 
-    function renderNewJobs(jobs) {
-      const tbody = document.getElementById('new-jobs-body');
-      tbody.innerHTML = jobs.map((j, i) => `
-        <tr class="border-t border-emerald-100 fade-in" style="background:${i%2===0?'#f0fdf4':'#ffffff'}">
-          <td class="pl-5 pr-2 py-2 font-bold text-emerald-700 text-xs w-6">${i+1}</td>
-          <td class="px-3 py-2">
-            <div class="font-semibold text-slate-800">${j.company}</div>
-            <div class="text-xs text-blue-600">${j.title}</div>
-          </td>
-          <td class="px-3 py-2 text-slate-500 text-xs">📍 ${j.location||'—'}</td>
-          <td class="px-3 py-2 text-center text-xs text-slate-400">${j.source||''}</td>
-          <td class="px-3 py-2 text-center">${sponsorBadge(j)}</td>
-          <td class="px-3 py-2 text-center text-sm ${scoreColor(j.score)}">${j.score}</td>
-          <td class="px-3 py-2 text-center whitespace-nowrap">${applyBtn(j)}<span class="block mt-0.5">${urlBadge(j)}</span></td>
-        </tr>`).join('');
-
-      const cards = document.getElementById('new-jobs-cards');
-      cards.innerHTML = jobs.map(j => `
-        <div class="bg-white rounded-xl border border-emerald-200 p-3">
-          <div class="flex justify-between gap-2">
-            <div>
-              <div class="font-bold text-slate-800">${j.company}</div>
-              <div class="text-sm text-blue-600">${j.title}</div>
-              <div class="text-xs text-slate-400 mt-0.5">📍 ${j.location||'—'} · ${j.source||''}</div>
-            </div>
-            <div class="text-right shrink-0">${sponsorBadge(j)}<div class="text-xs mt-1 ${scoreColor(j.score)}">分 ${j.score}</div></div>
-          </div>
-          <div class="mt-2">${applyBtn(j,'申请 →')} ${urlBadge(j)}</div>
-        </div>`).join('');
+    // ── Group jobs by company ──────────────────────────────
+    function groupByCompany(jobs) {
+      const map = new Map();
+      jobs.forEach(j => {
+        if (!map.has(j.company)) map.set(j.company, []);
+        map.get(j.company).push(j);
+      });
+      return [...map.entries()].map(([company, list]) => ({ company, jobs: list }));
     }
 
+    // ── Badge helpers ──────────────────────────────────────
     function sponsorBadge(job) {
       return job.is_sponsor
         ? '<span class="badge-cpt text-xs px-2 py-0.5 rounded-full font-medium">✓ CPT/OPT</span>'
@@ -253,16 +226,92 @@
       return 'text-slate-500';
     }
 
-    // Group jobs by company, preserving score order (company rank = best job's score)
-    function groupByCompany(jobs) {
-      const map = new Map();
-      jobs.forEach(j => {
-        if (!map.has(j.company)) map.set(j.company, []);
-        map.get(j.company).push(j);
-      });
-      return [...map.entries()].map(([company, list]) => ({ company, jobs: list }));
+    // ── Company header row (shared) ────────────────────────
+    function companyHeaderRow(company, count, isSpon, hasNew, bgColor, borderColor, textColor, countBg, countText, delay) {
+      return `
+        <tr class="fade-in border-t-2 ${borderColor}" style="animation-delay:${delay}ms;background:${bgColor};">
+          <td colspan="6" class="px-4 py-2">
+            <div class="flex items-center gap-3 flex-wrap">
+              <span class="font-bold ${textColor} text-base">${company}</span>
+              <span class="text-xs ${countBg} ${countText} px-2 py-0.5 rounded-full">
+                ${count} 个职位
+              </span>
+              ${isSpon ? '<span class="badge-cpt text-xs px-2 py-0.5 rounded-full">✓ CPT/OPT</span>' : ''}
+              ${hasNew ? '<span class="text-xs bg-emerald-100 text-emerald-700 px-2 py-0.5 rounded-full">🆕 有新职位</span>' : ''}
+            </div>
+          </td>
+        </tr>`;
     }
 
+    // ── Render new jobs section (grouped by company) ───────
+    function renderNewJobs(newJobs) {
+      if (!newJobs.length) return;
+      document.getElementById('new-jobs-section').style.display = '';
+      document.getElementById('new-jobs-count').textContent = `共 ${newJobs.length} 个`;
+
+      const groups = groupByCompany(newJobs);
+      let rank = 0;
+      let html = '';
+
+      groups.forEach(({ company, jobs: list }, gi) => {
+        const isSpon = list.some(j => j.is_sponsor);
+        const delay  = gi * 30;
+
+        html += companyHeaderRow(
+          company, list.length, isSpon, false,
+          '#d1fae5', 'border-emerald-300', 'text-emerald-900',
+          'bg-emerald-200', 'text-emerald-700', delay
+        );
+
+        list.forEach((j, ji) => {
+          rank++;
+          const rowBg = j.is_new ? '#f0fdf4' : (ji % 2 === 0 ? '#ffffff' : '#f9fafb');
+          html += `
+            <tr style="background:${rowBg};animation-delay:${delay + ji * 15}ms"
+                class="fade-in border-t border-emerald-100">
+              <td class="pl-8 pr-2 py-2.5 text-emerald-600 text-xs w-6">${rank}</td>
+              <td class="px-3 py-2.5 text-slate-700">${j.title}</td>
+              <td class="px-3 py-2.5 text-slate-500 text-xs">📍 ${j.location || '—'}</td>
+              <td class="px-3 py-2.5 text-center">${sponsorBadge(j)}</td>
+              <td class="px-3 py-2.5 text-center text-sm ${scoreColor(j.score)}">${j.score}</td>
+              <td class="px-3 py-2.5 text-center whitespace-nowrap">
+                ${applyBtn(j)}
+                <span class="block mt-0.5">${urlBadge(j)}</span>
+              </td>
+            </tr>`;
+        });
+      });
+
+      document.getElementById('new-jobs-body').innerHTML = html;
+
+      // Mobile cards for new jobs
+      document.getElementById('new-jobs-cards').innerHTML = groups.map(({ company, jobs: list }, gi) => {
+        const isSpon = list.some(j => j.is_sponsor);
+        return `
+          <div class="bg-white rounded-2xl border border-emerald-200 p-4 shadow-sm fade-in"
+               style="animation-delay:${gi*30}ms">
+            <div class="flex items-center gap-2 flex-wrap">
+              <span class="font-bold text-emerald-900">${company}</span>
+              <span class="text-xs bg-emerald-200 text-emerald-700 px-2 py-0.5 rounded-full">${list.length} 职位</span>
+              ${isSpon ? '<span class="badge-cpt text-xs px-2 py-0.5 rounded-full">✓ CPT/OPT</span>' : ''}
+            </div>
+            ${list.map(j => `
+              <div class="mt-2 pt-2 border-t border-emerald-100 flex items-start justify-between gap-2">
+                <div>
+                  <div class="text-sm text-blue-600">${j.title}</div>
+                  <div class="text-xs text-slate-400 mt-0.5">📍 ${j.location || '—'}</div>
+                </div>
+                <div class="flex flex-col items-end gap-1 shrink-0">
+                  ${sponsorBadge(j)}
+                  <span class="${scoreColor(j.score)} text-xs">分 ${j.score}</span>
+                  ${applyBtn(j, '申请 →')} ${urlBadge(j)}
+                </div>
+              </div>`).join('')}
+          </div>`;
+      }).join('');
+    }
+
+    // ── Render all jobs table (grouped by company) ─────────
     function renderTable(jobs) {
       const tbody = document.getElementById('job-table-body');
       if (!jobs.length) {
@@ -276,33 +325,24 @@
       let html = '';
 
       groups.forEach(({ company, jobs: list }, gi) => {
-        const first  = list[0];
         const isSpon = list.some(j => j.is_sponsor);
+        const hasNew = list.some(j => j.is_new);
         const delay  = gi * 30;
 
-        const hasNew = list.some(j => j.is_new);
-        // ── Company header row ──
-        html += `
-          <tr class="fade-in border-t-2 border-slate-200" style="animation-delay:${delay}ms;background:#f8fafc;">
-            <td colspan="6" class="px-4 py-2">
-              <div class="flex items-center gap-3 flex-wrap">
-                <span class="font-bold text-slate-800 text-base">${company}</span>
-                <span class="text-xs bg-blue-100 text-blue-700 px-2 py-0.5 rounded-full">
-                  ${list.length} 个职位
-                </span>
-                ${isSpon ? '<span class="badge-cpt text-xs px-2 py-0.5 rounded-full">✓ CPT/OPT</span>' : ''}
-                ${hasNew ? '<span class="text-xs bg-emerald-100 text-emerald-700 px-2 py-0.5 rounded-full">🆕 有新职位</span>' : ''}
-              </div>
-            </td>
-          </tr>`;
+        html += companyHeaderRow(
+          company, list.length, isSpon, hasNew,
+          '#f8fafc', 'border-slate-200', 'text-slate-800',
+          'bg-blue-100', 'text-blue-700', delay
+        );
 
-        // ── Position rows under this company ──
         list.forEach((j, ji) => {
           rank++;
-          const rowBg = ji % 2 === 0 ? '#ffffff' : '#f9fafb';
-          const newBadge = j.is_new ? '<span class="text-xs bg-emerald-100 text-emerald-700 px-1.5 py-0.5 rounded ml-1">🆕</span>' : '';
+          const rowBg = j.is_new ? '#f0fdf4' : (ji % 2 === 0 ? '#ffffff' : '#f9fafb');
+          const newBadge = j.is_new
+            ? '<span class="text-xs bg-emerald-100 text-emerald-700 px-1.5 py-0.5 rounded ml-1">🆕</span>'
+            : '';
           html += `
-            <tr style="background:${j.is_new ? '#f0fdf4' : rowBg};animation-delay:${delay + ji * 15}ms"
+            <tr style="background:${rowBg};animation-delay:${delay + ji * 15}ms"
                 class="fade-in border-t border-slate-100">
               <td class="pl-8 pr-2 py-2.5 text-slate-400 text-xs w-6">${rank}</td>
               <td class="px-3 py-2.5 text-slate-700">${j.title}${newBadge}</td>
@@ -318,30 +358,15 @@
       });
 
       tbody.innerHTML = html;
-      const coCount = groups.length;
       document.getElementById('result-count').textContent =
-        `${coCount} 家公司 · ${jobs.length} 个职位（共 ${ALL_JOBS.length} 条）`;
+        `${groups.length} 家公司 · ${jobs.length} 个职位（共 ${ALL_JOBS.length} 条）`;
     }
 
+    // ── Render mobile cards (grouped by company) ───────────
     function renderCards(jobs) {
-      const grid   = document.getElementById('card-grid');
       const groups = groupByCompany(jobs);
-
-      grid.innerHTML = groups.map(({ company, jobs: list }, gi) => {
+      document.getElementById('card-grid').innerHTML = groups.map(({ company, jobs: list }, gi) => {
         const isSpon = list.some(j => j.is_sponsor);
-        const posHtml = list.map(j => `
-          <div class="mt-2 pt-2 border-t border-slate-100 flex items-start justify-between gap-2">
-            <div>
-              <div class="text-sm text-blue-600">${j.title}</div>
-              <div class="text-xs text-slate-400 mt-0.5">📍 ${j.location || '—'}</div>
-            </div>
-            <div class="flex flex-col items-end gap-1 shrink-0">
-              <span class="${scoreColor(j.score)} text-xs">分 ${j.score}</span>
-              ${applyBtn(j, '申请')}
-              ${urlBadge(j)}
-            </div>
-          </div>`).join('');
-
         return `
           <div class="bg-white rounded-2xl border border-slate-200 p-4 shadow-sm fade-in"
                style="animation-delay:${gi*30}ms">
@@ -350,11 +375,24 @@
               <span class="text-xs bg-blue-100 text-blue-700 px-2 py-0.5 rounded-full">${list.length} 职位</span>
               ${isSpon ? '<span class="badge-cpt text-xs px-2 py-0.5 rounded-full">✓ CPT/OPT</span>' : ''}
             </div>
-            ${posHtml}
+            ${list.map(j => `
+              <div class="mt-2 pt-2 border-t border-slate-100 flex items-start justify-between gap-2">
+                <div>
+                  <div class="text-sm text-blue-600">${j.title}${j.is_new ? ' 🆕' : ''}</div>
+                  <div class="text-xs text-slate-400 mt-0.5">📍 ${j.location || '—'}</div>
+                </div>
+                <div class="flex flex-col items-end gap-1 shrink-0">
+                  ${sponsorBadge(j)}
+                  <span class="${scoreColor(j.score)} text-xs">分 ${j.score}</span>
+                  ${applyBtn(j, '申请')}
+                  ${urlBadge(j)}
+                </div>
+              </div>`).join('')}
           </div>`;
       }).join('');
     }
 
+    // ── Filters ───────────────────────────────────────────
     function applyFilters() {
       const q    = document.getElementById('search-box').value.toLowerCase();
       const role = document.getElementById('filter-role').value.toLowerCase();

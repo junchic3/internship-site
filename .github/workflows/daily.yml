@@ -19,7 +19,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests python-jobspy
+        run: pip install requests python-jobspy || pip install requests
 
       - name: Run scraper
         run: python scraper/fetch_jobs.py
