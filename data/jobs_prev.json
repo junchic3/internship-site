@@ -9,21 +9,7 @@
     "description": "",
     "date_posted": "1761355035",
     "score": 56,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Data Engineer- Data Science Intern, Master's",
-    "company": "LinkedIn",
-    "location": "Mountain View, CA",
-    "url": "https://jobs.smartrecruiters.com/LinkedIn3/aa222455-47c8-492e-a445-5ccbcee7ae9b",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1765905555",
-    "score": 52,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning",
@@ -35,8 +21,7 @@
     "description": "",
     "date_posted": "1763423108",
     "score": 49,
-    "url_verified": true,
-    "is_new": true
+    "url_verified": true
   },
   {
     "title": "Research Intern - Machine Learning and Optimization",
@@ -48,8 +33,7 @@
     "description": "",
     "date_posted": "1765371857",
     "score": 49,
-    "url_verified": true,
-    "is_new": true
+    "url_verified": true
   },
   {
     "title": "University – 2026 Summer Games Data Scientist Intern",
@@ -61,21 +45,7 @@
     "description": "",
     "date_posted": "1769123475",
     "score": 42,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "2026 Summer Intern - AI/ML Engineer - AV ML Infrastructure\",\"Master's",
-    "company": "General Motors",
-    "location": "SF, Sunnyvale, CA, Mountain View, CA",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---AV-ML-Infrastructure--Master-s-_JR-202524323",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1765582728",
-    "score": 42,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "Analytics Engineering Intern - Summer 2026",
@@ -87,8 +57,19 @@
     "description": "",
     "date_posted": "1764630707",
     "score": 42,
-    "url_verified": true,
-    "is_new": true
+    "url_verified": true
+  },
+  {
+    "title": "2026 Summer Intern - AI/ML Engineer - AV ML Infrastructure\",\"Master's",
+    "company": "General Motors",
+    "location": "SF, Sunnyvale, CA, Mountain View, CA",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---AV-ML-Infrastructure--Master-s-_JR-202524323",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1765582728",
+    "score": 42,
+    "url_verified": false
   },
   {
     "title": "Analytics Engineer Intern - Summer 2026",
@@ -100,8 +81,7 @@
     "description": "",
     "date_posted": "1764630467",
     "score": 42,
-    "url_verified": true,
-    "is_new": true
+    "url_verified": true
   },
   {
     "title": "Machine Learning Co-op",
@@ -113,34 +93,7 @@
     "description": "",
     "date_posted": "1761354764",
     "score": 41,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Machine Learning/AI Scientist Intern",
-    "company": "Netflix",
-    "location": "LA, Los Gatos, CA, NYC",
-    "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Machine-Learning-AI-Scientist-Intern--PhD---2026_JR36511",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1773297673",
-    "score": 41,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Intern - Machine Learning Engineer",
-    "company": "Adobe",
-    "location": "SF, San Jose, CA",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Machine-Learning-Engineer_R160621",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1774994971",
-    "score": 41,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "Machine Learning Engineer Intern - Master of Science/Doctor of Philosophy",
@@ -152,8 +105,31 @@
     "description": "",
     "date_posted": "1773297662",
     "score": 41,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
+  },
+  {
+    "title": "Machine Learning/AI Scientist Intern",
+    "company": "Netflix",
+    "location": "LA, Los Gatos, CA, NYC",
+    "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Machine-Learning-AI-Scientist-Intern--PhD---2026_JR36511",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1773297673",
+    "score": 41,
+    "url_verified": false
+  },
+  {
+    "title": "Intern - Machine Learning Engineer",
+    "company": "Adobe",
+    "location": "SF, San Jose, CA",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Machine-Learning-Engineer_R160621",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1774994971",
+    "score": 41,
+    "url_verified": false
   },
   {
     "title": "AI/ML Intern – Machine Learning Engineer Intern",
@@ -165,21 +141,7 @@
     "description": "",
     "date_posted": "1763089062",
     "score": 41,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Machine Learning Engineer Intern - AI/ML",
-    "company": "Adobe",
-    "location": "Seattle, WA, SF, San Jose, CA",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1758872426",
-    "score": 41,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "AI/ML Intern - Machine Learning Engineer",
@@ -191,8 +153,19 @@
     "description": "",
     "date_posted": "1755890866",
     "score": 41,
-    "url_verified": true,
-    "is_new": true
+    "url_verified": true
+  },
+  {
+    "title": "Machine Learning Engineer Intern - AI/ML",
+    "company": "Adobe",
+    "location": "Seattle, WA, SF, San Jose, CA",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1758872426",
+    "score": 41,
+    "url_verified": false
   },
   {
     "title": "Machine Learning Intern - Artificial Intelligence and Machine Learning",
@@ -204,47 +177,7 @@
     "description": "",
     "date_posted": "1760075032",
     "score": 41,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Cloud Engineering, Data & Analytics - Software Engineering Intern",
-    "company": "PwC",
-    "location": "Rosemont, IL, Atlanta, GA, Minneapolis, MN, Chicago, IL, Washington, DC, Boston, MA, New York, NY, Dallas, TX, Philadelphia, PA, Seattle, WA, Houston, TX",
-    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cloud-Engineering--Data---Analytics----Software-Engineering-Intern---Summer-2026_658438WD",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1756211541",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
-    "company": "General Motors",
-    "location": "Mountain View, CA, Sunnyvale, CA, San Francisco, CA",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---Cloud---Developer-Infrastructure--Bachelor-s-_JR-202524333",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1765785579",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Strategy & Insights- Data Science Intern, Master's",
-    "company": "LinkedIn",
-    "location": "Mountain View, CA",
-    "url": "https://jobs.smartrecruiters.com/LinkedIn3/c09bade2-b299-4574-a51f-9fc711d1c913",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1765905668",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": true
   },
   {
     "title": "Advanced Degree Product Manager - Oracle Health & Analytics",
@@ -256,8 +189,7 @@
     "description": "",
     "date_posted": "1763167504",
     "score": 37,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "Data Analyst Intern",
@@ -269,34 +201,19 @@
     "description": "",
     "date_posted": "1770938335",
     "score": 37,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
-    "title": "Data Science Intern - Industries",
-    "company": "Oracle",
-    "location": "USA",
-    "url": "https://careers.oracle.com/en/sites/jobsearch/job/309999",
+    "title": "Cloud Engineering, Data & Analytics - Software Engineering Intern",
+    "company": "PwC",
+    "location": "Rosemont, IL, Atlanta, GA, Minneapolis, MN, Chicago, IL, Washington, DC, Boston, MA, New York, NY, Dallas, TX, Philadelphia, PA, Seattle, WA, Houston, TX",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cloud-Engineering--Data---Analytics----Software-Engineering-Intern---Summer-2026_658438WD",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1759740076",
+    "date_posted": "1756211541",
     "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Engineer Intern",
-    "company": "Microsoft",
-    "location": "Redmond, Washington",
-    "url": "https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1756303207",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "Sector Data Analyst – Intern - Europe",
@@ -308,8 +225,7 @@
     "description": "",
     "date_posted": "1761871271",
     "score": 37,
-    "url_verified": true,
-    "is_new": true
+    "url_verified": true
   },
   {
     "title": "Data Analyst Intern",
@@ -321,8 +237,19 @@
     "description": "",
     "date_posted": "1762971491",
     "score": 37,
-    "url_verified": true,
-    "is_new": true
+    "url_verified": true
+  },
+  {
+    "title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
+    "company": "General Motors",
+    "location": "Mountain View, CA, Sunnyvale, CA, San Francisco, CA",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---Cloud---Developer-Infrastructure--Bachelor-s-_JR-202524333",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1765785579",
+    "score": 37,
+    "url_verified": false
   },
   {
     "title": "AI/ML Engineer Intern - Software Engineer",
@@ -334,8 +261,7 @@
     "description": "",
     "date_posted": "1762473160",
     "score": 37,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "Data Engineer Intern",
@@ -347,8 +273,7 @@
     "description": "",
     "date_posted": "1764630468",
     "score": 37,
-    "url_verified": true,
-    "is_new": true
+    "url_verified": true
   },
   {
     "title": "University Data Engineering Intern",
@@ -360,21 +285,19 @@
     "description": "",
     "date_posted": "1771889447",
     "score": 37,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
-    "title": "J&J Surgery: Data Science Co-op",
-    "company": "Johnson & Johnson",
-    "location": "Cincinnati, OH",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Data-Science-Co-op-Fall-2026_R-061671",
+    "title": "Data Science Intern - Industries",
+    "company": "Oracle",
+    "location": "USA",
+    "url": "https://careers.oracle.com/en/sites/jobsearch/job/309999",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1772672800",
+    "date_posted": "1759740076",
     "score": 37,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": true
   },
   {
     "title": "Data Engineering Intern",
@@ -386,8 +309,7 @@
     "description": "",
     "date_posted": "1773297591",
     "score": 37,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "University Data Scientist",
@@ -399,8 +321,7 @@
     "description": "",
     "date_posted": "1771689753",
     "score": 37,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "AI Data Analyst Intern",
@@ -412,21 +333,19 @@
     "description": "",
     "date_posted": "1775858858",
     "score": 37,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
-    "title": "Hockey Analytics Intern",
-    "company": "Comcast",
-    "location": "Cherry Hill, NJ",
-    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Voorhees-601-Laurel-Oak-Rd/Hockey-Analytics-Summer-Intern_R435371",
+    "title": "J&J Surgery: Data Science Co-op",
+    "company": "Johnson & Johnson",
+    "location": "Cincinnati, OH",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Data-Science-Co-op-Fall-2026_R-061671",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1776290959",
+    "date_posted": "1772672800",
     "score": 37,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "ISRM Data & Analytics GEM Fellow",
@@ -438,21 +357,31 @@
     "description": "",
     "date_posted": "1776089361",
     "score": 37,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
-    "title": "Crypto Data Scientist / Machine Learning - LLM Engineer Intern",
-    "company": "Token Metrics",
-    "location": "Houston, TX, Remote",
-    "url": "https://jobs.lever.co/tokenmetrics/62b16e29-602d-4f52-ba4b-89c02b6dee41",
+    "title": "Data Engineer Intern",
+    "company": "Microsoft",
+    "location": "Redmond, Washington",
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw",
     "source": "SimplifyJobs",
-    "is_sponsor": false,
+    "is_sponsor": true,
     "description": "",
-    "date_posted": "1760742797",
-    "score": 36,
-    "url_verified": false,
-    "is_new": true
+    "date_posted": "1756303207",
+    "score": 37,
+    "url_verified": true
+  },
+  {
+    "title": "Hockey Analytics Intern",
+    "company": "Comcast",
+    "location": "Cherry Hill, NJ",
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Voorhees-601-Laurel-Oak-Rd/Hockey-Analytics-Summer-Intern_R435371",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1776290959",
+    "score": 37,
+    "url_verified": false
   },
   {
     "title": "Intern Data Scientist - AI and Business Analytics",
@@ -464,8 +393,7 @@
     "description": "",
     "date_posted": "1773439817",
     "score": 36,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "Machine Learning/Data Science Intern",
@@ -477,8 +405,7 @@
     "description": "",
     "date_posted": "1771370998",
     "score": 36,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "Data Science Co-op",
@@ -490,8 +417,7 @@
     "description": "",
     "date_posted": "1761290531",
     "score": 35,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "Data Scientist Co-op",
@@ -503,21 +429,7 @@
     "description": "",
     "date_posted": "1761354848",
     "score": 35,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Data Science Co-op",
-    "company": "Comcast",
-    "location": "Philadelphia, PA",
-    "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Data-Science-Co-op_R421636",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1761354949",
-    "score": 35,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "Data Science Business Intelligence Intern",
@@ -529,8 +441,19 @@
     "description": "",
     "date_posted": "1772320998",
     "score": 35,
-    "url_verified": true,
-    "is_new": true
+    "url_verified": true
+  },
+  {
+    "title": "Data Science Co-op",
+    "company": "Comcast",
+    "location": "Philadelphia, PA",
+    "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Data-Science-Co-op_R421636",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1761354949",
+    "score": 35,
+    "url_verified": false
   },
   {
     "title": "Data Analyst",
@@ -542,8 +465,19 @@
     "description": "",
     "date_posted": "1774306750",
     "score": 35,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
+  },
+  {
+    "title": "Data Engineer- Data Science Intern, Master's",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/aa222455-47c8-492e-a445-5ccbcee7ae9b",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1765905555",
+    "score": 32,
+    "url_verified": false
   },
   {
     "title": "Data Science & Analytics Intern",
@@ -555,8 +489,7 @@
     "description": "",
     "date_posted": "1763666468",
     "score": 32,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "IT Intern – Data Engineer - Data Platforms & Analytics",
@@ -568,8 +501,7 @@
     "description": "",
     "date_posted": "1770736026",
     "score": 32,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "Security Analytics Analyst - Data Analyst",
@@ -581,8 +513,7 @@
     "description": "",
     "date_posted": "1775772365",
     "score": 32,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "Data Science Intern - Data Science and Analytics",
@@ -594,8 +525,7 @@
     "description": "",
     "date_posted": "1758998285",
     "score": 32,
-    "url_verified": true,
-    "is_new": true
+    "url_verified": true
   },
   {
     "title": "Data Science & Analytics Intern - Ncs - Bcit",
@@ -607,8 +537,7 @@
     "description": "",
     "date_posted": "1775858841",
     "score": 32,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "Data Science Intern - Global Data & Analytics",
@@ -620,8 +549,7 @@
     "description": "",
     "date_posted": "1771892584",
     "score": 32,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "Intern Advanced Analytics - Data Science & AI",
@@ -633,8 +561,7 @@
     "description": "",
     "date_posted": "1771977530",
     "score": 32,
-    "url_verified": false,
-    "is_new": true
+    "url_verified": false
   },
   {
     "title": "Data Visualization Engineering Intern - Summer 2026",
@@ -646,7 +573,30 @@
     "description": "",
     "date_posted": "1764630481",
     "score": 30,
-    "url_verified": true,
-    "is_new": true
+    "url_verified": true
+  },
+  {
+    "title": "Research Intern - Model Optimization and HW Acceleration",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628875",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1765371859",
+    "score": 30,
+    "url_verified": true
+  },
+  {
+    "title": "Technology 2026 Summer Internship",
+    "company": "Johnson & Johnson",
+    "location": "Fort Washington, PA, Horsham, PA, Irvine, CA, Jacksonville, FL, New Brunswick, NJ, Palm Beach Gardens, FL, Raritan, NJ, Santa Clara, CA, Spring House, PA, Titusville, NJ, West Chester, PA",
+    "url": "https://www.careers.jnj.com/en/jobs/r-029613/technology-2026-summer-internship/",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1756147274",
+    "score": 27,
+    "url_verified": true
   }
 ]
