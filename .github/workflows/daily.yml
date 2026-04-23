@@ -22,12 +22,14 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests python-jobspy || pip install requests
+        run: pip install requests "python-jobspy>=0.1.0" || pip install requests
 
       - name: Run scraper
         run: python scraper/fetch_jobs.py
         env:
-          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}   # 可选，没有也没关系
+          RAPIDAPI_KEY:    ${{ secrets.RAPIDAPI_KEY }}    # 可选
+          ADZUNA_APP_ID:   ${{ secrets.ADZUNA_APP_ID }}   # 可选
+          ADZUNA_APP_KEY:  ${{ secrets.ADZUNA_APP_KEY }}  # 可选
 
       - name: Commit & push updated data
         uses: stefanzweifel/git-auto-commit-action@v5

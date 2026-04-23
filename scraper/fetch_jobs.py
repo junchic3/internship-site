@@ -207,12 +207,99 @@ def _fetch_simplify_readme():
     print(f"SimplifyJobs README: {len(jobs)}")
     return jobs
 
-# ── Source 2: LinkedIn + Indeed via python-jobspy ─────────
+# ── Source 2: Ouckah GitHub Internship List ───────────────
+OUCKAH_URLS = [
+    "https://raw.githubusercontent.com/Ouckah/Summer2026-Internships/main/.github/scripts/listings.json",
+    "https://raw.githubusercontent.com/Ouckah/Summer2026-Internships/dev/.github/scripts/listings.json",
+]
+
+def fetch_ouckah():
+    for url in OUCKAH_URLS:
+        try:
+            r = requests.get(url, timeout=15)
+            if r.status_code == 200:
+                jobs = []
+                for item in r.json():
+                    title   = item.get("title") or item.get("role") or ""
+                    company = item.get("company_name") or item.get("company") or ""
+                    locs    = item.get("locations") or item.get("location") or ""
+                    loc     = ", ".join(locs) if isinstance(locs, list) else str(locs)
+                    link    = item.get("url") or item.get("link") or ""
+                    active  = item.get("active", item.get("is_visible", True))
+                    sponsor = item.get("sponsorship", "")
+                    if not active or not title or not company:
+                        continue
+                    is_sp = (str(sponsor).lower() in ("sponsors","yes","true") or
+                             company.lower().strip() in KNOWN_SPONSORS)
+                    jobs.append({
+                        "title": title.strip(), "company": company.strip(),
+                        "location": loc.strip(), "url": link,
+                        "source": "Ouckah",
+                        "is_sponsor": is_sp,
+                        "description": item.get("description",""),
+                        "date_posted": str(item.get("date_posted","")),
+                    })
+                print(f"Ouckah: {len(jobs)} active")
+                return jobs
+        except Exception as e:
+            print(f"Ouckah failed ({url}): {e}")
+    print("Ouckah: 0 (repo not found)")
+    return []
+
+# ── Source 3: Adzuna (free API, needs registration) ───────
+# Register: https://developer.adzuna.com/
+# Set env vars: ADZUNA_APP_ID=xxx  ADZUNA_APP_KEY=xxx
+ADZUNA_QUERIES = [
+    "data analyst intern",
+    "business analyst intern",
+    "data science intern",
+    "machine learning intern",
+]
+
+def fetch_adzuna():
+    app_id  = os.environ.get("ADZUNA_APP_ID", "")
+    app_key = os.environ.get("ADZUNA_APP_KEY", "")
+    if not app_id or not app_key:
+        return []
+    jobs = []
+    for query in ADZUNA_QUERIES:
+        try:
+            r = requests.get(
+                "https://api.adzuna.com/v1/api/jobs/us/search/1",
+                params={
+                    "app_id": app_id, "app_key": app_key,
+                    "what": query, "what_and": "intern internship",
+                    "content-type": "application/json",
+                    "results_per_page": 20,
+                    "sort_by": "date", "max_days_old": 30,
+                },
+                timeout=15,
+            )
+            if r.status_code == 200:
+                for item in r.json().get("results", []):
+                    company = item.get("company", {}).get("display_name", "")
+                    jobs.append({
+                        "title":       item.get("title", ""),
+                        "company":     company,
+                        "location":    item.get("location", {}).get("display_name", ""),
+                        "url":         item.get("redirect_url", ""),
+                        "source":      "Adzuna",
+                        "is_sponsor":  company.lower().strip() in KNOWN_SPONSORS,
+                        "description": (item.get("description") or "")[:500],
+                        "date_posted": item.get("created", ""),
+                    })
+            time.sleep(0.5)
+        except Exception as e:
+            print(f"Adzuna error for '{query}': {e}")
+    print(f"Adzuna: {len(jobs)}")
+    return jobs
+
+# ── Source 4: LinkedIn / Indeed / ZipRecruiter via jobspy ─
 def fetch_jobspy():
     try:
         from jobspy import scrape_jobs
     except ImportError:
-        print("python-jobspy not installed, skipping LinkedIn/Indeed")
+        print("python-jobspy not installed, skipping")
         return []
 
     jobs = []
@@ -222,23 +309,20 @@ def fetch_jobspy():
         "data science intern 2026 CPT OPT",
         "analytics intern 2026 CPT OPT",
     ]
-    sites = ["linkedin", "indeed", "glassdoor"]
-
     for query in queries:
         try:
             df = scrape_jobs(
-                site_name=sites,
+                site_name=["linkedin", "indeed", "zip_recruiter"],
                 search_term=query,
                 location="United States",
                 results_wanted=15,
                 job_type="internship",
-                hours_old=168,         # last 7 days only
+                hours_old=168,
                 country_indeed="USA",
             )
             if df is not None and not df.empty:
                 for _, row in df.iterrows():
                     company = str(row.get("company") or "")
-                    desc    = str(row.get("description") or "")[:600]
                     jobs.append({
                         "title":       str(row.get("title") or ""),
                         "company":     company,
@@ -246,14 +330,14 @@ def fetch_jobspy():
                         "url":         str(row.get("job_url") or ""),
                         "source":      str(row.get("site") or "jobspy").title(),
                         "is_sponsor":  company.lower().strip() in KNOWN_SPONSORS,
-                        "description": desc,
+                        "description": str(row.get("description") or "")[:500],
                         "date_posted": str(row.get("date_posted") or ""),
                     })
-            time.sleep(2)   # be polite
+            time.sleep(2)
         except Exception as e:
             print(f"jobspy error for '{query}': {e}")
 
-    print(f"LinkedIn/Indeed/Glassdoor (jobspy): {len(jobs)}")
+    print(f"LinkedIn/Indeed/ZipRecruiter (jobspy): {len(jobs)}")
     return jobs
 
 # ── Source 3: JSearch (optional) ──────────────────────────
@@ -480,6 +564,8 @@ if __name__ == "__main__":
 
     all_jobs = []
     all_jobs += fetch_simplify()
+    all_jobs += fetch_ouckah()
+    all_jobs += fetch_adzuna()
     all_jobs += fetch_jobspy()
     all_jobs += fetch_jsearch()
     print(f"Total raw: {len(all_jobs)}")
