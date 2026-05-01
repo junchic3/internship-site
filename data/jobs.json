@@ -13,19 +13,6 @@
     "is_new": false
   },
   {
-    "title": "2026 Future Talent Program – Co-op - Data Scientist - Causal Network",
-    "company": "Merck",
-    "location": "Cambridge, MA",
-    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2026-Future-Talent-Program---Data-Scientist--Causal-Network---Co-op_R364594",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1757526521",
-    "score": 42,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Analytics Engineering Intern - Summer 2026",
     "company": "Netflix",
     "location": "LA, Los Gatos, CA",
@@ -52,6 +39,19 @@
     "is_new": false
   },
   {
+    "title": "2026 Future Talent Program – Co-op - Data Scientist - Causal Network",
+    "company": "Merck",
+    "location": "Cambridge, MA",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2026-Future-Talent-Program---Data-Scientist--Causal-Network---Co-op_R364594",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1757526521",
+    "score": 42,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
     "title": "Machine Learning Co-op",
     "company": "Comcast",
     "location": "Philadelphia, PA",
@@ -60,45 +60,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1761354764",
-    "score": 41,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
-    "title": "AI Machine Learning Engineer 2 - Intern",
-    "company": "Cisco",
-    "location": "San Jose, CA",
-    "url": "https://careers.cisco.com/global/en/job/2000461",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1763608722",
-    "score": 41,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Machine Learning Engineer Intern - AI/ML",
-    "company": "Adobe",
-    "location": "Seattle, WA, SF, San Jose, CA",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1758872426",
-    "score": 41,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
-    "title": "AI/ML Intern - Machine Learning Engineer",
-    "company": "Adobe",
-    "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, Waltham, MA, NYC, Lehi, UT",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1775902281",
     "score": 41,
     "url_verified": false,
     "is_new": false
@@ -117,6 +78,19 @@
     "is_new": false
   },
   {
+    "title": "AI/ML Intern - Machine Learning Engineer",
+    "company": "Adobe",
+    "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, Waltham, MA, NYC, Lehi, UT",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1775902281",
+    "score": 41,
+    "url_verified": false,
+    "is_new": false
+  },
+  {
     "title": "Machine Learning Intern - Artificial Intelligence and Machine Learning",
     "company": "Apple",
     "location": "United States",
@@ -125,6 +99,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1760075032",
+    "score": 41,
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "Machine Learning Engineer Intern - AI/ML",
+    "company": "Adobe",
+    "location": "Seattle, WA, SF, San Jose, CA",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1758872426",
     "score": 41,
     "url_verified": false,
     "is_new": false
@@ -156,14 +143,40 @@
     "is_new": false
   },
   {
-    "title": "AI/ML Engineer Intern - Software Engineer",
-    "company": "Adobe",
-    "location": "San Jose, CA",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Software-Engineer-Intern_R160473",
+    "title": "Data Science – Multi-Omics Intern",
+    "company": "Johnson & Johnson",
+    "location": "Ambler, PA",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Data-Science---Multi-Omics-intern_R-059961",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1762473160",
+    "date_posted": "1772206808",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Data Analyst Intern",
+    "company": "Lyft",
+    "location": "New York, NY",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8218030002/",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1762971491",
+    "score": 37,
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "J&J Surgery: Data Science Co-op",
+    "company": "Johnson & Johnson",
+    "location": "Cincinnati, OH",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Data-Science-Co-op-Fall-2026_R-061671",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1772672800",
     "score": 37,
     "url_verified": false,
     "is_new": false
@@ -182,6 +195,19 @@
     "is_new": true
   },
   {
+    "title": "University Data Engineering Intern",
+    "company": "Booz Allen",
+    "location": "Bedford, IN",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Crane-IN/University--Data-Engineering-Intern_R0234416",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1771889447",
+    "score": 37,
+    "url_verified": false,
+    "is_new": false
+  },
+  {
     "title": "Data Engineer Intern",
     "company": "Netflix",
     "location": "LA, Los Gatos, CA",
@@ -195,43 +221,17 @@
     "is_new": false
   },
   {
-    "title": "Data Analyst Intern",
-    "company": "Lyft",
-    "location": "New York, NY",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8218030002/",
+    "title": "AI/ML Engineer Intern - Software Engineer",
+    "company": "Adobe",
+    "location": "San Jose, CA",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Software-Engineer-Intern_R160473",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1762971491",
-    "score": 37,
-    "url_verified": true,
-    "is_new": false
-  },
-  {
-    "title": "Post Doc Scientist Data Science AI/ML Intern",
-    "company": "Johnson & Johnson",
-    "location": "Cambridge, MA, New Hope, PA, Ambler, PA",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/Post-Doc-Scientist-Data-Science-AI-ML_R-071095-1",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1776751690",
+    "date_posted": "1762473160",
     "score": 37,
     "url_verified": false,
     "is_new": false
-  },
-  {
-    "title": "Data Science – Multi-Omics Intern",
-    "company": "Johnson & Johnson",
-    "location": "Ambler, PA",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Data-Science---Multi-Omics-intern_R-059961",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1772206808",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
   },
   {
     "title": "AI Data Analyst Intern",
@@ -242,45 +242,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1775858858",
-    "score": 37,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
-    "title": "Intern - AI/ML Engineer - Cloud and Developer Infrastructure",
-    "company": "General Motors",
-    "location": "Milford Charter Twp, MI, Austin, TX, Detroit, MI, Sunnyvale, CA, Mountain View, CA, Warren, MI",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer--Cloud-and-Developer-Infrastructure--Master-s-_JR-202524316",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1776524159",
-    "score": 37,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
-    "title": "J&J Surgery: Data Science Co-op",
-    "company": "Johnson & Johnson",
-    "location": "Cincinnati, OH",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Data-Science-Co-op-Fall-2026_R-061671",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1772672800",
-    "score": 37,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
-    "title": "University Data Engineering Intern",
-    "company": "Booz Allen",
-    "location": "Bedford, IN",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Crane-IN/University--Data-Engineering-Intern_R0234416",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1771889447",
     "score": 37,
     "url_verified": false,
     "is_new": false
@@ -299,6 +260,19 @@
     "is_new": false
   },
   {
+    "title": "Intern - AI/ML Engineer - Cloud and Developer Infrastructure",
+    "company": "General Motors",
+    "location": "Milford Charter Twp, MI, Austin, TX, Detroit, MI, Sunnyvale, CA, Mountain View, CA, Warren, MI",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer--Cloud-and-Developer-Infrastructure--Master-s-_JR-202524316",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1776524159",
+    "score": 37,
+    "url_verified": false,
+    "is_new": false
+  },
+  {
     "title": "Data Science Intern",
     "company": "Airbnb",
     "location": "Remote in USA",
@@ -310,6 +284,19 @@
     "score": 37,
     "url_verified": true,
     "is_new": true
+  },
+  {
+    "title": "Post Doc Scientist Data Science AI/ML Intern",
+    "company": "Johnson & Johnson",
+    "location": "Cambridge, MA, New Hope, PA, Ambler, PA",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/Post-Doc-Scientist-Data-Science-AI-ML_R-071095-1",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1776751690",
+    "score": 37,
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Machine Learning/Data Science Intern",
@@ -359,32 +346,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1761354949",
-    "score": 35,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
-    "title": "Data Analyst 1",
-    "company": "Cisco",
-    "location": "San Jose, CA",
-    "url": "https://careers.cisco.com/global/en/job/2000155",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1764027646",
-    "score": 35,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Booz Allen",
-    "location": "Lexington, MA",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/Data-Analyst_R0235629",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1774306750",
     "score": 35,
     "url_verified": false,
     "is_new": false
@@ -468,32 +429,6 @@
     "is_new": false
   },
   {
-    "title": "Software Engineer – Intern - Summer and Winter",
-    "company": "Stripe",
-    "location": "Seattle, WA, SF, NYC",
-    "url": "https://stripe.com/jobs/search?gh_jid=7210115",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1756871710",
-    "score": 27,
-    "url_verified": true,
-    "is_new": false
-  },
-  {
-    "title": "Video Algorithms Intern - Summer 2026",
-    "company": "Netflix",
-    "location": "Los Gatos, CA",
-    "url": "https://explore.jobs.netflix.net/careers/job/790313056868",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1764630472",
-    "score": 27,
-    "url_verified": true,
-    "is_new": false
-  },
-  {
     "title": "UConn Stamford Digital Technology Center Intern – Summer 2026",
     "company": "Synchrony",
     "location": "Stamford, CT, USA",
@@ -515,6 +450,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1764630478",
+    "score": 27,
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "Video Algorithms Intern - Summer 2026",
+    "company": "Netflix",
+    "location": "Los Gatos, CA",
+    "url": "https://explore.jobs.netflix.net/careers/job/790313056868",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1764630472",
     "score": 27,
     "url_verified": true,
     "is_new": false
@@ -645,6 +593,58 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1756925014",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Software Engineering Intern",
+    "company": "Intel",
+    "location": "Hillsboro, OR, Folsom, CA, Santa Clara, CA, Austin, TX, Phoenix, AZ",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/details/Software-Engineering----Intern--Bachelor-s_JR0276773?workerSubType=dc8bf79476611087dfde99931439ae75&jobFamilyGroup=dc8bf79476611087d67b36517cf17036",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1756925043",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Autonomous Vehicles and Robotics Intern",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1756925120",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Functions - Quantitative Risk Management",
+    "company": "Citi",
+    "location": "Irving, TX",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Irving---US--2026_25840226",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1756976957",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Salesforce AI Research",
+    "company": "Salesforce",
+    "location": "Palo Alto, CA",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Salesforce-AI-Research-Intern---Summer-2025_JR268422",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1757509701",
     "score": 22,
     "url_verified": false,
     "is_new": true
