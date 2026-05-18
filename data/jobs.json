@@ -91,19 +91,6 @@
     "is_new": false
   },
   {
-    "title": "Machine Learning Intern - Multimodal Models Generative AI",
-    "company": "NVIDIA",
-    "location": "St Paul, MN",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---Multimodal-Models-Generative-AI_JR2017296-1",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1778249334",
-    "score": 41,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Machine Learning Engineer Intern - AI/ML",
     "company": "Adobe",
     "location": "Seattle, WA, SF, San Jose, CA",
@@ -115,6 +102,19 @@
     "score": 41,
     "url_verified": false,
     "is_new": false
+  },
+  {
+    "title": "Machine Learning Intern - Multimodal Models Generative AI",
+    "company": "NVIDIA",
+    "location": "St Paul, MN",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---Multimodal-Models-Generative-AI_JR2017296-1",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1778249334",
+    "score": 41,
+    "url_verified": false,
+    "is_new": true
   },
   {
     "title": "AI/ML Intern - Machine Learning Engineer",
@@ -208,19 +208,6 @@
     "is_new": false
   },
   {
-    "title": "J&J Surgery: Data Science Co-op",
-    "company": "Johnson & Johnson",
-    "location": "Cincinnati, OH",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Data-Science-Co-op-Fall-2026_R-061671",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1772672800",
-    "score": 37,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
     "title": "Data Science Intern - Industries",
     "company": "Oracle",
     "location": "USA",
@@ -247,17 +234,30 @@
     "is_new": false
   },
   {
-    "title": "Intern - AI/ML Engineer - Cloud and Developer Infrastructure",
-    "company": "General Motors",
-    "location": "Milford Charter Twp, MI, Austin, TX, Detroit, MI, Sunnyvale, CA, Mountain View, CA, Warren, MI",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer--Cloud-and-Developer-Infrastructure--Master-s-_JR-202524316",
+    "title": "J&J Surgery: Data Science Co-op",
+    "company": "Johnson & Johnson",
+    "location": "Cincinnati, OH",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Data-Science-Co-op-Fall-2026_R-061671",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1776524159",
+    "date_posted": "1772672800",
     "score": 37,
     "url_verified": false,
     "is_new": false
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "Airbnb",
+    "location": "Remote in USA",
+    "url": "https://careers.airbnb.com/positions/7839237?gh_jid=7839237",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1776809176",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
   },
   {
     "title": "Brand Protection Analytics Co-op",
@@ -286,17 +286,17 @@
     "is_new": false
   },
   {
-    "title": "Data Science Intern",
-    "company": "Airbnb",
-    "location": "Remote in USA",
-    "url": "https://careers.airbnb.com/positions/7839237?gh_jid=7839237",
+    "title": "Intern - AI/ML Engineer - Cloud and Developer Infrastructure",
+    "company": "General Motors",
+    "location": "Milford Charter Twp, MI, Austin, TX, Detroit, MI, Sunnyvale, CA, Mountain View, CA, Warren, MI",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer--Cloud-and-Developer-Infrastructure--Master-s-_JR-202524316",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1776809176",
+    "date_posted": "1776524159",
     "score": 37,
-    "url_verified": true,
-    "is_new": true
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Data Science Co-op",
@@ -416,19 +416,6 @@
     "is_new": false
   },
   {
-    "title": "Video Algorithms Intern - Summer 2026",
-    "company": "Netflix",
-    "location": "Los Gatos, CA",
-    "url": "https://explore.jobs.netflix.net/careers/job/790313056868",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1764630472",
-    "score": 27,
-    "url_verified": true,
-    "is_new": false
-  },
-  {
     "title": "Experimentation & Causal Inference Intern - Summer 2026",
     "company": "Netflix",
     "location": "LA, Los Gatos, CA",
@@ -437,6 +424,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1764630478",
+    "score": 27,
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "Video Algorithms Intern - Summer 2026",
+    "company": "Netflix",
+    "location": "Los Gatos, CA",
+    "url": "https://explore.jobs.netflix.net/careers/job/790313056868",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1764630472",
     "score": 27,
     "url_verified": true,
     "is_new": false
@@ -559,6 +559,19 @@
     "is_new": true
   },
   {
+    "title": "Operational Automation Engineer Intern",
+    "company": "Tesla",
+    "location": "Draper, UT",
+    "url": "https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1761547904",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Undergraduate Applications Developer Intern - OPMO - Consumer Industries",
     "company": "Oracle",
     "location": "Remote in USA",
@@ -582,19 +595,6 @@
     "date_posted": "1764689200",
     "score": 22,
     "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Operational Automation Engineer Intern",
-    "company": "Tesla",
-    "location": "Draper, UT",
-    "url": "https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1761547904",
-    "score": 22,
-    "url_verified": true,
     "is_new": true
   },
   {
