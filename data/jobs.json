@@ -143,6 +143,19 @@
     "is_new": false
   },
   {
+    "title": "Machine Learning and Artificial Intelligence Undergraduate Intern",
+    "company": "Apple",
+    "location": "United States",
+    "url": "https://jobs.apple.com/en-us/details/200664204",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1779372429",
+    "score": 41,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Privacy-Preserving Machine Learning Privacy Engineering Rotation Intern",
     "company": "Apple",
     "location": "Cupertino, CA",
@@ -182,19 +195,6 @@
     "is_new": false
   },
   {
-    "title": "J&J Surgery: Data Science Co-op",
-    "company": "Johnson & Johnson",
-    "location": "Cincinnati, OH",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Data-Science-Co-op-Fall-2026_R-061671",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1772672800",
-    "score": 37,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
     "title": "Data Analyst Intern",
     "company": "Lyft",
     "location": "New York, NY",
@@ -205,6 +205,19 @@
     "date_posted": "1762971491",
     "score": 37,
     "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "J&J Surgery: Data Science Co-op",
+    "company": "Johnson & Johnson",
+    "location": "Cincinnati, OH",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Data-Science-Co-op-Fall-2026_R-061671",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1772672800",
+    "score": 37,
+    "url_verified": false,
     "is_new": false
   },
   {
@@ -219,32 +232,6 @@
     "score": 37,
     "url_verified": true,
     "is_new": false
-  },
-  {
-    "title": "Post Doc Scientist Data Science AI/ML Intern",
-    "company": "Johnson & Johnson",
-    "location": "Cambridge, MA, New Hope, PA, Ambler, PA",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/Post-Doc-Scientist-Data-Science-AI-ML_R-071095-1",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1776751690",
-    "score": 37,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
-    "title": "Brand Protection Analytics Co-op",
-    "company": "Johnson & Johnson",
-    "location": "Bridgewater Township, NJ",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Brand-Protection-Analitycs-Co-Op_R-074708",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1778709936",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
   },
   {
     "title": "Data Science Intern - Industries",
@@ -271,6 +258,19 @@
     "score": 37,
     "url_verified": false,
     "is_new": false
+  },
+  {
+    "title": "Brand Protection Analytics Co-op",
+    "company": "Johnson & Johnson",
+    "location": "Bridgewater Township, NJ",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Brand-Protection-Analitycs-Co-Op_R-074708",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1778709936",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
   },
   {
     "title": "Data Science Intern",
@@ -325,30 +325,17 @@
     "is_new": false
   },
   {
-    "title": "Security Analytics Analyst - Data Analyst",
-    "company": "DTCC",
-    "location": "Dallas, TX, NYC",
-    "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212491",
+    "title": "Business Intelligence & Data Analytics Intern - Undergraduate",
+    "company": "Phamily",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/jobsatphamily/jobs/5227296008",
     "source": "SimplifyJobs",
     "is_sponsor": false,
     "description": "",
-    "date_posted": "1775772365",
-    "score": 32,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
-    "title": "Data Science & Analytics Intern - Ncs - Bcit",
-    "company": "City of Baltimore",
-    "location": "Baltimore, MD",
-    "url": "https://baltimorecity.wd1.myworkdayjobs.com/External/job/401-E-Fayette-St/Data-Science---Analytics-Intern--NCS----BCIT_R0017031",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1775858841",
-    "score": 32,
-    "url_verified": false,
-    "is_new": false
+    "date_posted": "1779315542",
+    "score": 35,
+    "url_verified": true,
+    "is_new": true
   },
   {
     "title": "Discovery Program - Sales Analytics / Data Science",
@@ -362,6 +349,19 @@
     "score": 32,
     "url_verified": false,
     "is_new": true
+  },
+  {
+    "title": "Data Science & Analytics Intern - Ncs - Bcit",
+    "company": "City of Baltimore",
+    "location": "Baltimore, MD",
+    "url": "https://baltimorecity.wd1.myworkdayjobs.com/External/job/401-E-Fayette-St/Data-Science---Analytics-Intern--NCS----BCIT_R0017031",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1775858841",
+    "score": 32,
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Data Visualization Engineering Intern - Summer 2026",
@@ -386,34 +386,8 @@
     "description": "",
     "date_posted": "1778076788",
     "score": 30,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Intern, KPMG Delivery Network | Boston Summer 2026",
-    "company": "KPMG",
-    "location": "Boston, MA, US",
-    "url": "https://www.indeed.com/viewjob?jk=3fce870c8f7fcb1b",
-    "source": "Indeed",
-    "is_sponsor": true,
-    "description": "At KPMG, we are not only keeping pace with the future of business; we are defining it. Harnessing the full power of AI and digital innovation, we deliver intelligent, data\\-driven solutions to help our clients navigate change and transform their competitive edge. Our people\\-first approach makes this possible. KPMG invests in continuous learning by providing the tools and training for you to thrive within a culture that fosters growth and collaboration, whether you're launching your career or br",
-    "date_posted": "2026-05-19",
-    "score": 27,
     "url_verified": true,
     "is_new": true
-  },
-  {
-    "title": "Video Algorithms Intern - Summer 2026",
-    "company": "Netflix",
-    "location": "Los Gatos, CA",
-    "url": "https://explore.jobs.netflix.net/careers/job/790313056868",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1764630472",
-    "score": 27,
-    "url_verified": true,
-    "is_new": false
   },
   {
     "title": "UConn Stamford Digital Technology Center Intern – Summer 2026",
@@ -424,6 +398,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1759772609",
+    "score": 27,
+    "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "Video Algorithms Intern - Summer 2026",
+    "company": "Netflix",
+    "location": "Los Gatos, CA",
+    "url": "https://explore.jobs.netflix.net/careers/job/790313056868",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1764630472",
     "score": 27,
     "url_verified": true,
     "is_new": false
@@ -572,19 +559,6 @@
     "is_new": true
   },
   {
-    "title": "Operational Automation Engineer Intern",
-    "company": "Tesla",
-    "location": "Draper, UT",
-    "url": "https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1761547904",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Forward Deployed Software Engineer – Internship - US Government",
     "company": "Palantir",
     "location": "Honolulu, HI",
@@ -645,6 +619,32 @@
     "is_sponsor": false,
     "description": "",
     "date_posted": "1770074390",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Geospatial AI Data Engineer Co-op Fall 2026",
+    "company": "Commonwealth of Massachusetts",
+    "location": "Boston, MA",
+    "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600017W",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1772580048",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "MBA Intern - Product Management",
+    "company": "Adobe",
+    "location": "SF, San Jose, CA",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-MBA-Intern---Product-Manager_R160316",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1758752461",
     "score": 22,
     "url_verified": false,
     "is_new": true
