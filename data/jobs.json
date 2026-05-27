@@ -52,19 +52,6 @@
     "is_new": false
   },
   {
-    "title": "AI/ML Intern – Machine Learning Engineer/Researcher Intern",
-    "company": "Adobe",
-    "location": "Seattle, WA, SF, San Jose, CA",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1778941619",
-    "score": 41,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Machine Learning Intern - Multimodal Models Generative AI",
     "company": "NVIDIA",
     "location": "St Paul, MN",
@@ -89,6 +76,19 @@
     "score": 41,
     "url_verified": false,
     "is_new": false
+  },
+  {
+    "title": "AI/ML Intern – Machine Learning Engineer/Researcher Intern",
+    "company": "Adobe",
+    "location": "Seattle, WA, SF, San Jose, CA",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1778941619",
+    "score": 41,
+    "url_verified": false,
+    "is_new": true
   },
   {
     "title": "Machine Learning and Artificial Intelligence Undergraduate Intern",
@@ -117,19 +117,6 @@
     "is_new": true
   },
   {
-    "title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
-    "company": "General Motors",
-    "location": "Mountain View, CA, Sunnyvale, CA, San Francisco, CA",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---Cloud---Developer-Infrastructure--Bachelor-s-_JR-202524333",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1765785579",
-    "score": 37,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
     "title": "Data Analyst Intern",
     "company": "Oracle",
     "location": "Nashville, TN",
@@ -138,6 +125,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1770938326",
+    "score": 37,
+    "url_verified": false,
+    "is_new": false
+  },
+  {
+    "title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
+    "company": "General Motors",
+    "location": "Mountain View, CA, Sunnyvale, CA, San Francisco, CA",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---Cloud---Developer-Infrastructure--Bachelor-s-_JR-202524333",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1765785579",
     "score": 37,
     "url_verified": false,
     "is_new": false
@@ -154,19 +154,6 @@
     "score": 37,
     "url_verified": true,
     "is_new": false
-  },
-  {
-    "title": "Brand Protection Analytics Co-op",
-    "company": "Johnson & Johnson",
-    "location": "Bridgewater Township, NJ",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Brand-Protection-Analitycs-Co-Op_R-074708",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1778709936",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
   },
   {
     "title": "J&J Surgery: Data Science Co-op",
@@ -260,6 +247,19 @@
     "is_new": true
   },
   {
+    "title": "Data Science Consultant",
+    "company": "Deloitte",
+    "location": "Tempe, AZ",
+    "url": "https://www.linkedin.com/jobs/view/4410269552",
+    "source": "Linkedin",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "2026-05-26",
+    "score": 35,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Business Intelligence Analyst - Analytics Engineer Hybrid (USA Remote)",
     "company": "Turnitin",
     "location": "Chicago, IL",
@@ -268,19 +268,6 @@
     "is_sponsor": false,
     "description": "nan",
     "date_posted": "2026-05-22",
-    "score": 35,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Science Consultant",
-    "company": "Deloitte",
-    "location": "",
-    "url": "https://www.linkedin.com/jobs/view/4410257838",
-    "source": "Linkedin",
-    "is_sponsor": true,
-    "description": "nan",
-    "date_posted": "nan",
     "score": 35,
     "url_verified": true,
     "is_new": true
@@ -310,6 +297,19 @@
     "score": 32,
     "url_verified": false,
     "is_new": false
+  },
+  {
+    "title": "Data Science / Analytics Intern - Technology Solutions",
+    "company": "Syneos Health",
+    "location": "Morrisville, NC",
+    "url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/USA-NC-Morrisville-Hybrid/Intern_25109096",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1779833142",
+    "score": 32,
+    "url_verified": false,
+    "is_new": true
   },
   {
     "title": "Discovery Program - Sales Analytics / Data Science",
@@ -357,7 +357,7 @@
     "url": "https://www.linkedin.com/jobs/view/4388300908",
     "source": "Linkedin",
     "is_sponsor": true,
-    "description": "nan",
+    "description": "",
     "date_posted": "2026-05-23",
     "score": 27,
     "url_verified": true,
@@ -533,6 +533,19 @@
     "is_new": true
   },
   {
+    "title": "Operational Automation Engineer Intern",
+    "company": "Tesla",
+    "location": "Draper, UT",
+    "url": "https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1761547904",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Oracle Pathways Software School Intern",
     "company": "Oracle",
     "location": "Nashville, TN",
@@ -572,19 +585,6 @@
     "is_new": true
   },
   {
-    "title": "Operational Automation Engineer Intern",
-    "company": "Tesla",
-    "location": "Draper, UT",
-    "url": "https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1761547904",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Quantitative Research Analyst Intern - Bachelor Master - US",
     "company": "Citadel",
     "location": "Miami, FL, Greenwich, CT, NYC",
@@ -611,14 +611,27 @@
     "is_new": true
   },
   {
-    "title": "Software Engineer Co-op",
-    "company": "Johnson & Johnson",
-    "location": "Cincinnati, OH",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Software-Engineer-Co-op-Fall-2026_R-061673",
+    "title": "Hardware Engineer 1",
+    "company": "Cisco",
+    "location": "SF, San Jose, CA, Research Triangle, Durham, NC",
+    "url": "https://careers.cisco.com/global/en/job/2000041",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1772583576",
+    "date_posted": "1763664391",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Data Science Intern - Summer 2026",
+    "company": "Axos Bank",
+    "location": "San Diego, CA",
+    "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Data-Science-Intern---Summer-2026_JR3587",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1765410430",
     "score": 22,
     "url_verified": false,
     "is_new": true
@@ -632,19 +645,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1777068476",
-    "score": 22,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "AI Software Engineering Intern",
-    "company": "Intel",
-    "location": "Hillsboro, OR, Folsom, CA",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1777500475",
     "score": 22,
     "url_verified": false,
     "is_new": true
