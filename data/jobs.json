@@ -1,5 +1,18 @@
 [
   {
+    "title": "Associate AI & Analytics – Data Scientist-Finance Transformation 2026",
+    "company": "IBM",
+    "location": "Austin, TX",
+    "url": "https://www.linkedin.com/jobs/view/4374854757",
+    "source": "Linkedin",
+    "is_sponsor": true,
+    "description": "nan",
+    "date_posted": "2026-05-23",
+    "score": 57,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Data Analytics / Machine Learning Engineer Co-op",
     "company": "Comcast",
     "location": "Philadelphia, PA",
@@ -104,19 +117,6 @@
     "is_new": true
   },
   {
-    "title": "Data Analyst Intern",
-    "company": "Oracle",
-    "location": "Nashville, TN",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326682",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1770938326",
-    "score": 37,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
     "title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
     "company": "General Motors",
     "location": "Mountain View, CA, Sunnyvale, CA, San Francisco, CA",
@@ -130,17 +130,17 @@
     "is_new": false
   },
   {
-    "title": "Data Science Intern",
-    "company": "Johnson & Johnson",
-    "location": "Edison, NJ",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Data-Science-Intern--Summer-2026-_R-077379",
+    "title": "Data Analyst Intern",
+    "company": "Oracle",
+    "location": "Nashville, TN",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326682",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1779977052",
+    "date_posted": "1770938326",
     "score": 37,
     "url_verified": false,
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Data Analyst Intern",
@@ -156,30 +156,17 @@
     "is_new": false
   },
   {
-    "title": "Intern - AI/ML Engineer - Cloud and Developer Infrastructure",
-    "company": "General Motors",
-    "location": "Milford Charter Twp, MI, Austin, TX, Detroit, MI, Sunnyvale, CA, Mountain View, CA, Warren, MI",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer--Cloud-and-Developer-Infrastructure--Master-s-_JR-202524316",
-    "source": "SimplifyJobs",
+    "title": "Strategic Analytics Analyst",
+    "company": "Deloitte",
+    "location": "Fresno, CA",
+    "url": "https://www.linkedin.com/jobs/view/4420690674",
+    "source": "Linkedin",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1776524159",
+    "date_posted": "nan",
     "score": 37,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
-    "title": "J&J Surgery: Data Science Co-op",
-    "company": "Johnson & Johnson",
-    "location": "Cincinnati, OH",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Data-Science-Co-op-Fall-2026_R-061671",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1772672800",
-    "score": 37,
-    "url_verified": false,
-    "is_new": false
+    "url_verified": true,
+    "is_new": true
   },
   {
     "title": "Data Science Intern - Industries",
@@ -192,6 +179,19 @@
     "date_posted": "1759740076",
     "score": 37,
     "url_verified": true,
+    "is_new": false
+  },
+  {
+    "title": "Data Science Co-op",
+    "company": "Comcast",
+    "location": "Philadelphia, PA",
+    "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Data-Science-Co-op_R421636",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1761354949",
+    "score": 35,
+    "url_verified": false,
     "is_new": false
   },
   {
@@ -221,27 +221,14 @@
     "is_new": false
   },
   {
-    "title": "Data Science Co-op",
-    "company": "Comcast",
-    "location": "Philadelphia, PA",
-    "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Data-Science-Co-op_R421636",
-    "source": "SimplifyJobs",
+    "title": "Data Scientist",
+    "company": "Deloitte",
+    "location": "Monterey, CA",
+    "url": "https://www.linkedin.com/jobs/view/4420686917",
+    "source": "Linkedin",
     "is_sponsor": true,
-    "description": "",
-    "date_posted": "1761354949",
-    "score": 35,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
-    "title": "Business Intelligence & Data Analytics Intern - Undergraduate",
-    "company": "Phamily",
-    "location": "NYC",
-    "url": "https://job-boards.greenhouse.io/jobsatphamily/jobs/5227296008",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1779315542",
+    "description": "nan",
+    "date_posted": "nan",
     "score": 35,
     "url_verified": true,
     "is_new": true
@@ -257,19 +244,6 @@
     "date_posted": "2026-05-26",
     "score": 35,
     "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Science / Analytics Intern - Technology Solutions",
-    "company": "Syneos Health",
-    "location": "Morrisville, NC",
-    "url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/USA-NC-Morrisville-Hybrid/Intern_25109096",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1779833142",
-    "score": 32,
-    "url_verified": false,
     "is_new": true
   },
   {
@@ -351,19 +325,6 @@
     "is_new": true
   },
   {
-    "title": "Data Analysis Intern - Applied System Engineering",
-    "company": "NVIDIA",
-    "location": "Santa Clara, CA",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Analysis-Intern--Applied-System-Engineering---Fall-2026_JR2018687-1",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1779919675",
-    "score": 26,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Data Science Intern - Model Optimization",
     "company": "Quadric",
     "location": "Burlingame, CA",
@@ -413,19 +374,6 @@
     "date_posted": "1761357442",
     "score": 22,
     "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Operational Automation Engineer Intern",
-    "company": "Tesla",
-    "location": "Draper, UT",
-    "url": "https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1761547904",
-    "score": 22,
-    "url_verified": true,
     "is_new": true
   },
   {
@@ -520,6 +468,19 @@
     "is_new": true
   },
   {
+    "title": "Operational Automation Engineer Intern",
+    "company": "Tesla",
+    "location": "Draper, UT",
+    "url": "https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1761547904",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Oracle Pathways Software School Intern",
     "company": "Oracle",
     "location": "Nashville, TN",
@@ -559,6 +520,19 @@
     "is_new": true
   },
   {
+    "title": "Quantitative Research Analyst Intern - Bachelor Master - US",
+    "company": "Citadel",
+    "location": "Miami, FL, Greenwich, CT, NYC",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1761871269",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Software Engineer",
     "company": "Jane Street",
     "location": "NYC",
@@ -572,16 +546,55 @@
     "is_new": true
   },
   {
-    "title": "Quantitative Research Analyst Intern - Bachelor Master - US",
-    "company": "Citadel",
-    "location": "Miami, FL, Greenwich, CT, NYC",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
+    "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
+    "company": "Palantir",
+    "location": "Washington, DC",
+    "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1761871269",
+    "date_posted": "1778796362",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "AI Application Developer Undergraduate",
+    "company": "Pfizer",
+    "location": "Dorking, UK",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/AI-Application-Developer-Undergraduate_4956412",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1778854236",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Front-End Engineer Intern",
+    "company": "Amazon",
+    "location": "Seattle, WA",
+    "url": "https://amazon.jobs/en/jobs/10407301/front-end-engineer-fall-internship-2026-us",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1777500512",
     "score": 22,
     "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Software Engineer Intern",
+    "company": "Oracle",
+    "location": "Seattle, WA, Santa Clara, CA",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1779325605",
+    "score": 22,
+    "url_verified": false,
     "is_new": true
   },
   {
@@ -598,53 +611,40 @@
     "is_new": true
   },
   {
-    "title": "Hardware Engineer 1",
-    "company": "Cisco",
-    "location": "SF, San Jose, CA, Research Triangle, Durham, NC",
-    "url": "https://careers.cisco.com/global/en/job/2000041",
+    "title": "Software Engineer Intern",
+    "company": "Booz Allen",
+    "location": "Fayetteville, NC",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0239757",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1763664391",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "AI Software Engineering Intern",
-    "company": "Intel",
-    "location": "Hillsboro, OR, Folsom, CA",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1777500475",
+    "date_posted": "1778537445",
     "score": 22,
     "url_verified": false,
     "is_new": true
   },
   {
-    "title": "Associate Application Engineer 2 Co-op",
-    "company": "Cisco",
-    "location": "Acton, MA",
-    "url": "https://careers.cisco.com/global/en/job/2011705",
+    "title": "Systems Engineer Intern",
+    "company": "Booz Allen",
+    "location": "Fayetteville, NC",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0239755",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1777500546",
+    "date_posted": "1778537445",
     "score": 22,
-    "url_verified": true,
+    "url_verified": false,
     "is_new": true
   },
   {
-    "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
-    "company": "Netflix",
-    "location": "LA, Los Gatos, CA",
-    "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
+    "title": "AI Engineer - Forward Deployed Engineer - Forward Deployed Engineer",
+    "company": "Databricks",
+    "location": "Remote in UK",
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8551531002",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1777338403",
+    "date_posted": "1778854882",
     "score": 22,
     "url_verified": true,
     "is_new": true
