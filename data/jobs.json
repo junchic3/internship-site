@@ -74,7 +74,7 @@
     "description": "",
     "date_posted": "1779430059",
     "score": 41,
-    "url_verified": true,
+    "url_verified": false,
     "is_new": true
   },
   {
@@ -87,21 +87,8 @@
     "description": "",
     "date_posted": "1778076619",
     "score": 41,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
-    "company": "General Motors",
-    "location": "Mountain View, CA, Sunnyvale, CA, San Francisco, CA",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---Cloud---Developer-Infrastructure--Bachelor-s-_JR-202524333",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1765785579",
-    "score": 37,
     "url_verified": false,
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Data Analyst Intern",
@@ -112,6 +99,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1770938326",
+    "score": 37,
+    "url_verified": false,
+    "is_new": false
+  },
+  {
+    "title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
+    "company": "General Motors",
+    "location": "Mountain View, CA, Sunnyvale, CA, San Francisco, CA",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---Cloud---Developer-Infrastructure--Bachelor-s-_JR-202524333",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1765785579",
     "score": 37,
     "url_verified": false,
     "is_new": false
@@ -130,6 +130,19 @@
     "is_new": false
   },
   {
+    "title": "Data Science Intern",
+    "company": "Johnson & Johnson",
+    "location": "Edison, NJ",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Data-Science-Intern--Summer-2026-_R-077379",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1779977052",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
     "title": "Data Science Intern - Industries",
     "company": "Oracle",
     "location": "USA",
@@ -143,19 +156,6 @@
     "is_new": false
   },
   {
-    "title": "Data Science Co-op",
-    "company": "Johnson & Johnson",
-    "location": "New Brunswick, NJ",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/New-Brunswick-New-Jersey-United-States-of-America/Data-Science-Co-op_R-039072",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1761290531",
-    "score": 35,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
     "title": "Data Scientist Co-op",
     "company": "Comcast",
     "location": "Philadelphia, PA",
@@ -164,6 +164,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1761354848",
+    "score": 35,
+    "url_verified": false,
+    "is_new": false
+  },
+  {
+    "title": "Data Science Co-op",
+    "company": "Johnson & Johnson",
+    "location": "New Brunswick, NJ",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/New-Brunswick-New-Jersey-United-States-of-America/Data-Science-Co-op_R-039072",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1761290531",
     "score": 35,
     "url_verified": false,
     "is_new": false
@@ -182,45 +195,6 @@
     "is_new": false
   },
   {
-    "title": "Data Scientist",
-    "company": "Deloitte",
-    "location": "Monterey, CA",
-    "url": "https://www.linkedin.com/jobs/view/4420686917",
-    "source": "Linkedin",
-    "is_sponsor": true,
-    "description": "nan",
-    "date_posted": "2026-05-29",
-    "score": 35,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Science Consultant",
-    "company": "Deloitte",
-    "location": "Tempe, AZ",
-    "url": "https://www.linkedin.com/jobs/view/4410269552",
-    "source": "Linkedin",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "2026-05-26",
-    "score": 35,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Science & Analytics Intern - Ncs - Bcit",
-    "company": "City of Baltimore",
-    "location": "Baltimore, MD",
-    "url": "https://baltimorecity.wd1.myworkdayjobs.com/External/job/401-E-Fayette-St/Data-Science---Analytics-Intern--NCS----BCIT_R0017031",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1775858841",
-    "score": 32,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
     "title": "Early Career CAD Tools Optimisation Engineer Intern - Design Verification",
     "company": "Apple",
     "location": "Cambridge, MA",
@@ -230,20 +204,7 @@
     "description": "",
     "date_posted": "1778076788",
     "score": 30,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "2026 Full-Time Analyst Program - AMERS",
-    "company": "BlackRock",
-    "location": "New York, NY",
-    "url": "https://www.linkedin.com/jobs/view/4318148836",
-    "source": "Linkedin",
-    "is_sponsor": true,
-    "description": "nan",
-    "date_posted": "2026-05-29",
-    "score": 27,
-    "url_verified": true,
+    "url_verified": false,
     "is_new": true
   },
   {
@@ -299,6 +260,19 @@
     "is_new": true
   },
   {
+    "title": "Data Analyst Summer Intern",
+    "company": "W.R. Berkley",
+    "location": "Englewood, CO",
+    "url": "https://careers-berkley.icims.com/jobs/13113/data-analyst-summer-intern/job",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1761357442",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
     "title": "Artificial Intelligence Internship",
     "company": "Wells Fargo",
     "location": "San Francisco, Ca",
@@ -320,19 +294,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1761355397",
-    "score": 22,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Data Analyst Summer Intern",
-    "company": "W.R. Berkley",
-    "location": "Englewood, CO",
-    "url": "https://careers-berkley.icims.com/jobs/13113/data-analyst-summer-intern/job",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1761357442",
     "score": 22,
     "url_verified": false,
     "is_new": true
@@ -494,6 +455,32 @@
     "is_new": true
   },
   {
+    "title": "AI Software Engineering Intern",
+    "company": "Intel",
+    "location": "Hillsboro, OR, Folsom, CA",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1777500475",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Data Analyst Intern Fall 2026",
+    "company": "Paccar",
+    "location": "Columbus, MS",
+    "url": "https://jobs.paccar.com/job/Columbus-Data-Analyst-Intern-Fall-2026-MS-39701/1283451401/?ats=successfactors",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1768435675",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
     "company": "Palantir",
     "location": "Washington, DC",
@@ -502,6 +489,58 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1778796362",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Software Engineer Intern",
+    "company": "Booz Allen",
+    "location": "Fayetteville, NC",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0239757",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1778537445",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Software Engineer Intern",
+    "company": "Oracle",
+    "location": "Seattle, WA, Santa Clara, CA",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1779325605",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Formal Verification Intern",
+    "company": "NVIDIA",
+    "location": "Austin, TX, Santa Clara, CA",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1777932628",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Software Developer Intern",
+    "company": "Booz Allen",
+    "location": "Fayetteville, NC",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Developer-Intern_R0240000",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1778710168",
     "score": 22,
     "url_verified": false,
     "is_new": true
@@ -520,14 +559,53 @@
     "is_new": true
   },
   {
-    "title": "Software Engineer Intern",
-    "company": "Oracle",
-    "location": "Seattle, WA, Santa Clara, CA",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325",
+    "title": "Intern, Software Engineer",
+    "company": "KPMG",
+    "location": "Denver, CO, Montvale, NJ",
+    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=129155",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1779325605",
+    "date_posted": "1761864507",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Software Engineer Intern - Security",
+    "company": "Snowflake",
+    "location": "Menlo Park, CA, Bellevue, WA",
+    "url": "https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7/application",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1778278062",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "MBA Intern - Product Manager",
+    "company": "Adobe",
+    "location": "SF, San Jose, CA",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-MBA-Intern---Product-Manager_R160316",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1778941492",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Investment Compliance Engineer",
+    "company": "BlackRock",
+    "location": "Edinburgh, UK",
+    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Edinburgh-Scotland/Associate_R264664",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1779977220",
     "score": 22,
     "url_verified": false,
     "is_new": true
@@ -559,94 +637,16 @@
     "is_new": true
   },
   {
-    "title": "Software Engineer Intern",
-    "company": "Booz Allen",
-    "location": "Fayetteville, NC",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0239757",
+    "title": "Software Engineer Intern - Visual Intelligence",
+    "company": "Apple",
+    "location": "Seattle, WA",
+    "url": "https://jobs.apple.com/en-us/details/200604470",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1778537445",
+    "date_posted": "1778076529",
     "score": 22,
     "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Software Developer Intern",
-    "company": "Booz Allen",
-    "location": "Fayetteville, NC",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Developer-Intern_R0240000",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1778710168",
-    "score": 22,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Software Engineer Intern - Security",
-    "company": "Snowflake",
-    "location": "Menlo Park, CA, Bellevue, WA",
-    "url": "https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7/application",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1778278062",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Investment Compliance Engineer",
-    "company": "BlackRock",
-    "location": "Edinburgh, UK",
-    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Edinburgh-Scotland/Associate_R264664",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1779977220",
-    "score": 22,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "MBA Intern - Product Manager",
-    "company": "Adobe",
-    "location": "SF, San Jose, CA",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-MBA-Intern---Product-Manager_R160316",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1778941492",
-    "score": 22,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Data Analyst Intern Fall 2026",
-    "company": "Paccar",
-    "location": "Columbus, MS",
-    "url": "https://jobs.paccar.com/job/Columbus-Data-Analyst-Intern-Fall-2026-MS-39701/1283451401/?ats=successfactors",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1768435675",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Intern, Software Engineer",
-    "company": "KPMG",
-    "location": "Denver, CO, Montvale, NJ",
-    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=129155",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1761864507",
-    "score": 22,
-    "url_verified": true,
     "is_new": true
   }
 ]
