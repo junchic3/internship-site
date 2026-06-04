@@ -26,19 +26,6 @@
     "is_new": false
   },
   {
-    "title": "AI/ML Intern – Machine Learning Engineer/Researcher Intern",
-    "company": "Adobe",
-    "location": "Seattle, WA, SF, San Jose, CA",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1778941619",
-    "score": 41,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Machine Learning Intern - Multimodal Models Generative AI",
     "company": "NVIDIA",
     "location": "St Paul, MN",
@@ -47,6 +34,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1778249334",
+    "score": 41,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "AI/ML Intern – Machine Learning Engineer/Researcher Intern",
+    "company": "Adobe",
+    "location": "Seattle, WA, SF, San Jose, CA",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1778941619",
     "score": 41,
     "url_verified": false,
     "is_new": true
@@ -130,17 +130,17 @@
     "is_new": false
   },
   {
-    "title": "Data Science Intern",
+    "title": "Data Science Co-op",
     "company": "Johnson & Johnson",
-    "location": "Edison, NJ",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Data-Science-Intern--Summer-2026-_R-077379",
+    "location": "New Brunswick, NJ",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/New-Brunswick-New-Jersey-United-States-of-America/Data-Science-Co-op_R-039072",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1779977052",
-    "score": 37,
+    "date_posted": "1761290531",
+    "score": 35,
     "url_verified": false,
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Data Scientist Co-op",
@@ -151,19 +151,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1761354848",
-    "score": 35,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
-    "title": "Data Science Co-op",
-    "company": "Johnson & Johnson",
-    "location": "New Brunswick, NJ",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/New-Brunswick-New-Jersey-United-States-of-America/Data-Science-Co-op_R-039072",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1761290531",
     "score": 35,
     "url_verified": false,
     "is_new": false
@@ -182,29 +169,29 @@
     "is_new": false
   },
   {
-    "title": "Data Science / Analytics Intern - Technology Solutions",
-    "company": "Syneos Health",
-    "location": "Morrisville, NC",
-    "url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/USA-NC-Morrisville-Hybrid/Data-Science---Analytics-Intern---Technology-Solutions_25109426",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
+    "title": "Business Analyst II - AMZ27049.1",
+    "company": "Amazon",
+    "location": "Tempe, AZ",
+    "url": "https://www.linkedin.com/jobs/view/4423016018",
+    "source": "Linkedin",
+    "is_sponsor": true,
     "description": "",
-    "date_posted": "1780437909",
-    "score": 32,
-    "url_verified": false,
+    "date_posted": "nan",
+    "score": 35,
+    "url_verified": true,
     "is_new": true
   },
   {
-    "title": "AI/ML Engineer Intern - Data Engineering",
-    "company": "Ryan",
-    "location": "Plano, TX",
-    "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/AI-ML-Engineer-Intern--Data-Engineering_R0019781",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
+    "title": "Consultant - Data Science / Data Lake",
+    "company": "Deloitte",
+    "location": "Gilbert, AZ",
+    "url": "https://www.linkedin.com/jobs/view/4421347300",
+    "source": "Linkedin",
+    "is_sponsor": true,
     "description": "",
-    "date_posted": "1780351575",
-    "score": 32,
-    "url_verified": false,
+    "date_posted": "2026-05-30",
+    "score": 35,
+    "url_verified": true,
     "is_new": true
   },
   {
@@ -219,19 +206,6 @@
     "score": 30,
     "url_verified": true,
     "is_new": true
-  },
-  {
-    "title": "UConn Stamford Digital Technology Center Intern – Summer 2026",
-    "company": "Synchrony",
-    "location": "Stamford, CT, USA",
-    "url": "https://www.synchronycareers.com/job-detail/22491940/uconn-stamford-digital-technology-center-intern-summer-2026-remote/",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1759772609",
-    "score": 27,
-    "url_verified": true,
-    "is_new": false
   },
   {
     "title": "Software Development Engineer Internship - Summer 2026 - US",
@@ -286,19 +260,6 @@
     "is_new": true
   },
   {
-    "title": "Artificial Intelligence Internship",
-    "company": "Wells Fargo",
-    "location": "San Francisco, Ca",
-    "url": "https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/SAN-FRANCISCO-CA/XMLNAME-2026-Artificial-Intelligence-Summer-Internship--PhD----San-Francisco--CA---Early-Careers_R-500795-1",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1761213428",
-    "score": 22,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Software Engineer Co-op",
     "company": "Comcast",
     "location": "Philadelphia, PA",
@@ -307,6 +268,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1761355397",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Artificial Intelligence Internship",
+    "company": "Wells Fargo",
+    "location": "San Francisco, Ca",
+    "url": "https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/SAN-FRANCISCO-CA/XMLNAME-2026-Artificial-Intelligence-Summer-Internship--PhD----San-Francisco--CA---Early-Careers_R-500795-1",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1761213428",
     "score": 22,
     "url_verified": false,
     "is_new": true
@@ -322,19 +296,6 @@
     "date_posted": "1761357442",
     "score": 22,
     "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Operational Automation Engineer Intern",
-    "company": "Tesla",
-    "location": "Draper, UT",
-    "url": "https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1761547904",
-    "score": 22,
-    "url_verified": true,
     "is_new": true
   },
   {
@@ -429,6 +390,19 @@
     "is_new": true
   },
   {
+    "title": "Operational Automation Engineer Intern",
+    "company": "Tesla",
+    "location": "Draper, UT",
+    "url": "https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1761547904",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Oracle Pathways Software School Intern",
     "company": "Oracle",
     "location": "Nashville, TN",
@@ -507,14 +481,14 @@
     "is_new": true
   },
   {
-    "title": "Software Developer Intern",
-    "company": "Booz Allen",
-    "location": "Fayetteville, NC",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Developer-Intern_R0240000",
+    "title": "Formal Verification Intern",
+    "company": "NVIDIA",
+    "location": "Austin, TX, Santa Clara, CA",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1778710168",
+    "date_posted": "1777932628",
     "score": 22,
     "url_verified": false,
     "is_new": true
@@ -559,40 +533,27 @@
     "is_new": true
   },
   {
-    "title": "Data Analyst Intern Fall 2026",
-    "company": "Paccar",
-    "location": "Columbus, MS",
-    "url": "https://jobs.paccar.com/job/Columbus-Data-Analyst-Intern-Fall-2026-MS-39701/1283451401/?ats=successfactors",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1768435675",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "AI Engineer - Forward Deployed Engineer - Forward Deployed Engineer",
-    "company": "Databricks",
-    "location": "Remote in UK",
-    "url": "https://boards.greenhouse.io/embed/job_app?token=8551531002",
+    "title": "Software Developer Intern",
+    "company": "Booz Allen",
+    "location": "Fayetteville, NC",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Developer-Intern_R0240000",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1778854882",
+    "date_posted": "1778710168",
     "score": 22,
-    "url_verified": true,
+    "url_verified": false,
     "is_new": true
   },
   {
-    "title": "Software Engineer Intern - Security",
-    "company": "Snowflake",
-    "location": "Menlo Park, CA, Bellevue, WA",
-    "url": "https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7/application",
+    "title": "Hardware Development Engineer Co-op",
+    "company": "Amazon",
+    "location": "Sunnyvale, CA",
+    "url": "https://amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1778278062",
+    "date_posted": "1779055539",
     "score": 22,
     "url_verified": true,
     "is_new": true
@@ -611,14 +572,14 @@
     "is_new": true
   },
   {
-    "title": "Hardware Development Engineer Co-op",
-    "company": "Amazon",
-    "location": "Sunnyvale, CA",
-    "url": "https://amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall",
+    "title": "Software Engineer Intern - Security",
+    "company": "Snowflake",
+    "location": "Menlo Park, CA, Bellevue, WA",
+    "url": "https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7/application",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1779055539",
+    "date_posted": "1778278062",
     "score": 22,
     "url_verified": true,
     "is_new": true
@@ -647,6 +608,45 @@
     "date_posted": "1780351502",
     "score": 22,
     "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "MBA Intern - Product Manager",
+    "company": "Adobe",
+    "location": "SF, San Jose, CA",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-MBA-Intern---Product-Manager_R160316",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1778941492",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Silicon Performance Validation and Characterization Intern",
+    "company": "Intel",
+    "location": "Phoenix, AZ",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1779919844",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Intern - Data Analytics and Front Office Support",
+    "company": "United Nations",
+    "location": "New York, NY, US",
+    "url": "https://www.indeed.com/viewjob?jk=98240461b10751cb",
+    "source": "Indeed",
+    "is_sponsor": false,
+    "description": "Work Location\nIn person in New York, full time or part time modalities would be considered.\nExpected duration\nExpected duration: 6 months. Desired start date: June 2026\nDuties and Responsibilities\nThe position is located in the United Nations Office for Digital and Emerging Technologies (UNODET). UNODET was established on 1 January 2025, with a mandate to: (a) advise the senior leadership of the United Nations on key trends in technology, so as to guide the strategic approach taken by the Organi",
+    "date_posted": "2026-06-02",
+    "score": 22,
+    "url_verified": true,
     "is_new": true
   }
 ]
