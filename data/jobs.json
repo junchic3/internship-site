@@ -91,6 +91,19 @@
     "is_new": false
   },
   {
+    "title": "Data Analytics Intern - People Analytics",
+    "company": "Tesla",
+    "location": "Austin, TX",
+    "url": "https://www.tesla.com/careers/search/job/274560",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1782177528",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Data Analyst Intern - Data Analyst - Energy",
     "company": "Tesla",
     "location": "Fremont, CA",
@@ -112,19 +125,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1778050864",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Analytics Intern - People Analytics",
-    "company": "Tesla",
-    "location": "Austin, TX",
-    "url": "https://www.tesla.com/careers/search/job/274560",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1782177528",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -169,27 +169,14 @@
     "is_new": true
   },
   {
-    "title": "Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus",
+    "title": "Energy System Optimization Intern - Energy Optimization Software",
     "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/272581",
+    "location": "Palo Alto, CA, Fremont, CA, Austin, TX",
+    "url": "https://www.tesla.com/careers/search/job/271349",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1780813216",
-    "score": 30,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Software Integration Engineer Intern - Software Integration Engineer - Optimus",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/269809",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1778050847",
+    "date_posted": "1780794563",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -208,14 +195,40 @@
     "is_new": true
   },
   {
-    "title": "Energy System Optimization Intern - Energy Optimization Software",
+    "title": "Software Integration Engineer Intern - Software Integration Engineer - Optimus",
     "company": "Tesla",
-    "location": "Palo Alto, CA, Fremont, CA, Austin, TX",
-    "url": "https://www.tesla.com/careers/search/job/271349",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/269809",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1780794563",
+    "date_posted": "1778050847",
+    "score": 30,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/272581",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780813216",
+    "score": 30,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Embedded Software Intern - Embedded Software Engineer - Optimus",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/273272",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1781042865",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -242,19 +255,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1780841935",
-    "score": 30,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Embedded Software Intern - Embedded Software Engineer - Optimus",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/273272",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1781042865",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -377,19 +377,6 @@
     "is_new": true
   },
   {
-    "title": "Quantitative Research Analyst Intern - Bachelor Master - US",
-    "company": "Citadel",
-    "location": "Miami, FL, Greenwich, CT, NYC",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1761871269",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
     "company": "Palantir",
     "location": "Washington, DC",
@@ -416,19 +403,6 @@
     "is_new": true
   },
   {
-    "title": "Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/269819",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1778051165",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Software Engineer",
     "company": "Jane Street",
     "location": "NYC",
@@ -442,14 +416,14 @@
     "is_new": true
   },
   {
-    "title": "Intern, Software Engineer",
-    "company": "KPMG",
-    "location": "Denver, CO, Montvale, NJ",
-    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=129155",
+    "title": "Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/269819",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1761864507",
+    "date_posted": "1778051165",
     "score": 22,
     "url_verified": true,
     "is_new": true
@@ -507,14 +481,40 @@
     "is_new": true
   },
   {
-    "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
-    "company": "Netflix",
-    "location": "LA, Los Gatos, CA",
-    "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
+    "title": "Silicon Performance Validation and Characterization Intern",
+    "company": "Intel",
+    "location": "Phoenix, AZ",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1777338403",
+    "date_posted": "1779919844",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/271544",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780755038",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Hardware Development Engineer Co-op",
+    "company": "Amazon",
+    "location": "Sunnyvale, CA",
+    "url": "https://amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1779055539",
     "score": 22,
     "url_verified": true,
     "is_new": true
@@ -533,19 +533,6 @@
     "is_new": true
   },
   {
-    "title": "Silicon Performance Validation and Characterization Intern",
-    "company": "Intel",
-    "location": "Phoenix, AZ",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1779919844",
-    "score": 22,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Software Engineer Intern - Mapping Autonomous Vehicles",
     "company": "NVIDIA",
     "location": "Santa Clara, CA",
@@ -559,19 +546,6 @@
     "is_new": true
   },
   {
-    "title": "Hardware Development Engineer Co-op",
-    "company": "Amazon",
-    "location": "Sunnyvale, CA",
-    "url": "https://amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1779055539",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -580,32 +554,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1780755195",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/271544",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780755038",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Mobile Applications Engineering Intern - Android Engineer - Mobile Software",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/266980",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780794797",
     "score": 22,
     "url_verified": true,
     "is_new": true
@@ -624,6 +572,32 @@
     "is_new": true
   },
   {
+    "title": "Mobile Applications Engineering Intern - Android Engineer - Mobile Software",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/266980",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780794797",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
+    "company": "Netflix",
+    "location": "LA, Los Gatos, CA",
+    "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1777338403",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "AI Engineer Intern",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -632,6 +606,32 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1780794775",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Software Engineering Intern - Software Engineering - Service Engineering",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/266119",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780794712",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/271382",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780794505",
     "score": 22,
     "url_verified": true,
     "is_new": true
