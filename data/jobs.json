@@ -52,6 +52,32 @@
     "is_new": true
   },
   {
+    "title": "Machine Learning Engineer",
+    "company": "Jane Street",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8611307002",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1783377279",
+    "score": 41,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8384490002",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1783377280",
+    "score": 41,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Machine Learning and Artificial Intelligence Undergraduate Intern",
     "company": "Apple",
     "location": "United States",
@@ -74,21 +100,8 @@
     "description": "",
     "date_posted": "1778076619",
     "score": 41,
-    "url_verified": false,
+    "url_verified": true,
     "is_new": true
-  },
-  {
-    "title": "Data Analyst Intern",
-    "company": "Oracle",
-    "location": "Nashville, TN",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326682",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1770938326",
-    "score": 37,
-    "url_verified": false,
-    "is_new": false
   },
   {
     "title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
@@ -99,6 +112,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1765785579",
+    "score": 37,
+    "url_verified": false,
+    "is_new": false
+  },
+  {
+    "title": "Data Analyst Intern",
+    "company": "Oracle",
+    "location": "Nashville, TN",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326682",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1770938326",
     "score": 37,
     "url_verified": false,
     "is_new": false
@@ -117,19 +143,6 @@
     "is_new": true
   },
   {
-    "title": "Data Analytics Intern - People Analytics",
-    "company": "Tesla",
-    "location": "Austin, TX",
-    "url": "https://www.tesla.com/careers/search/job/274560",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1782177528",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Data Engineer Intern - Multiple Teams",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -138,6 +151,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1778050864",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Data Analytics Intern - People Analytics",
+    "company": "Tesla",
+    "location": "Austin, TX",
+    "url": "https://www.tesla.com/careers/search/job/274560",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1782177528",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -182,40 +208,14 @@
     "is_new": true
   },
   {
-    "title": "3 Applicants Only - Analyst - Visa Consulting and Analytics",
-    "company": "Visa",
-    "location": "Georgia, Virginia",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Remote---Georgia/Analyst--Visa-Consulting-and-Analytics_REF082904W",
-    "source": "SimplifyJobs",
+    "title": "Business Analyst Associate - August 2027",
+    "company": "Capital One",
+    "location": "Chicago, IL",
+    "url": "https://www.linkedin.com/jobs/view/4436279327",
+    "source": "Linkedin",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1783158437",
-    "score": 35,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Clinical Data Analyst",
-    "company": "Deloitte",
-    "location": "Gilbert, AZ",
-    "url": "https://www.linkedin.com/jobs/view/4435512422",
-    "source": "Linkedin",
-    "is_sponsor": true,
-    "description": "nan",
-    "date_posted": "2026-07-01",
-    "score": 35,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Visa",
-    "location": "Austin, TX",
-    "url": "https://www.linkedin.com/jobs/view/4428188135",
-    "source": "Linkedin",
-    "is_sponsor": true,
-    "description": "nan",
-    "date_posted": "2026-07-04",
+    "date_posted": "nan",
     "score": 35,
     "url_verified": true,
     "is_new": true
@@ -229,19 +229,6 @@
     "is_sponsor": false,
     "description": "",
     "date_posted": "1783319363",
-    "score": 32,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Scientist (Data Analytics Developer II)",
-    "company": "San Diego State University",
-    "location": "",
-    "url": "https://www.linkedin.com/jobs/view/4416365112",
-    "source": "Linkedin",
-    "is_sponsor": false,
-    "description": "nan",
-    "date_posted": "2026-07-03",
     "score": 32,
     "url_verified": true,
     "is_new": true
@@ -299,6 +286,19 @@
     "is_new": true
   },
   {
+    "title": "AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/263759",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780812967",
+    "score": 30,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Analyst Analytics and Data Science 2-3",
     "company": "Blue Cross Blue Shield of Arizona",
     "location": "Phoenix, AZ",
@@ -312,14 +312,14 @@
     "is_new": true
   },
   {
-    "title": "AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization",
+    "title": "Physics Engine Development Intern - Physics Engine Development Engineer - Optimus",
     "company": "Tesla",
     "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/263759",
+    "url": "https://www.tesla.com/careers/search/job/257048",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1780812967",
+    "date_posted": "1780823238",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -338,19 +338,6 @@
     "is_new": true
   },
   {
-    "title": "Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/273933",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1781639081",
-    "score": 30,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Embedded Software Intern - Embedded Software Engineer - Optimus",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -364,16 +351,42 @@
     "is_new": true
   },
   {
-    "title": "Physics Engine Development Intern - Physics Engine Development Engineer - Optimus",
+    "title": "Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization",
     "company": "Tesla",
     "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/257048",
+    "url": "https://www.tesla.com/careers/search/job/273933",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1780823238",
+    "date_posted": "1781639081",
     "score": 30,
     "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Data Science/Analytics Co-op",
+    "company": "CSL",
+    "location": "King of Prussia, PA",
+    "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Co-Op-Data-Science-Analytics_R-279483",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1783376097",
+    "score": 30,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Data Science / Analytics Co-op",
+    "company": "CSL",
+    "location": "King of Prussia, PA",
+    "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Co-Op-Data-Science---Analytics--Interim-6-Months-_R-278061",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1783376098",
+    "score": 30,
+    "url_verified": false,
     "is_new": true
   },
   {
@@ -442,32 +455,6 @@
     "is_new": true
   },
   {
-    "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
-    "company": "Palantir",
-    "location": "Washington, DC",
-    "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1778796362",
-    "score": 22,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Software Engineer Intern",
-    "company": "Oracle",
-    "location": "Seattle, WA, Santa Clara, CA",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1779325605",
-    "score": 22,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -494,6 +481,32 @@
     "is_new": true
   },
   {
+    "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
+    "company": "Palantir",
+    "location": "Washington, DC",
+    "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1778796362",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Software Engineer Intern",
+    "company": "Oracle",
+    "location": "Seattle, WA, Santa Clara, CA",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1779325605",
+    "score": 22,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
     "title": "Software Engineering Intern",
     "company": "NVIDIA",
     "location": "Santa Clara, CA",
@@ -502,19 +515,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1777068476",
-    "score": 22,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "AI Software Engineering Intern",
-    "company": "Intel",
-    "location": "Hillsboro, OR, Folsom, CA",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1777500475",
     "score": 22,
     "url_verified": false,
     "is_new": true
@@ -546,32 +546,6 @@
     "is_new": true
   },
   {
-    "title": "Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/271544",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780755038",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Hardware Development Engineer Co-op",
-    "company": "Amazon",
-    "location": "Sunnyvale, CA",
-    "url": "https://amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1779055539",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
     "company": "Netflix",
     "location": "LA, Los Gatos, CA",
@@ -598,6 +572,32 @@
     "is_new": true
   },
   {
+    "title": "Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/271544",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780755038",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Hardware Development Engineer Co-op",
+    "company": "Amazon",
+    "location": "Sunnyvale, CA",
+    "url": "https://amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1779055539",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Mobile Applications Engineering Intern - Android Engineer - Mobile Software",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -606,19 +606,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1780794797",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/267005",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780794816",
     "score": 22,
     "url_verified": true,
     "is_new": true
@@ -637,16 +624,29 @@
     "is_new": true
   },
   {
-    "title": "Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy",
+    "title": "Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure",
     "company": "Tesla",
-    "location": "Draper, UT",
-    "url": "https://www.tesla.com/careers/search/job/271352",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/267005",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1780794528",
+    "date_posted": "1780794816",
     "score": 22,
     "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Silicon Performance Validation and Characterization Intern",
+    "company": "Intel",
+    "location": "Phoenix, AZ",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1779919844",
+    "score": 22,
+    "url_verified": false,
     "is_new": true
   }
 ]
