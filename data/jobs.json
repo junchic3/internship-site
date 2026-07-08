@@ -26,19 +26,6 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Intern - AI Engineer - Tesla AI",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/275331",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1782944200",
-    "score": 41,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software",
     "company": "Tesla",
     "location": "Fremont, CA",
@@ -47,6 +34,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1782857454",
+    "score": 41,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Machine Learning Intern - AI Engineer - Tesla AI",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/275331",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1782944200",
     "score": 41,
     "url_verified": true,
     "is_new": true
@@ -130,19 +130,6 @@
     "is_new": false
   },
   {
-    "title": "Data Analyst Intern - Data Analyst - Energy",
-    "company": "Tesla",
-    "location": "Fremont, CA",
-    "url": "https://www.tesla.com/careers/search/job/271329",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780794595",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Data Engineer Intern - Multiple Teams",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -151,6 +138,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1778050864",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Data Analyst Intern - Data Analyst - Energy",
+    "company": "Tesla",
+    "location": "Fremont, CA",
+    "url": "https://www.tesla.com/careers/search/job/271329",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780794595",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -177,6 +177,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1783346928",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Data Engineer Intern",
+    "company": "Intel",
+    "location": "Austin, TX",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1783030661",
     "score": 37,
     "url_verified": false,
     "is_new": true
@@ -215,7 +228,7 @@
     "source": "Linkedin",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "nan",
+    "date_posted": "2026-07-07",
     "score": 35,
     "url_verified": true,
     "is_new": true
@@ -273,32 +286,6 @@
     "is_new": true
   },
   {
-    "title": "Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/272581",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780813216",
-    "score": 30,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/263759",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780812967",
-    "score": 30,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Analyst Analytics and Data Science 2-3",
     "company": "Blue Cross Blue Shield of Arizona",
     "location": "Phoenix, AZ",
@@ -309,6 +296,19 @@
     "date_posted": "1782436133",
     "score": 30,
     "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/272581",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780813216",
+    "score": 30,
+    "url_verified": true,
     "is_new": true
   },
   {
@@ -325,14 +325,14 @@
     "is_new": true
   },
   {
-    "title": "Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus",
+    "title": "Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization",
     "company": "Tesla",
     "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/253454",
+    "url": "https://www.tesla.com/careers/search/job/273933",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1780841935",
+    "date_posted": "1781639081",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -351,14 +351,27 @@
     "is_new": true
   },
   {
-    "title": "Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization",
+    "title": "Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus",
     "company": "Tesla",
     "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/273933",
+    "url": "https://www.tesla.com/careers/search/job/253454",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1781639081",
+    "date_posted": "1780841935",
+    "score": 30,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/263759",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780812967",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -468,19 +481,6 @@
     "is_new": true
   },
   {
-    "title": "Software Engineer Intern - Integration Tools",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/269445",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1778050930",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
     "company": "Palantir",
     "location": "Washington, DC",
@@ -507,16 +507,16 @@
     "is_new": true
   },
   {
-    "title": "Software Engineering Intern",
-    "company": "NVIDIA",
-    "location": "Santa Clara, CA",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745",
+    "title": "Software Engineer Intern - Integration Tools",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/269445",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1777068476",
+    "date_posted": "1778050930",
     "score": 22,
-    "url_verified": false,
+    "url_verified": true,
     "is_new": true
   },
   {
@@ -546,27 +546,14 @@
     "is_new": true
   },
   {
-    "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
-    "company": "Netflix",
-    "location": "LA, Los Gatos, CA",
-    "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
+    "title": "Hardware Development Engineer Co-op",
+    "company": "Amazon",
+    "location": "Sunnyvale, CA",
+    "url": "https://amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1777338403",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/271539",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780755195",
+    "date_posted": "1779055539",
     "score": 22,
     "url_verified": true,
     "is_new": true
@@ -585,14 +572,14 @@
     "is_new": true
   },
   {
-    "title": "Hardware Development Engineer Co-op",
-    "company": "Amazon",
-    "location": "Sunnyvale, CA",
-    "url": "https://amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall",
+    "title": "Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/271539",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1779055539",
+    "date_posted": "1780755195",
     "score": 22,
     "url_verified": true,
     "is_new": true
@@ -611,19 +598,6 @@
     "is_new": true
   },
   {
-    "title": "Software Engineering Intern - Software Engineering - Service Engineering",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/266119",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780794712",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -637,16 +611,42 @@
     "is_new": true
   },
   {
-    "title": "Silicon Performance Validation and Characterization Intern",
-    "company": "Intel",
-    "location": "Phoenix, AZ",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310",
+    "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
+    "company": "Netflix",
+    "location": "LA, Los Gatos, CA",
+    "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1779919844",
+    "date_posted": "1777338403",
     "score": 22,
-    "url_verified": false,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Software Engineering Intern - Software Engineering - Service Engineering",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/266119",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780794712",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy",
+    "company": "Tesla",
+    "location": "Draper, UT",
+    "url": "https://www.tesla.com/careers/search/job/271352",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780794528",
+    "score": 22,
+    "url_verified": true,
     "is_new": true
   }
 ]
