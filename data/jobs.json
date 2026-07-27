@@ -1,31 +1,5 @@
 [
   {
-    "title": "Machine Learning Intern - AI Engineer - Tesla AI",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/275331",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1782944200",
-    "score": 41,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Machine Learning Platform Intern - Multiple Teams",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/269812",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1778050996",
-    "score": 41,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Software Machine Learning Engineer Intern - Reliability Energy Engineering",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -52,6 +26,32 @@
     "is_new": true
   },
   {
+    "title": "Machine Learning Intern - AI Engineer - Tesla AI",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/275331",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1782944200",
+    "score": 41,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Machine Learning Platform Intern - Multiple Teams",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/269812",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1778050996",
+    "score": 41,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Machine Learning Engineer",
     "company": "Jane Street",
     "location": "NYC",
@@ -60,6 +60,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1783377279",
+    "score": 41,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8384490002",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1783377280",
     "score": 41,
     "url_verified": true,
     "is_new": true
@@ -78,19 +91,6 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "location": "NYC",
-    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8384490002",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1783377280",
-    "score": 41,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Machine Learning and Artificial Intelligence Undergraduate Intern",
     "company": "Apple",
     "location": "United States",
@@ -100,21 +100,8 @@
     "description": "",
     "date_posted": "1779430059",
     "score": 41,
-    "url_verified": false,
+    "url_verified": true,
     "is_new": true
-  },
-  {
-    "title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
-    "company": "General Motors",
-    "location": "Mountain View, CA, Sunnyvale, CA, San Francisco, CA",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---Cloud---Developer-Infrastructure--Bachelor-s-_JR-202524333",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1765785579",
-    "score": 37,
-    "url_verified": false,
-    "is_new": false
   },
   {
     "title": "Data Analyst Intern",
@@ -130,17 +117,17 @@
     "is_new": false
   },
   {
-    "title": "Data Analytics Intern - People Analytics",
-    "company": "Tesla",
-    "location": "Austin, TX",
-    "url": "https://www.tesla.com/careers/search/job/274560",
+    "title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
+    "company": "General Motors",
+    "location": "Mountain View, CA, Sunnyvale, CA, San Francisco, CA",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---Cloud---Developer-Infrastructure--Bachelor-s-_JR-202524333",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1782177528",
+    "date_posted": "1765785579",
     "score": 37,
-    "url_verified": true,
-    "is_new": true
+    "url_verified": false,
+    "is_new": false
   },
   {
     "title": "Data Engineer Intern - Data Engineer - Energy",
@@ -151,6 +138,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1780794591",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Data Analytics Intern - People Analytics",
+    "company": "Tesla",
+    "location": "Austin, TX",
+    "url": "https://www.tesla.com/careers/search/job/274560",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1782177528",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -195,19 +195,6 @@
     "is_new": true
   },
   {
-    "title": "Data Science Engineer",
-    "company": "Adobe",
-    "location": "San Jose, CA",
-    "url": "https://www.linkedin.com/jobs/view/4444366726",
-    "source": "Linkedin",
-    "is_sponsor": true,
-    "description": "nan",
-    "date_posted": "2026-07-24",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Consultative Offerings Analyst - Government & Public Services - AI & Data Engineering",
     "company": "Deloitte",
     "location": "Arlington, VA",
@@ -247,16 +234,16 @@
     "is_new": true
   },
   {
-    "title": "Data Analytics / Data Science Intern",
-    "company": "Northwell Health",
-    "location": "Manhasset, NY",
-    "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192734",
+    "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
+    "company": "Celonis",
+    "location": "Raleigh, NC",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003",
     "source": "SimplifyJobs",
     "is_sponsor": false,
     "description": "",
-    "date_posted": "1784930867",
+    "date_posted": "1783319363",
     "score": 32,
-    "url_verified": false,
+    "url_verified": true,
     "is_new": true
   },
   {
@@ -268,19 +255,6 @@
     "is_sponsor": false,
     "description": "",
     "date_posted": "1781168821",
-    "score": 32,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
-    "company": "Celonis",
-    "location": "Raleigh, NC",
-    "url": "https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1783319363",
     "score": 32,
     "url_verified": true,
     "is_new": true
@@ -312,6 +286,32 @@
     "is_new": true
   },
   {
+    "title": "Analyst Analytics and Data Science 2-3",
+    "company": "Blue Cross Blue Shield of Arizona",
+    "location": "Phoenix, AZ",
+    "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Analyst--Analytics-and-Data-Science-II-III--Remote-_R6054",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1782436133",
+    "score": 30,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Physics Engine Development Intern - Physics Engine Development Engineer - Optimus",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/257048",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780823238",
+    "score": 30,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Energy System Optimization Intern - Energy Optimization Software",
     "company": "Tesla",
     "location": "Palo Alto, CA, Fremont, CA, Austin, TX",
@@ -338,19 +338,6 @@
     "is_new": true
   },
   {
-    "title": "Analyst Analytics and Data Science 2-3",
-    "company": "Blue Cross Blue Shield of Arizona",
-    "location": "Phoenix, AZ",
-    "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Analyst--Analytics-and-Data-Science-II-III--Remote-_R6054",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1782436133",
-    "score": 30,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -359,19 +346,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1780841935",
-    "score": 30,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Embedded Software Intern - Embedded Software Engineer - Optimus",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/273272",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1781042865",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -390,16 +364,29 @@
     "is_new": true
   },
   {
-    "title": "Physics Engine Development Intern - Physics Engine Development Engineer - Optimus",
+    "title": "Embedded Software Intern - Embedded Software Engineer - Optimus",
     "company": "Tesla",
     "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/257048",
+    "url": "https://www.tesla.com/careers/search/job/273272",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1780823238",
+    "date_posted": "1781042865",
     "score": 30,
     "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "AI Data Science Analytics",
+    "company": "GE Appliances",
+    "location": "Louisville, KY",
+    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/AI-Data-Science-Analytics_REQ-26337",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1785110400",
+    "score": 30,
+    "url_verified": false,
     "is_new": true
   },
   {
@@ -507,6 +494,19 @@
     "is_new": true
   },
   {
+    "title": "Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/271539",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780755195",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Service Engineering Intern - Product Support Engineer - Service Engineering",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -533,14 +533,14 @@
     "is_new": true
   },
   {
-    "title": "Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering",
+    "title": "Mobile Applications Engineering Intern - Android Engineer - Mobile Software",
     "company": "Tesla",
     "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/271539",
+    "url": "https://www.tesla.com/careers/search/job/266980",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1780755195",
+    "date_posted": "1780794797",
     "score": 22,
     "url_verified": true,
     "is_new": true
@@ -554,19 +554,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1780795231",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Mobile Applications Engineering Intern - Android Engineer - Mobile Software",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/266980",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780794797",
     "score": 22,
     "url_verified": true,
     "is_new": true
@@ -611,6 +598,19 @@
     "is_new": true
   },
   {
+    "title": "AI Inference Engineer Intern - Software Compiler Engineer - AI Inference",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/263211",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780812897",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -637,14 +637,14 @@
     "is_new": true
   },
   {
-    "title": "AI Inference Engineer Intern - Software Compiler Engineer - AI Inference",
+    "title": "Applied AI Engineer Intern - AI Hardware",
     "company": "Tesla",
     "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/263211",
+    "url": "https://www.tesla.com/careers/search/job/262946",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1780812897",
+    "date_posted": "1780812899",
     "score": 22,
     "url_verified": true,
     "is_new": true
