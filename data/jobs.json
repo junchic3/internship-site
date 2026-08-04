@@ -13,6 +13,19 @@
     "is_new": true
   },
   {
+    "title": "Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software",
+    "company": "Tesla",
+    "location": "Fremont, CA",
+    "url": "https://www.tesla.com/careers/search/job/275380",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1782857454",
+    "score": 41,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Machine Learning Intern - AI Engineer - Tesla AI",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -52,29 +65,16 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software",
-    "company": "Tesla",
-    "location": "Fremont, CA",
-    "url": "https://www.tesla.com/careers/search/job/275380",
+    "title": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8384490002",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1782857454",
+    "date_posted": "1783377280",
     "score": 41,
     "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "AI/ML Intern – Machine Learning Engineer/Researcher Intern",
-    "company": "Adobe",
-    "location": "Seattle, WA, SF, San Jose, CA",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1778941619",
-    "score": 41,
-    "url_verified": false,
     "is_new": true
   },
   {
@@ -91,16 +91,16 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "location": "NYC",
-    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8384490002",
+    "title": "AI/ML Intern – Machine Learning Engineer/Researcher Intern",
+    "company": "Adobe",
+    "location": "Seattle, WA, SF, San Jose, CA",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1783377280",
+    "date_posted": "1778941619",
     "score": 41,
-    "url_verified": true,
+    "url_verified": false,
     "is_new": true
   },
   {
@@ -208,19 +208,6 @@
     "is_new": true
   },
   {
-    "title": "Data Science Intern",
-    "company": "Capital One",
-    "location": "Cambridge, MA, SF, San Jose, CA, Plano, TX, McLean, VA, Richmond, VA, Chicago, IL, NYC",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1784505600",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Campus Data Engineer Intern",
     "company": "Jump Trading",
     "location": "Chicago, IL",
@@ -247,16 +234,16 @@
     "is_new": true
   },
   {
-    "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
-    "company": "Deloitte",
-    "location": "Arlington, VA",
-    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259",
+    "title": "Data Science Intern",
+    "company": "Capital One",
+    "location": "Cambridge, MA, SF, San Jose, CA, Plano, TX, McLean, VA, Richmond, VA, Chicago, IL, NYC",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1785191053",
+    "date_posted": "1784505600",
     "score": 37,
-    "url_verified": true,
+    "url_verified": false,
     "is_new": true
   },
   {
@@ -273,6 +260,19 @@
     "is_new": true
   },
   {
+    "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
+    "company": "Celonis",
+    "location": "Raleigh, NC",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1783319363",
+    "score": 32,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Data Engineering Intern - AI & Analytics",
     "company": "Rivian and Volkswagen Group Technologies",
     "location": "Palo Alto, CA",
@@ -286,14 +286,14 @@
     "is_new": true
   },
   {
-    "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
-    "company": "Celonis",
-    "location": "Raleigh, NC",
-    "url": "https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003",
-    "source": "SimplifyJobs",
+    "title": "junior data scientist/Data engineer",
+    "company": "SynergisticIT",
+    "location": "Irvine, CA",
+    "url": "https://www.linkedin.com/jobs/view/4446468104",
+    "source": "Linkedin",
     "is_sponsor": false,
-    "description": "",
-    "date_posted": "1783319363",
+    "description": "nan",
+    "date_posted": "2026-07-30",
     "score": 32,
     "url_verified": true,
     "is_new": true
@@ -325,14 +325,14 @@
     "is_new": true
   },
   {
-    "title": "Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus",
+    "title": "Physics Engine Development Intern - Physics Engine Development Engineer - Optimus",
     "company": "Tesla",
     "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/272581",
+    "url": "https://www.tesla.com/careers/search/job/257048",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1780813216",
+    "date_posted": "1780823238",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -351,27 +351,14 @@
     "is_new": true
   },
   {
-    "title": "Physics Engine Development Intern - Physics Engine Development Engineer - Optimus",
+    "title": "Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus",
     "company": "Tesla",
     "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/257048",
+    "url": "https://www.tesla.com/careers/search/job/272581",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1780823238",
-    "score": 30,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Embedded Software Intern - Embedded Software Engineer - Optimus",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/273272",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1781042865",
+    "date_posted": "1780813216",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -390,14 +377,14 @@
     "is_new": true
   },
   {
-    "title": "Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization",
+    "title": "Embedded Software Intern - Embedded Software Engineer - Optimus",
     "company": "Tesla",
     "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/273933",
+    "url": "https://www.tesla.com/careers/search/job/273272",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1781639081",
+    "date_posted": "1781042865",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -411,6 +398,32 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1780841935",
+    "score": 30,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/273933",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1781639081",
+    "score": 30,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "data scientist, Data & Analytics (Nashville, TN)",
+    "company": "Starbucks",
+    "location": "Nashville, TN",
+    "url": "https://www.linkedin.com/jobs/view/4411473326",
+    "source": "Linkedin",
+    "is_sponsor": false,
+    "description": "nan",
+    "date_posted": "2026-08-01",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -546,19 +559,6 @@
     "is_new": true
   },
   {
-    "title": "Software Engineering Intern - Software Engineering - Service Engineering",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/266119",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780794712",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy",
     "company": "Tesla",
     "location": "Draper, UT",
@@ -580,6 +580,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1780794505",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Software Engineering Intern - Software Engineering - Service Engineering",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/266119",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780794712",
     "score": 22,
     "url_verified": true,
     "is_new": true
@@ -621,19 +634,6 @@
     "date_posted": "1780813700",
     "score": 22,
     "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Research and Development Intern - Research & Development: AI/ML",
-    "company": "General Motors",
-    "location": "Mountain View, CA, Warren, MI",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1781273200",
-    "score": 22,
-    "url_verified": false,
     "is_new": true
   },
   {
