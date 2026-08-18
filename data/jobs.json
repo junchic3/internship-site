@@ -13,6 +13,19 @@
     "is_new": true
   },
   {
+    "title": "Forensic Analytics Summer Scholar Intern - Forensic Analytics",
+    "company": "Deloitte",
+    "location": "Atlanta, GA",
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Forensic-Analytics/363251",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1787033801",
+    "score": 42,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "AI and Data Engineering Summer Scholar Intern - Government & Public Services",
     "company": "Deloitte",
     "location": "Austin, TX",
@@ -39,19 +52,6 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Intern - AI Engineer - Tesla AI",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/275331",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1782944200",
-    "score": 41,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -65,14 +65,14 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Engineer",
-    "company": "Jane Street",
-    "location": "NYC",
-    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8611307002",
+    "title": "Machine Learning Intern - AI Engineer - Tesla AI",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/275331",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1783377279",
+    "date_posted": "1782944200",
     "score": 41,
     "url_verified": true,
     "is_new": true
@@ -86,6 +86,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1783377280",
+    "score": 41,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Jane Street",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8611307002",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1783377279",
     "score": 41,
     "url_verified": true,
     "is_new": true
@@ -143,19 +156,6 @@
     "is_new": true
   },
   {
-    "title": "Sector Data Scientist Intern",
-    "company": "Citadel",
-    "location": "NYC",
-    "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1786401263",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Data Analytics Intern - People Analytics",
     "company": "Tesla",
     "location": "Austin, TX",
@@ -164,6 +164,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1782177528",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Sector Data Scientist Intern",
+    "company": "Citadel",
+    "location": "NYC",
+    "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1786401263",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -195,19 +208,6 @@
     "is_new": true
   },
   {
-    "title": "Quantitative Analytics Intern - Multiple Teams",
-    "company": "Wells Fargo",
-    "location": "Charlotte, NC",
-    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1786579200",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Data Engineering Intern",
     "company": "Jane Street",
     "location": "NYC",
@@ -216,6 +216,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1783992270",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Quantitative Analytics Intern - Multiple Teams",
+    "company": "Wells Fargo",
+    "location": "Charlotte, NC",
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1786579200",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -273,6 +286,19 @@
     "is_new": true
   },
   {
+    "title": "Business Analyst II - AMZ27049.1",
+    "company": "Amazon",
+    "location": "Tempe, AZ",
+    "url": "https://www.linkedin.com/jobs/view/4443025464",
+    "source": "Linkedin",
+    "is_sponsor": true,
+    "description": "nan",
+    "date_posted": "2026-08-11",
+    "score": 35,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Business Analyst - Business Intelligence (BI)",
     "company": "Reyes Holdings",
     "location": "Rosemont, IL",
@@ -286,19 +312,6 @@
     "is_new": true
   },
   {
-    "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
-    "company": "Celonis",
-    "location": "Raleigh, NC",
-    "url": "https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1783319363",
-    "score": 32,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Data Engineering Intern - AI & Analytics",
     "company": "Rivian and Volkswagen Group Technologies",
     "location": "Palo Alto, CA",
@@ -307,6 +320,19 @@
     "is_sponsor": false,
     "description": "",
     "date_posted": "1781168821",
+    "score": 32,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
+    "company": "Celonis",
+    "location": "Raleigh, NC",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1783319363",
     "score": 32,
     "url_verified": true,
     "is_new": true
@@ -390,19 +416,6 @@
     "is_new": true
   },
   {
-    "title": "AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/263759",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780812967",
-    "score": 30,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Physics Engine Development Intern - Physics Engine Development Engineer - Optimus",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -424,6 +437,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1780823397",
+    "score": 30,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/263759",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780812967",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -481,15 +507,15 @@
     "is_new": true
   },
   {
-    "title": "Data Management Solutions Summer Scholar Intern - Government & Public Services - Data Management Solutions",
-    "company": "Deloitte",
-    "location": "Rosslyn, Arlington, VA",
-    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Data-Management-Solutions/362366",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1786401418",
-    "score": 27,
+    "title": "Data Scientist-Build Analytics",
+    "company": "AT&T",
+    "location": "Chandler, AZ",
+    "url": "https://www.linkedin.com/jobs/view/4452804578",
+    "source": "Linkedin",
+    "is_sponsor": false,
+    "description": "nan",
+    "date_posted": "nan",
+    "score": 30,
     "url_verified": true,
     "is_new": true
   },
@@ -507,29 +533,29 @@
     "is_new": true
   },
   {
-    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "company": "Goldman Sachs",
-    "location": "West Palm Beach, FL",
-    "url": "https://higher.gs.com/roles/181628?type=students",
+    "title": "Data Management Solutions Summer Scholar Intern - Government & Public Services - Data Management Solutions",
+    "company": "Deloitte",
+    "location": "Rosslyn, Arlington, VA",
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Data-Management-Solutions/362366",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1786767935",
+    "date_posted": "1786401418",
     "score": 27,
-    "url_verified": false,
+    "url_verified": true,
     "is_new": true
   },
   {
-    "title": "Summer Associate Intern - Multiple Teams",
-    "company": "Goldman Sachs",
-    "location": "NYC",
-    "url": "https://higher.gs.com/roles/171566?type=students",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1786767953",
-    "score": 27,
-    "url_verified": false,
+    "title": "Optimization Data Analyst",
+    "company": "Adyen",
+    "location": "Chicago, IL",
+    "url": "https://www.linkedin.com/jobs/view/4451977727",
+    "source": "Linkedin",
+    "is_sponsor": false,
+    "description": "nan",
+    "date_posted": "2026-08-12",
+    "score": 23,
+    "url_verified": true,
     "is_new": true
   },
   {
@@ -543,6 +569,19 @@
     "date_posted": "1771514093",
     "score": 22,
     "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/269819",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1778051165",
+    "score": 22,
+    "url_verified": true,
     "is_new": true
   },
   {
@@ -572,16 +611,16 @@
     "is_new": true
   },
   {
-    "title": "Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/269819",
+    "title": "AI Software Engineering Intern",
+    "company": "Intel",
+    "location": "Hillsboro, OR, Folsom, CA",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1778051165",
+    "date_posted": "1777500475",
     "score": 22,
-    "url_verified": true,
+    "url_verified": false,
     "is_new": true
   },
   {
@@ -606,45 +645,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1780755195",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Software Engineer Intern - Software Engineer - Information Security",
-    "company": "Tesla",
-    "location": "Bellevue, WA",
-    "url": "https://www.tesla.com/careers/search/job/270497",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780795231",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Software Engineering Intern - Software Engineering - Service Engineering",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/266119",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780794712",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
-    "company": "Netflix",
-    "location": "LA, Los Gatos, CA",
-    "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1777338403",
     "score": 22,
     "url_verified": true,
     "is_new": true
