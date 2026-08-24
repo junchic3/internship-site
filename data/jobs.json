@@ -13,6 +13,19 @@
     "is_new": true
   },
   {
+    "title": "Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk",
+    "company": "American Express",
+    "location": "NYC",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1785737469",
+    "score": 42,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
     "title": "Data Science Summer Analyst",
     "company": "Blackstone",
     "location": "NYC",
@@ -26,16 +39,16 @@
     "is_new": true
   },
   {
-    "title": "Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk",
-    "company": "American Express",
-    "location": "NYC",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984",
-    "source": "SimplifyJobs",
+    "title": "2027 Data Science Summer Analyst",
+    "company": "Blackstone",
+    "location": "New York, NY",
+    "url": "https://www.linkedin.com/jobs/view/4456275195",
+    "source": "Linkedin",
     "is_sponsor": true,
-    "description": "",
-    "date_posted": "1785737469",
+    "description": "nan",
+    "date_posted": "2026-08-21",
     "score": 42,
-    "url_verified": false,
+    "url_verified": true,
     "is_new": true
   },
   {
@@ -78,19 +91,6 @@
     "is_new": true
   },
   {
-    "title": "Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/278249",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1785276975",
-    "score": 41,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Software Machine Learning Engineer Intern - Reliability Energy Engineering",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -104,14 +104,14 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Engineer",
-    "company": "Jane Street",
-    "location": "NYC",
-    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8611307002",
+    "title": "Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/278249",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1783377279",
+    "date_posted": "1785276975",
     "score": 41,
     "url_verified": true,
     "is_new": true
@@ -125,6 +125,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1783377280",
+    "score": 41,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Jane Street",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8611307002",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1783377279",
     "score": 41,
     "url_verified": true,
     "is_new": true
@@ -156,6 +169,19 @@
     "is_new": false
   },
   {
+    "title": "Data Engineer Intern - Applications Engineering",
+    "company": "Tesla",
+    "location": "Fremont, CA",
+    "url": "https://www.tesla.com/careers/search/job/272928",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1782781912",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Undergraduate Intern - Strategy & Analytics",
     "company": "American Express",
     "location": "Phoenix, AZ",
@@ -169,14 +195,14 @@
     "is_new": true
   },
   {
-    "title": "Data Engineer Intern - Applications Engineering",
+    "title": "Data Analytics Intern - People Analytics",
     "company": "Tesla",
-    "location": "Fremont, CA",
-    "url": "https://www.tesla.com/careers/search/job/272928",
+    "location": "Austin, TX",
+    "url": "https://www.tesla.com/careers/search/job/274560",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1782781912",
+    "date_posted": "1782177528",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -208,19 +234,6 @@
     "is_new": true
   },
   {
-    "title": "Data Analytics Intern - People Analytics",
-    "company": "Tesla",
-    "location": "Austin, TX",
-    "url": "https://www.tesla.com/careers/search/job/274560",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1782177528",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Data Science Intern",
     "company": "Capital One",
     "location": "Cambridge, MA, SF, San Jose, CA, Plano, TX, McLean, VA, Richmond, VA, Chicago, IL, NYC",
@@ -231,45 +244,6 @@
     "date_posted": "1784505600",
     "score": 37,
     "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Campus Data Engineer Intern",
-    "company": "Jump Trading",
-    "location": "Chicago, IL",
-    "url": "https://boards.greenhouse.io/embed/job_app?token=8002998",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1783549629",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Quantitative Analytics Intern - Multiple Teams",
-    "company": "Wells Fargo",
-    "location": "Charlotte, NC",
-    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1786579200",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Research Data Scientist, YouTube Search and Viewer AI",
-    "company": "Google",
-    "location": "San Bruno, CA",
-    "url": "https://www.linkedin.com/jobs/view/4456271158",
-    "source": "Linkedin",
-    "is_sponsor": true,
-    "description": "nan",
-    "date_posted": "2026-08-21",
-    "score": 37,
-    "url_verified": true,
     "is_new": true
   },
   {
@@ -286,6 +260,19 @@
     "is_new": true
   },
   {
+    "title": "Campus Data Engineer Intern",
+    "company": "Jump Trading",
+    "location": "Chicago, IL",
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8002998",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1783549629",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
     "company": "Deloitte",
     "location": "Arlington, VA",
@@ -296,6 +283,19 @@
     "date_posted": "1785191053",
     "score": 37,
     "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Quantitative Analytics Intern - Multiple Teams",
+    "company": "Wells Fargo",
+    "location": "Charlotte, NC",
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1786579200",
+    "score": 37,
+    "url_verified": false,
     "is_new": true
   },
   {
@@ -325,14 +325,14 @@
     "is_new": true
   },
   {
-    "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
-    "company": "Celonis",
-    "location": "Raleigh, NC",
-    "url": "https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003",
+    "title": "Data Science and Advanced Analytics Intern",
+    "company": "AARP",
+    "location": "Washington, DC",
+    "url": "https://careers.aarp.org/jobs/7437?icims=1",
     "source": "SimplifyJobs",
     "is_sponsor": false,
     "description": "",
-    "date_posted": "1783319363",
+    "date_posted": "1786687015",
     "score": 32,
     "url_verified": true,
     "is_new": true
@@ -348,19 +348,6 @@
     "date_posted": "1787184000",
     "score": 32,
     "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Data Science and Advanced Analytics Intern",
-    "company": "AARP",
-    "location": "Washington, DC",
-    "url": "https://careers.aarp.org/jobs/7437?icims=1",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1786687015",
-    "score": 32,
-    "url_verified": true,
     "is_new": true
   },
   {
@@ -403,19 +390,6 @@
     "is_new": true
   },
   {
-    "title": "Physics Engine Development Intern - Physics Engine Development Engineer - Optimus",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/257048",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780823238",
-    "score": 30,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Electronic Design Engineer Intern - Optimus",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -424,6 +398,32 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1780823397",
+    "score": 30,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/253454",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780841935",
+    "score": 30,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Physics Engine Development Intern - Physics Engine Development Engineer - Optimus",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/257048",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780823238",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -455,19 +455,6 @@
     "is_new": true
   },
   {
-    "title": "Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/253454",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780841935",
-    "score": 30,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Data Scientist-Build Analytics",
     "company": "AT&T",
     "location": "Chandler, AZ",
@@ -494,14 +481,27 @@
     "is_new": true
   },
   {
-    "title": "Summer Analyst Intern - Americas - AWM Product Management",
+    "title": "Summer Associate Intern - Multiple Teams",
     "company": "Goldman Sachs",
     "location": "NYC",
-    "url": "https://higher.gs.com/roles/182389?type=students",
+    "url": "https://higher.gs.com/roles/171566?type=students",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1787172277",
+    "date_posted": "1786767953",
+    "score": 27,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+    "company": "Goldman Sachs",
+    "location": "West Palm Beach, FL",
+    "url": "https://higher.gs.com/roles/181628?type=students",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1786767935",
     "score": 27,
     "url_verified": true,
     "is_new": true
@@ -529,6 +529,19 @@
     "description": "",
     "date_posted": "1786401418",
     "score": 27,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Business Intelligence Intern (Summer 2027)",
+    "company": "Love's Travel Stops",
+    "location": "Oklahoma City, OK",
+    "url": "https://www.linkedin.com/jobs/view/4452524493",
+    "source": "Linkedin",
+    "is_sponsor": false,
+    "description": "nan",
+    "date_posted": "2026-08-18",
+    "score": 25,
     "url_verified": true,
     "is_new": true
   },
@@ -585,27 +598,14 @@
     "is_new": true
   },
   {
-    "title": "Service Engineering Intern - Product Support Engineer - Service Engineering",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/271630",
+    "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
+    "company": "Netflix",
+    "location": "LA, Los Gatos, CA",
+    "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1780755075",
-    "score": 22,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/271539",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780755195",
+    "date_posted": "1777338403",
     "score": 22,
     "url_verified": true,
     "is_new": true
@@ -624,19 +624,6 @@
     "is_new": true
   },
   {
-    "title": "AI Software Engineering Intern",
-    "company": "Intel",
-    "location": "Hillsboro, OR, Folsom, CA",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1777500475",
-    "score": 22,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Software Engineering Intern - Software Engineering - Service Engineering",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -645,6 +632,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1780794712",
+    "score": 22,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Service Engineering Intern - Product Support Engineer - Service Engineering",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/271630",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780755075",
     "score": 22,
     "url_verified": true,
     "is_new": true
