@@ -1,18 +1,5 @@
 [
   {
-    "title": "Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk",
-    "company": "American Express",
-    "location": "NYC",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1785737469",
-    "score": 42,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Data Engineer Summer Analyst - Blackstone Technology & Innovations",
     "company": "Blackstone",
     "location": "Miami, FL",
@@ -39,16 +26,29 @@
     "is_new": true
   },
   {
-    "title": "2027 Data Science Summer Analyst",
-    "company": "Blackstone",
-    "location": "New York, NY",
-    "url": "https://www.linkedin.com/jobs/view/4456275195",
-    "source": "Linkedin",
+    "title": "Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk",
+    "company": "American Express",
+    "location": "NYC",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984",
+    "source": "SimplifyJobs",
     "is_sponsor": true,
-    "description": "nan",
-    "date_posted": "2026-08-21",
+    "description": "",
+    "date_posted": "1785737469",
     "score": 42,
-    "url_verified": true,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Data Scientist Intern - Summer 2027",
+    "company": "Mastercard",
+    "location": "O'Fallon, MO",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284869",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1787875200",
+    "score": 42,
+    "url_verified": false,
     "is_new": true
   },
   {
@@ -78,14 +78,14 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Intern - AI Engineer - Tesla AI",
+    "title": "Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer",
     "company": "Tesla",
     "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/275331",
+    "url": "https://www.tesla.com/careers/search/job/278249",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1782944200",
+    "date_posted": "1785276975",
     "score": 41,
     "url_verified": true,
     "is_new": true
@@ -104,14 +104,14 @@
     "is_new": true
   },
   {
-    "title": "Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer",
+    "title": "Machine Learning Intern - AI Engineer - Tesla AI",
     "company": "Tesla",
     "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/278249",
+    "url": "https://www.tesla.com/careers/search/job/275331",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1785276975",
+    "date_posted": "1782944200",
     "score": 41,
     "url_verified": true,
     "is_new": true
@@ -130,19 +130,6 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "location": "NYC",
-    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8384490002",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1783377280",
-    "score": 41,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Machine Learning/AI Infrastructure Engineering Intern - AI Platform",
     "company": "Netflix",
     "location": "Los Gatos, CA",
@@ -151,19 +138,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1787780500",
-    "score": 41,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Machine Learning and Artificial Intelligence Undergraduate Intern",
-    "company": "Apple",
-    "location": "United States",
-    "url": "https://jobs.apple.com/en-us/details/200664780",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1779430059",
     "score": 41,
     "url_verified": true,
     "is_new": true
@@ -182,6 +156,32 @@
     "is_new": true
   },
   {
+    "title": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8384490002",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1783377280",
+    "score": 41,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Machine Learning and Artificial Intelligence Undergraduate Intern",
+    "company": "Apple",
+    "location": "United States",
+    "url": "https://jobs.apple.com/en-us/details/200664780",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1779430059",
+    "score": 41,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Data Analyst Intern",
     "company": "Oracle",
     "location": "Nashville, TN",
@@ -195,19 +195,6 @@
     "is_new": false
   },
   {
-    "title": "Undergraduate Intern - Strategy & Analytics",
-    "company": "American Express",
-    "location": "Phoenix, AZ",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1785737465",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Data Engineer Intern - Applications Engineering",
     "company": "Tesla",
     "location": "Fremont, CA",
@@ -218,6 +205,19 @@
     "date_posted": "1782781912",
     "score": 37,
     "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Undergraduate Intern - Strategy & Analytics",
+    "company": "American Express",
+    "location": "Phoenix, AZ",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1785737465",
+    "score": 37,
+    "url_verified": false,
     "is_new": true
   },
   {
@@ -260,19 +260,6 @@
     "is_new": true
   },
   {
-    "title": "Data Science Intern",
-    "company": "Capital One",
-    "location": "Cambridge, MA, SF, San Jose, CA, Plano, TX, McLean, VA, Richmond, VA, Chicago, IL, NYC",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1784505600",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Campus Data Engineer Intern",
     "company": "Jump Trading",
     "location": "Chicago, IL",
@@ -286,27 +273,14 @@
     "is_new": true
   },
   {
-    "title": "Data Engineering Intern",
-    "company": "Jane Street",
-    "location": "NYC",
-    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002",
+    "title": "Data Science Intern",
+    "company": "Capital One",
+    "location": "Cambridge, MA, SF, San Jose, CA, Plano, TX, McLean, VA, Richmond, VA, Chicago, IL, NYC",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1783992270",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Operations & Analytics Co-op",
-    "company": "Johnson & Johnson",
-    "location": "Somerset County, NJ, Hopewell Township, NJ",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-091978",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1787529600",
+    "date_posted": "1784505600",
     "score": 37,
     "url_verified": false,
     "is_new": true
@@ -325,14 +299,14 @@
     "is_new": true
   },
   {
-    "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
-    "company": "Deloitte",
-    "location": "Arlington, VA",
-    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259",
+    "title": "Data Engineering Intern",
+    "company": "Jane Street",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1785191053",
+    "date_posted": "1783992270",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -351,6 +325,19 @@
     "is_new": true
   },
   {
+    "title": "Data Engineer Intern",
+    "company": "Mastercard",
+    "location": "O'Fallon, MO",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284901",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1787875200",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
     "title": "Strategic Insights & Analytics Co-op",
     "company": "Johnson & Johnson",
     "location": "Horsham, PA, Hopewell Township, NJ",
@@ -361,6 +348,19 @@
     "date_posted": "1787616000",
     "score": 37,
     "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
+    "company": "Deloitte",
+    "location": "Arlington, VA",
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1785191053",
+    "score": 37,
+    "url_verified": true,
     "is_new": true
   },
   {
@@ -384,7 +384,33 @@
     "source": "Linkedin",
     "is_sponsor": false,
     "description": "",
-    "date_posted": "nan",
+    "date_posted": "2026-08-27",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Data Operations & Analytics Co-op",
+    "company": "Johnson & Johnson",
+    "location": "Somerset County, NJ, Hopewell Township, NJ",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-091978",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1787529600",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Data Scientist & AI ELH - RTP 2027",
+    "company": "IBM",
+    "location": "Research Park, CA",
+    "url": "https://www.linkedin.com/jobs/view/4456534045",
+    "source": "Linkedin",
+    "is_sponsor": true,
+    "description": "nan",
+    "date_posted": "2026-08-24",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -429,6 +455,19 @@
     "is_new": true
   },
   {
+    "title": "Data Science & Analytics Intern",
+    "company": "Phoenix Contact",
+    "location": "Middletown, PA",
+    "url": "https://job-boards.greenhouse.io/phoenixcontact/jobs/7964865003",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1787848798",
+    "score": 32,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Data Science and Advanced Analytics Intern",
     "company": "AARP",
     "location": "Washington, DC",
@@ -437,19 +476,6 @@
     "is_sponsor": false,
     "description": "",
     "date_posted": "1786687015",
-    "score": 32,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Scientist Intern - Data Science - System Performance Evaluation",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "location": "Laurel, MD",
-    "url": "https://careers.jhuapl.edu/jobs/59800?icims=1",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1787681484",
     "score": 32,
     "url_verified": true,
     "is_new": true
@@ -468,6 +494,32 @@
     "is_new": true
   },
   {
+    "title": "Data Engineering & Analytics Intern",
+    "company": "Leidos",
+    "location": "Shiloh, IL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00190672-1",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1787788800",
+    "score": 32,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Data Scientist Intern - Data Science - System Performance Evaluation",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "location": "Laurel, MD",
+    "url": "https://careers.jhuapl.edu/jobs/59800?icims=1",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1787681484",
+    "score": 32,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Data Science and Analytics Part-Time Student - Data and Analytics",
     "company": "John Deere",
     "location": "Austin, TX",
@@ -476,19 +528,6 @@
     "is_sponsor": false,
     "description": "",
     "date_posted": "1785910545",
-    "score": 32,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Science & Analytics Intern",
-    "company": "Phoenix Contact",
-    "location": "Middletown, PA",
-    "url": "https://job-boards.greenhouse.io/phoenixcontact/jobs/7964865003",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1787848798",
     "score": 32,
     "url_verified": true,
     "is_new": true
@@ -546,19 +585,6 @@
     "is_new": true
   },
   {
-    "title": "Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/253454",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780841935",
-    "score": 30,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Embedded Software Intern - Embedded Software Engineer - Optimus",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -585,6 +611,32 @@
     "is_new": true
   },
   {
+    "title": "Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/253454",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780841935",
+    "score": 30,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Optimus Technician Intern - Tesla AI",
+    "company": "Tesla",
+    "location": "Fremont, CA",
+    "url": "https://www.tesla.com/careers/search/job/281634",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1787952728",
+    "score": 30,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Optoelectronics Device Engineer Intern",
     "company": "Microsoft",
     "location": "Cambridge, UK",
@@ -594,58 +646,6 @@
     "description": "",
     "date_posted": "1786745384",
     "score": 30,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Software Engineer Summer Analyst - Blackstone Technology & Innovations",
-    "company": "Blackstone",
-    "location": "Miami, FL",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1787270400",
-    "score": 27,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Summer Analyst Intern - Americas - AWM Product Management",
-    "company": "Goldman Sachs",
-    "location": "NYC",
-    "url": "https://higher.gs.com/roles/182389?type=students",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1787172277",
-    "score": 27,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Summer Associate Intern",
-    "company": "Goldman Sachs",
-    "location": "NYC",
-    "url": "https://higher.gs.com/roles/171552?type=students",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1786767953",
-    "score": 27,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Management Solutions Summer Scholar Intern - Government & Public Services - Data Management Solutions",
-    "company": "Deloitte",
-    "location": "Rosslyn, Arlington, VA",
-    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Data-Management-Solutions/362366",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1786401418",
-    "score": 27,
     "url_verified": true,
     "is_new": true
   }
