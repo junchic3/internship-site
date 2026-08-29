@@ -117,27 +117,14 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Scientist Intern - AI",
-    "company": "Netflix",
-    "location": "Los Gatos, CA",
-    "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+    "title": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8384490002",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1787780500",
-    "score": 41,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Machine Learning/AI Infrastructure Engineering Intern - AI Platform",
-    "company": "Netflix",
-    "location": "Los Gatos, CA",
-    "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1787780500",
+    "date_posted": "1783377280",
     "score": 41,
     "url_verified": true,
     "is_new": true
@@ -156,14 +143,27 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "location": "NYC",
-    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8384490002",
+    "title": "Machine Learning/AI Infrastructure Engineering Intern - AI Platform",
+    "company": "Netflix",
+    "location": "Los Gatos, CA",
+    "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1783377280",
+    "date_posted": "1787780500",
+    "score": 41,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Machine Learning Scientist Intern - AI",
+    "company": "Netflix",
+    "location": "Los Gatos, CA",
+    "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1787780500",
     "score": 41,
     "url_verified": true,
     "is_new": true
@@ -195,19 +195,6 @@
     "is_new": false
   },
   {
-    "title": "Data Engineer Intern - Applications Engineering",
-    "company": "Tesla",
-    "location": "Fremont, CA",
-    "url": "https://www.tesla.com/careers/search/job/272928",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1782781912",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Undergraduate Intern - Strategy & Analytics",
     "company": "American Express",
     "location": "Phoenix, AZ",
@@ -229,6 +216,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1782177528",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Data Engineer Intern - Applications Engineering",
+    "company": "Tesla",
+    "location": "Fremont, CA",
+    "url": "https://www.tesla.com/careers/search/job/272928",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1782781912",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -273,6 +273,19 @@
     "is_new": true
   },
   {
+    "title": "Data Engineering Intern",
+    "company": "Jane Street",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1783992270",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Data Science Intern",
     "company": "Capital One",
     "location": "Cambridge, MA, SF, San Jose, CA, Plano, TX, McLean, VA, Richmond, VA, Chicago, IL, NYC",
@@ -281,6 +294,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1784505600",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Data Operations & Analytics Co-op",
+    "company": "Johnson & Johnson",
+    "location": "Somerset County, NJ, Hopewell Township, NJ",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-091978",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1787529600",
     "score": 37,
     "url_verified": false,
     "is_new": true
@@ -299,16 +325,29 @@
     "is_new": true
   },
   {
-    "title": "Data Engineering Intern",
-    "company": "Jane Street",
-    "location": "NYC",
-    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002",
+    "title": "Strategic Insights & Analytics Co-op",
+    "company": "Johnson & Johnson",
+    "location": "Horsham, PA, Hopewell Township, NJ",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insights---Analytics-Co-Op_R-095717",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1783992270",
+    "date_posted": "1787616000",
     "score": 37,
-    "url_verified": true,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Data Science Co-op - Spring 2027",
+    "company": "Johnson & Johnson",
+    "location": "Cincinnati, OH",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Spring-2027_R-095743",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1787702400",
+    "score": 37,
+    "url_verified": false,
     "is_new": true
   },
   {
@@ -338,19 +377,6 @@
     "is_new": true
   },
   {
-    "title": "Strategic Insights & Analytics Co-op",
-    "company": "Johnson & Johnson",
-    "location": "Horsham, PA, Hopewell Township, NJ",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insights---Analytics-Co-Op_R-095717",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1787616000",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
     "company": "Deloitte",
     "location": "Arlington, VA",
@@ -364,53 +390,14 @@
     "is_new": true
   },
   {
-    "title": "Data Science Co-op - Spring 2027",
-    "company": "Johnson & Johnson",
-    "location": "Cincinnati, OH",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Spring-2027_R-095743",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1787702400",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Data Science & Analytics Intern - Fall 2026",
     "company": "Phoenix Contact USA",
     "location": "Harrisburg, PA",
     "url": "https://www.linkedin.com/jobs/view/4457799585",
     "source": "Linkedin",
     "is_sponsor": false,
-    "description": "",
-    "date_posted": "2026-08-27",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Operations & Analytics Co-op",
-    "company": "Johnson & Johnson",
-    "location": "Somerset County, NJ, Hopewell Township, NJ",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-091978",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1787529600",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Data Scientist & AI ELH - RTP 2027",
-    "company": "IBM",
-    "location": "Research Park, CA",
-    "url": "https://www.linkedin.com/jobs/view/4456534045",
-    "source": "Linkedin",
-    "is_sponsor": true,
     "description": "nan",
-    "date_posted": "2026-08-24",
+    "date_posted": "2026-08-27",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -481,6 +468,19 @@
     "is_new": true
   },
   {
+    "title": "Data Scientist Intern - Data Science - System Performance Evaluation",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "location": "Laurel, MD",
+    "url": "https://careers.jhuapl.edu/jobs/59800?icims=1",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1787681484",
+    "score": 32,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Data Science Intern - Analytics & Modeling Program",
     "company": "Fannie Mae",
     "location": "Washington, DC",
@@ -504,19 +504,6 @@
     "date_posted": "1787788800",
     "score": 32,
     "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Data Scientist Intern - Data Science - System Performance Evaluation",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "location": "Laurel, MD",
-    "url": "https://careers.jhuapl.edu/jobs/59800?icims=1",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1787681484",
-    "score": 32,
-    "url_verified": true,
     "is_new": true
   },
   {
@@ -546,19 +533,6 @@
     "is_new": true
   },
   {
-    "title": "AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/263759",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1780812967",
-    "score": 30,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Physics Engine Development Intern - Physics Engine Development Engineer - Optimus",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -567,6 +541,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1780823238",
+    "score": 30,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/263759",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1780812967",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -585,14 +572,14 @@
     "is_new": true
   },
   {
-    "title": "Embedded Software Intern - Embedded Software Engineer - Optimus",
+    "title": "Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus",
     "company": "Tesla",
     "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/273272",
+    "url": "https://www.tesla.com/careers/search/job/253454",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1781042865",
+    "date_posted": "1780841935",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -611,14 +598,14 @@
     "is_new": true
   },
   {
-    "title": "Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus",
+    "title": "Embedded Software Intern - Embedded Software Engineer - Optimus",
     "company": "Tesla",
     "location": "Palo Alto, CA",
-    "url": "https://www.tesla.com/careers/search/job/253454",
+    "url": "https://www.tesla.com/careers/search/job/273272",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1780841935",
+    "date_posted": "1781042865",
     "score": 30,
     "url_verified": true,
     "is_new": true
@@ -647,6 +634,19 @@
     "date_posted": "1786745384",
     "score": 30,
     "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Software Engineer Summer Analyst - Blackstone Technology & Innovations",
+    "company": "Blackstone",
+    "location": "Miami, FL",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1787270400",
+    "score": 27,
+    "url_verified": false,
     "is_new": true
   }
 ]
