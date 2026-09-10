@@ -39,32 +39,6 @@
     "is_new": true
   },
   {
-    "title": "Business Analyst Intern - Summer 2027",
-    "company": "Capital One",
-    "location": "New York, NY",
-    "url": "https://www.linkedin.com/jobs/view/4453624303",
-    "source": "Linkedin",
-    "is_sponsor": true,
-    "description": "nan",
-    "date_posted": "2026-09-03",
-    "score": 42,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data & Analytics Technology Consulting Intern - Summer 2027",
-    "company": "PwC",
-    "location": "New York, NY",
-    "url": "https://www.linkedin.com/jobs/view/4463301604",
-    "source": "Linkedin",
-    "is_sponsor": true,
-    "description": "nan",
-    "date_posted": "2026-09-04",
-    "score": 42,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Data Scientist Intern - Summer 2027",
     "company": "Mastercard",
     "location": "O'Fallon, MO",
@@ -75,6 +49,19 @@
     "date_posted": "1787875200",
     "score": 42,
     "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Data & Analytics Technology Consulting Intern - Summer 2027",
+    "company": "PwC",
+    "location": "Los Angeles, CA",
+    "url": "https://www.linkedin.com/jobs/view/4463194688",
+    "source": "Linkedin",
+    "is_sponsor": true,
+    "description": "nan",
+    "date_posted": "2026-09-04",
+    "score": 42,
+    "url_verified": true,
     "is_new": true
   },
   {
@@ -117,16 +104,16 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Engineer Intern",
-    "company": "Adobe",
-    "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+    "title": "Machine Learning Engineer",
+    "company": "Jane Street",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8611307002",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1788134400",
+    "date_posted": "1783377279",
     "score": 41,
-    "url_verified": false,
+    "url_verified": true,
     "is_new": true
   },
   {
@@ -138,6 +125,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1787780500",
+    "score": 41,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Lyft",
+    "location": "San Francisco County, CA",
+    "url": "https://www.linkedin.com/jobs/view/4463615189",
+    "source": "Linkedin",
+    "is_sponsor": true,
+    "description": "nan",
+    "date_posted": "2026-09-04",
     "score": 41,
     "url_verified": true,
     "is_new": true
@@ -156,16 +156,16 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Engineer",
-    "company": "Jane Street",
-    "location": "NYC",
-    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8611307002",
+    "title": "Machine Learning Engineer Intern",
+    "company": "Adobe",
+    "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1783377279",
+    "date_posted": "1788134400",
     "score": 41,
-    "url_verified": true,
+    "url_verified": false,
     "is_new": true
   },
   {
@@ -221,19 +221,6 @@
     "is_new": true
   },
   {
-    "title": "Data Analyst Intern",
-    "company": "Oracle",
-    "location": "Nashville, TN",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326682",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1770938326",
-    "score": 37,
-    "url_verified": false,
-    "is_new": false
-  },
-  {
     "title": "Data Analytics Intern - People Analytics",
     "company": "Tesla",
     "location": "Austin, TX",
@@ -260,14 +247,14 @@
     "is_new": true
   },
   {
-    "title": "Campus Data Engineer Intern",
-    "company": "Jump Trading",
-    "location": "Chicago, IL",
-    "url": "https://boards.greenhouse.io/embed/job_app?token=8002998",
+    "title": "Data Engineering Intern",
+    "company": "Jane Street",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1783549629",
+    "date_posted": "1783992270",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -351,58 +338,6 @@
     "is_new": true
   },
   {
-    "title": "Data Engineering Intern",
-    "company": "Jane Street",
-    "location": "NYC",
-    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1783992270",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Science Co-op - Spring 2027",
-    "company": "Johnson & Johnson",
-    "location": "Cincinnati, OH",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Spring-2027_R-095743",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1787702400",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Strategic Insights & Analytics Co-op",
-    "company": "Johnson & Johnson",
-    "location": "Horsham, PA, Hopewell Township, NJ",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insights---Analytics-Co-Op_R-095717",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1787616000",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Data Scientist Intern",
-    "company": "Microsoft",
-    "location": "Redmond, WA",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1788302232",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Data Scientist Intern - University",
     "company": "Booz Allen",
     "location": "San Diego, CA",
@@ -411,19 +346,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1787788800",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Data Engineer Intern",
-    "company": "Mastercard",
-    "location": "O'Fallon, MO",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284901",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1787875200",
     "score": 37,
     "url_verified": false,
     "is_new": true
@@ -442,6 +364,19 @@
     "is_new": true
   },
   {
+    "title": "Strategic Insights & Analytics Co-op",
+    "company": "Johnson & Johnson",
+    "location": "Horsham, PA, Hopewell Township, NJ",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insights---Analytics-Co-Op_R-095717",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1787616000",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
     "title": "Medical Data Scientist Intern",
     "company": "Merck",
     "location": "North Wales, PA",
@@ -455,6 +390,32 @@
     "is_new": true
   },
   {
+    "title": "Data Engineer Intern",
+    "company": "Mastercard",
+    "location": "O'Fallon, MO",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284901",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1787875200",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Data Scientist Intern",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1788302232",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Data Scientist Intern - Nonclinical Drug Safety",
     "company": "Merck",
     "location": "Boston, MA",
@@ -465,6 +426,32 @@
     "date_posted": "1788825600",
     "score": 37,
     "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Data Science Co-op - Spring 2027",
+    "company": "Johnson & Johnson",
+    "location": "Cincinnati, OH",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Spring-2027_R-095743",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1787702400",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Campus Data Engineer Intern",
+    "company": "Jump Trading",
+    "location": "Chicago, IL",
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8002998",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1783549629",
+    "score": 37,
+    "url_verified": true,
     "is_new": true
   },
   {
@@ -489,6 +476,19 @@
     "is_sponsor": false,
     "description": "",
     "date_posted": "1788134400",
+    "score": 35,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Business Intelligence/Data Analytics Intern",
+    "company": "MKS Instruments",
+    "location": "Andover, MA",
+    "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1787702400",
     "score": 35,
     "url_verified": false,
     "is_new": true
@@ -533,19 +533,6 @@
     "is_new": true
   },
   {
-    "title": "Data Scientist Intern - Data Science - System Performance Evaluation",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "location": "Laurel, MD",
-    "url": "https://careers.jhuapl.edu/jobs/59800?icims=1",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1787681484",
-    "score": 32,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Data Science and Advanced Analytics Intern",
     "company": "AARP",
     "location": "Washington, DC",
@@ -556,6 +543,19 @@
     "date_posted": "1786687015",
     "score": 32,
     "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Talent Acquisition Data Engineering & Analytics Intern",
+    "company": "Solidigm",
+    "location": "Rancho Cordova, CA",
+    "url": "https://jobs.smartrecruiters.com/Solidigm/744000148610610",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1788991457",
+    "score": 32,
+    "url_verified": false,
     "is_new": true
   },
   {
@@ -572,32 +572,6 @@
     "is_new": true
   },
   {
-    "title": "Data Intern - Data Science - Data Analytics",
-    "company": "BlueCross BlueShield of Nebraska",
-    "location": "Omaha, NE",
-    "url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1788134400",
-    "score": 32,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Data Science/Data Engineer Intern",
-    "company": "Hadrian",
-    "location": "LA, Torrance, CA",
-    "url": "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1788407575",
-    "score": 32,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Data Engineering & Analytics Intern",
     "company": "Leidos",
     "location": "Shiloh, IL",
@@ -606,19 +580,6 @@
     "is_sponsor": false,
     "description": "",
     "date_posted": "1787788800",
-    "score": 32,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Data Science Intern - Enterprise Reporting & Analytics",
-    "company": "Momentive",
-    "location": "Niskayuna, NY",
-    "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1788393600",
     "score": 32,
     "url_verified": false,
     "is_new": true
@@ -637,16 +598,55 @@
     "is_new": true
   },
   {
-    "title": "Data Analytics Intern - Data Science - Applied Math",
-    "company": "Edison International",
-    "location": "Pomona, CA, Rosemead, CA",
-    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors",
+    "title": "Data Scientist Intern - Data Science - System Performance Evaluation",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "location": "Laurel, MD",
+    "url": "https://careers.jhuapl.edu/jobs/59800?icims=1",
     "source": "SimplifyJobs",
     "is_sponsor": false,
     "description": "",
-    "date_posted": "1788253876",
+    "date_posted": "1787681484",
     "score": 32,
     "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Data Science/Data Engineer Intern",
+    "company": "Hadrian",
+    "location": "LA, Torrance, CA",
+    "url": "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1788407575",
+    "score": 32,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Data Science & Analytics Intern",
+    "company": "The Home Depot",
+    "location": "Atlanta, GA",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1788134400",
+    "score": 32,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Data Intern - Data Science - Data Analytics",
+    "company": "BlueCross BlueShield of Nebraska",
+    "location": "Omaha, NE",
+    "url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1788134400",
+    "score": 32,
+    "url_verified": false,
     "is_new": true
   }
 ]
