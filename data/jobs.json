@@ -1,5 +1,18 @@
 [
   {
+    "title": "Data Scientist Intern - Product Analytics",
+    "company": "Meta",
+    "location": "Menlo Park, CA, NYC",
+    "url": "https://www.metacareers.com/jobs/1633096478817942",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1791325529",
+    "score": 52,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Business Analytics Summer Scholar Intern - Government & Public Services - Business Analytics",
     "company": "Deloitte",
     "location": "Sacramento, CA",
@@ -91,19 +104,6 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Engineer Intern",
-    "company": "Adobe",
-    "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1788134400",
-    "score": 41,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Machine Learning Intern - Autonomous Vehicles - Software Validation",
     "company": "General Motors",
     "location": "Sunnyvale, CA",
@@ -112,6 +112,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1791158400",
+    "score": 41,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Machine Learning Engineer Intern",
+    "company": "Adobe",
+    "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1788134400",
     "score": 41,
     "url_verified": false,
     "is_new": true
@@ -130,19 +143,6 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "location": "NYC",
-    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8384490002",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1783377280",
-    "score": 41,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Machine Learning Engineer",
     "company": "Jane Street",
     "location": "NYC",
@@ -151,6 +151,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1783377279",
+    "score": 41,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8384490002",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1783377280",
     "score": 41,
     "url_verified": true,
     "is_new": true
@@ -273,19 +286,6 @@
     "is_new": true
   },
   {
-    "title": "Data Engineering Intern",
-    "company": "Jane Street",
-    "location": "NYC",
-    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1783992270",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
     "title": "Data Engineer Intern - Fleet Data - Self-Driving",
     "company": "Tesla",
     "location": "Palo Alto, CA",
@@ -294,6 +294,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1789078956",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Data Engineering Intern",
+    "company": "Jane Street",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1783992270",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -364,16 +377,16 @@
     "is_new": true
   },
   {
-    "title": "Data Scientist Intern - Nonclinical Drug Safety",
-    "company": "Merck",
-    "location": "Boston, MA",
-    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
+    "title": "Data Scientist Intern - Product",
+    "company": "Google",
+    "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/119184035237765830",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1788825600",
+    "date_posted": "1789417463",
     "score": 37,
-    "url_verified": false,
+    "url_verified": true,
     "is_new": true
   },
   {
@@ -403,71 +416,6 @@
     "is_new": true
   },
   {
-    "title": "Data Scientist Intern - Product",
-    "company": "Google",
-    "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/119184035237765830",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1789417463",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Analytics and Insights Intern",
-    "company": "Merck",
-    "location": "Rahway, NJ",
-    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Data-Analytics-and-Insights---Intern_R413657",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1789084800",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
-    "company": "Deloitte",
-    "location": "Arlington, VA",
-    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1785191053",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Applied Data Scientist Intern",
-    "company": "Capital One",
-    "location": "Cambridge, MA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Cambridge-MA/Part-Time-Applied-Data-Scientist_R1000592",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1789084800",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Race Strategy & Analytics Intern - IndyCar",
-    "company": "General Motors",
-    "location": "Concord, NC",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1789344000",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Data Science Co-op - Spring 2027",
     "company": "Johnson & Johnson",
     "location": "Cincinnati, OH",
@@ -476,6 +424,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1787702400",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Quality Assurance Research Clinical Quality, Analytics & AI Co-op",
+    "company": "Merck",
+    "location": "Upper Gwynedd Township, PA, Rahway, NJ",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---QA-Research-Clinical-Quality--Analytics---AI---Co-Op_R414840",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1789084800",
     "score": 37,
     "url_verified": false,
     "is_new": true
@@ -494,19 +455,6 @@
     "is_new": true
   },
   {
-    "title": "Quality Assurance Research Clinical Quality, Analytics & AI Co-op",
-    "company": "Merck",
-    "location": "Upper Gwynedd Township, PA, Rahway, NJ",
-    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---QA-Research-Clinical-Quality--Analytics---AI---Co-Op_R414840",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1789084800",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Data Analyst Intern",
     "company": "Stripe",
     "location": "Seattle, WA, South SF, NYC",
@@ -517,6 +465,45 @@
     "date_posted": "1790893241",
     "score": 37,
     "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "Race Strategy & Analytics Intern - IndyCar",
+    "company": "General Motors",
+    "location": "Concord, NC",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1789344000",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
+    "company": "Deloitte",
+    "location": "Arlington, VA",
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1785191053",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+    "company": "General Motors",
+    "location": "Sunnyvale, CA",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1790812800",
+    "score": 37,
+    "url_verified": false,
     "is_new": true
   },
   {
@@ -533,6 +520,32 @@
     "is_new": true
   },
   {
+    "title": "Data Analytics and Insights Intern",
+    "company": "Merck",
+    "location": "Rahway, NJ",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Data-Analytics-and-Insights---Intern_R413657",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1789084800",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Data Scientist Intern - Nonclinical Drug Safety",
+    "company": "Merck",
+    "location": "Boston, MA",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1788825600",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
     "title": "Production Data Analyst Co-op - Manufacturing",
     "company": "Johnson & Johnson",
     "location": "Danvers, MA",
@@ -541,19 +554,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1789689600",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
-    "company": "General Motors",
-    "location": "Sunnyvale, CA",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1790812800",
     "score": 37,
     "url_verified": false,
     "is_new": true
@@ -611,6 +611,19 @@
     "is_new": true
   },
   {
+    "title": "PLM Business Intelligence & Analytics Intern",
+    "company": "KLA",
+    "location": "Ann Arbor, MI",
+    "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1791244800",
+    "score": 35,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
     "title": "Business Intelligence Analyst/Data Engineering Intern",
     "company": "FC Industries",
     "location": "Dayton, OH",
@@ -621,19 +634,6 @@
     "date_posted": "1786062280",
     "score": 35,
     "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Talent Acquisition Data Engineering & Analytics Intern",
-    "company": "Solidigm",
-    "location": "Rancho Cordova, CA",
-    "url": "https://jobs.smartrecruiters.com/Solidigm/744000148610610",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1788991457",
-    "score": 32,
-    "url_verified": false,
     "is_new": true
   },
   {
