@@ -39,19 +39,6 @@
     "is_new": true
   },
   {
-    "title": "Summer Intern - AI & Hardware Analytics - Adpt",
-    "company": "General Motors",
-    "location": "Milford, MI, Warren, MI",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1791158400",
-    "score": 42,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Data Science Co-op - Summer 2027",
     "company": "Johnson & Johnson",
     "location": "Cincinnati, OH",
@@ -65,14 +52,14 @@
     "is_new": true
   },
   {
-    "title": "2027 Summer Games Data Scientist Intern",
-    "company": "Booz Allen",
-    "location": "Lexington, MA",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275",
+    "title": "Summer Intern - AI & Hardware Analytics - Adpt",
+    "company": "General Motors",
+    "location": "Milford, MI, Warren, MI",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1792972800",
+    "date_posted": "1791158400",
     "score": 42,
     "url_verified": false,
     "is_new": true
@@ -91,6 +78,19 @@
     "is_new": true
   },
   {
+    "title": "2027 Summer Games Data Scientist Intern",
+    "company": "Booz Allen",
+    "location": "Lexington, MA",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1792972800",
+    "score": 42,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
     "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
     "company": "Lyft",
     "location": "New York, NY, USA",
@@ -104,19 +104,6 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Engineer Intern",
-    "company": "Adobe",
-    "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1788134400",
-    "score": 41,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Machine Learning Engineer Intern - AV/AI Platform",
     "company": "General Motors",
     "location": "Sunnyvale, CA",
@@ -125,6 +112,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1790899200",
+    "score": 41,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Machine Learning Engineer Intern",
+    "company": "Adobe",
+    "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1788134400",
     "score": 41,
     "url_verified": false,
     "is_new": true
@@ -182,14 +182,14 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Engineer",
-    "company": "Jane Street",
-    "location": "NYC",
-    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8611307002",
+    "title": "Machine Learning Engineer Intern",
+    "company": "Stripe",
+    "location": "Seattle, WA, SF, NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8328662",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1783377279",
+    "date_posted": "1793377168",
     "score": 41,
     "url_verified": true,
     "is_new": true
@@ -208,14 +208,14 @@
     "is_new": true
   },
   {
-    "title": "Machine Learning Engineer Intern",
-    "company": "Stripe",
-    "location": "Seattle, WA, SF, NYC",
-    "url": "https://stripe.com/jobs/search?gh_jid=8328662",
+    "title": "Machine Learning Engineer",
+    "company": "Jane Street",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8611307002",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1793377168",
+    "date_posted": "1783377279",
     "score": 41,
     "url_verified": true,
     "is_new": true
@@ -230,7 +230,7 @@
     "description": "",
     "date_posted": "1779430059",
     "score": 41,
-    "url_verified": false,
+    "url_verified": true,
     "is_new": true
   },
   {
@@ -286,19 +286,6 @@
     "is_new": true
   },
   {
-    "title": "Data Analytics Intern - US Consumer Services",
-    "company": "American Express",
-    "location": "NYC",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1788238368",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
     "title": "Data Scientist Intern - University",
     "company": "Booz Allen",
     "location": "San Diego, CA",
@@ -307,6 +294,19 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1787788800",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Data Analytics Intern - US Consumer Services",
+    "company": "American Express",
+    "location": "NYC",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1788238368",
     "score": 37,
     "url_verified": false,
     "is_new": true
@@ -338,6 +338,19 @@
     "is_new": true
   },
   {
+    "title": "Data Scientist Intern",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1788302232",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Data Science Intern - Algorithms",
     "company": "Lyft",
     "location": "NYC",
@@ -346,45 +359,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1789164504",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Business Data Scientist Intern",
-    "company": "Google",
-    "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/134577198026629830",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1789417461",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
-    "company": "General Motors",
-    "location": "Sunnyvale, CA",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1790812800",
-    "score": 37,
-    "url_verified": false,
-    "is_new": true
-  },
-  {
-    "title": "Data Analyst Intern - People Products",
-    "company": "Tesla",
-    "location": "Palo Alto, CA, Austin, TX",
-    "url": "https://www.tesla.com/careers/search/job/286085",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1791440374",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -403,14 +377,53 @@
     "is_new": true
   },
   {
-    "title": "Data Scientist Intern",
-    "company": "Microsoft",
-    "location": "Redmond, WA",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
+    "title": "Data Analyst Intern - People Products",
+    "company": "Tesla",
+    "location": "Palo Alto, CA, Austin, TX",
+    "url": "https://www.tesla.com/careers/search/job/286085",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1788302232",
+    "date_posted": "1791440374",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+    "company": "General Motors",
+    "location": "Sunnyvale, CA",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1790812800",
+    "score": 37,
+    "url_verified": false,
+    "is_new": true
+  },
+  {
+    "title": "Business Data Scientist Intern",
+    "company": "Google",
+    "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/134577198026629830",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1789417461",
+    "score": 37,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
+    "title": "People Analytics Intern",
+    "company": "Google",
+    "location": "SF, Chicago, IL, NYC, Mountain View, CA, Atlanta, GA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/81809776362562246",
+    "source": "SimplifyJobs",
+    "is_sponsor": true,
+    "description": "",
+    "date_posted": "1791814273",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -442,14 +455,14 @@
     "is_new": true
   },
   {
-    "title": "People Analytics Intern",
-    "company": "Google",
-    "location": "SF, Chicago, IL, NYC, Mountain View, CA, Atlanta, GA",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/81809776362562246",
+    "title": "Data Analyst Intern",
+    "company": "Stripe",
+    "location": "Seattle, WA, South SF, NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194291",
     "source": "SimplifyJobs",
     "is_sponsor": true,
     "description": "",
-    "date_posted": "1791814273",
+    "date_posted": "1790893241",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -476,19 +489,6 @@
     "is_sponsor": true,
     "description": "",
     "date_posted": "1791421646",
-    "score": 37,
-    "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Analyst Intern",
-    "company": "Stripe",
-    "location": "Seattle, WA, South SF, NYC",
-    "url": "https://stripe.com/jobs/search?gh_jid=8194291",
-    "source": "SimplifyJobs",
-    "is_sponsor": true,
-    "description": "",
-    "date_posted": "1790893241",
     "score": 37,
     "url_verified": true,
     "is_new": true
@@ -559,6 +559,19 @@
     "is_new": true
   },
   {
+    "title": "Data Analytics & Business Intelligence Intern",
+    "company": "Biodesix",
+    "location": "Louisville, CO",
+    "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4485182009",
+    "source": "SimplifyJobs",
+    "is_sponsor": false,
+    "description": "",
+    "date_posted": "1794243739",
+    "score": 35,
+    "url_verified": true,
+    "is_new": true
+  },
+  {
     "title": "Data Engineer Intern - Business Intelligence and Insights",
     "company": "Cambridge Investment Research",
     "location": "Fairfield, IA, Phoenix, AZ",
@@ -572,14 +585,14 @@
     "is_new": true
   },
   {
-    "title": "Data Analytics & Business Intelligence Intern",
-    "company": "Biodesix",
-    "location": "Louisville, CO",
-    "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4485182009",
+    "title": "Business Intelligence Analytics Intern",
+    "company": "Sheetz",
+    "location": "Pittsburgh, PA",
+    "url": "https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us",
     "source": "SimplifyJobs",
     "is_sponsor": false,
     "description": "",
-    "date_posted": "1794243739",
+    "date_posted": "1795019220",
     "score": 35,
     "url_verified": true,
     "is_new": true
@@ -624,29 +637,16 @@
     "is_new": true
   },
   {
-    "title": "Data Science/Data Engineer Intern",
-    "company": "Hadrian",
-    "location": "LA, Torrance, CA",
-    "url": "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true",
+    "title": "Data Science and Advanced Analytics Intern",
+    "company": "AARP",
+    "location": "Washington, DC",
+    "url": "https://careers.aarp.org/jobs/7437?icims=1",
     "source": "SimplifyJobs",
     "is_sponsor": false,
     "description": "",
-    "date_posted": "1788407575",
+    "date_posted": "1786687015",
     "score": 32,
     "url_verified": true,
-    "is_new": true
-  },
-  {
-    "title": "Data Science Co-op - Flight Analytics Platform",
-    "company": "GE Aerospace",
-    "location": "Austin, TX",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2",
-    "source": "SimplifyJobs",
-    "is_sponsor": false,
-    "description": "",
-    "date_posted": "1789948800",
-    "score": 32,
-    "url_verified": false,
     "is_new": true
   }
 ]
